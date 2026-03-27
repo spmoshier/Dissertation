@@ -10,5 +10,5 @@ Included scripts:
 6) figure_plots - code used to generate figures in the paper and supplemental information
 
 Included Supplemental Datasets:
-1) Supplemental Table 1: 
+1) Supplemental Table 1: literature review information for currently recognized bat species
 2) Supplemental Table 2: calculated niche overlap values (Schoener's D, Hellinger's I, and rank correlation (rho)) for each bat species included in our analysis
