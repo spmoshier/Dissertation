@@ -268,7 +268,7 @@ Pteropus medius,Indian Flying Fox,Potential Migrant,Potential Migrant,Migratory,
 Pteropus vampyrus,Large Flying Fox,Potential Migrant,Potential Migrant,Migratory,potential migrant (transmigratory) - Hutson 2002,https://animalia.bio/large-flying-fox?property=76,Nonmigratory,108.712584,4.41332803,108.5230958,4.931382468,61023.32352,61.02332352,159.8393734,0.401214036,0.528797076,0.39948535
 Rhinolophus lepidus,Blyth's Horseshoe Bat,Potential Migrant,Potential Migrant,Migratory,Mohan et al suggests potential migration,Mohan et al. 2022,Short-distance Migrant,101.4841592,17.45951927,93.81811375,19.41365314,838128.5133,838.1285133,103.7173316,0.363766773,0.438782832,0.224235646
 Rhinopoma cystops,Big-eyed Mouse-tailed Bat,Potential Migrant,Potential Migrant,Migratory,Wilson & Mittermeier 2019 suggest mig pattern identical to Rhinopoma microphyllum,Wilson & Mittermeier 2019,,,,,,,,,,,
-Rhinopoma muscatellum,Small Mouse-tailed Bat,Potential Migrant,Potential Migrant,Migratory,Kafaei et al 2021 talks about migration to higher latitudes in response to climate change�unclear if this is range shift type of migration or a seasonal thing,Kafaei et al 2021,,,,,,,,,,,
+Rhinopoma muscatellum,Small Mouse-tailed Bat,Potential Migrant,Potential Migrant,Migratory,Kafaei et al 2021 talks about migration to higher latitudes in response to climate changeunclear if this is range shift type of migration or a seasonal thing,Kafaei et al 2021,,,,,,,,,,,
 Falsistrellus tasmaniensis,Eastern False Pipistrelle,Potential Migrant,Potential Migrant,Migratory,May be undergoing altitudinal migration,Driessen et al. 2011 - status and conservation of bats in Tasmania,Short-distance Migrant,146.8860407,-35.87401618,147.4848731,-34.43432662,168785.5698,168.7855698,-161.311046,0.340505464,0.544868295,0.52623757
 Lasiurus semotus,Hawaiian Hoary Bat,Potential Migrant,Potential Migrant,Migratory,mention of altitudinal migration - Hsuing 2018 (cites Menard 2001 - has circumstantial evidence of at least partial migration),"Hsuing 2018, Menard 2001",,,,,,,,,,,
 Murina bicolor,Bicolored Tube-nosed Bat,Potential Migrant,Potential Migrant,Migratory,some suggestion of possible altitudinal migration - M&B2013,McGuire & Boyle 2013,,,,,,,,,,,
@@ -294,7 +294,7 @@ Myotis ciliolabrum,Western Small-footed Myotis,Potential Migrant/Nonmigratory,No
 Myotis emarginatus,Geoffroy's Myotis,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,"NM in Europe - Fleming 2003; altitudinal mig. suggested in McGuire & Boyle 2013, NM - Hutterer, nm-W&M2022",Fleming 2003; Hutterer et al. 2005; https://www.batmonitoring.org/en/species/myotis-emarginatus/; McGuire & Boyle 2013; Webber & McGuire 2022,Short-distance Migrant,15.55584836,46.2231243,3.916105204,47.77802488,901062.1362,901.0621362,96.74764128,0.326966515,0.532899909,0.493166034
 Myotis evotis,Long-eared Myotis,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,"mention of potential altitudinal migration - M&B2013, nm-W&M2022",McGuire & Boyle 2013; Webber & McGuire 2022,,,,,,,,,,,
 Myotis goudotii,Malagasy Myotis,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,"Some suggestion of possible migration/mig - Moussy et al. 2013/Weyeneth et al. 2010, NM - Bisson",Moussy 2013; Bisson et al 2009,Short-distance Migrant,44.59233041,-17.98228494,46.46790623,-19.21227602,240246.7017,240.2467017,-55.78338275,0.585708903,0.719992936,0.099131313
-Myotis septentrionalis,Northern Myotis,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,"NM, unknown in Moussy 2013; altitudinal mig. suggested in McGuire & Boyle 2013; NM - B&B2014; Poissant & Broders 2008 mentions they undergo migration�",Moussy 2013; Burns & Broder 2014; McGuire & Boyle 2013; Poissant & Broders 2008,Short-distance Migrant,-89.3402922,40.98384843,-83.51280846,40.97341462,490365.1423,490.3651423,-87.95304531,0.255430137,0.501174297,0.454275565
+Myotis septentrionalis,Northern Myotis,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,"NM, unknown in Moussy 2013; altitudinal mig. suggested in McGuire & Boyle 2013; NM - B&B2014; Poissant & Broders 2008 mentions they undergo migration",Moussy 2013; Burns & Broder 2014; McGuire & Boyle 2013; Poissant & Broders 2008,Short-distance Migrant,-89.3402922,40.98384843,-83.51280846,40.97341462,490365.1423,490.3651423,-87.95304531,0.255430137,0.501174297,0.454275565
 Myotis tricolor,Temminck's Myotis,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,NM - Bisson; MacEwan 2011 report mentions possible mig over ridges,Bisson et al. 2009; MacEwan 2011,,,,,,,,,,,
 Nyctophilus geoffroyi,Lesser Long-eared Bat,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,"Potential altitudinal migration - M&B2013, Nonmigratory",Bisson et al. 2009,Short-distance Migrant,134.6251978,-26.54215967,135.5023894,-30.20488123,414924.5307,414.9245307,-12.17033736,0.561143313,0.741176291,0.338663492
 Parastrellus hesperus,Canyon Bat,Potential Migrant/Nonmigratory,Nonmigratory,Nonmigratory,Potential altitudinal mig - McGuire/Boyle; NM - Bisson,McGuire & Boyle 2013; Bisson et al 2009; https://animalia.bio/canyon-bat,Short-distance Migrant,-110.9308482,35.44981678,-106.6512448,33.08109005,473611.9949,473.6119949,-55.11880666,0.667532497,0.70081052,0.605655246
@@ -316,18 +316,18 @@ Myotis ciliolabrum,Western Small-footed Myotis,Potential Migrant/Nonmigratory,Po
 Myotis emarginatus,Geoffroy's Myotis,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,"NM in Europe - Fleming 2003; altitudinal mig. suggested in McGuire & Boyle 2013, NM - Hutterer, nm-W&M2022",Fleming 2003; Hutterer et al. 2005; https://www.batmonitoring.org/en/species/myotis-emarginatus/; McGuire & Boyle 2013; Webber & McGuire 2022,Short-distance Migrant,15.55584836,46.2231243,3.916105204,47.77802488,901062.1362,901.0621362,96.74764128,0.326966515,0.532899909,0.493166034
 Myotis evotis,Long-eared Myotis,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,"mention of potential altitudinal migration - M&B2013, nm-W&M2022",McGuire & Boyle 2013; Webber & McGuire 2022,,,,,,,,,,,
 Myotis goudotii,Malagasy Myotis,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,"Some suggestion of possible migration/mig - Moussy et al. 2013/Weyeneth et al. 2010, NM - Bisson",Moussy 2013; Bisson et al 2009,Short-distance Migrant,44.59233041,-17.98228494,46.46790623,-19.21227602,240246.7017,240.2467017,-55.78338275,0.585708903,0.719992936,0.099131313
-Myotis septentrionalis,Northern Myotis,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,"NM, unknown in Moussy 2013; altitudinal mig. suggested in McGuire & Boyle 2013; NM - B&B2014; Poissant & Broders 2008 mentions they undergo migration�",Moussy 2013; Burns & Broder 2014; McGuire & Boyle 2013; Poissant & Broders 2008,Short-distance Migrant,-89.3402922,40.98384843,-83.51280846,40.97341462,490365.1423,490.3651423,-87.95304531,0.255430137,0.501174297,0.454275565
+Myotis septentrionalis,Northern Myotis,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,"NM, unknown in Moussy 2013; altitudinal mig. suggested in McGuire & Boyle 2013; NM - B&B2014; Poissant & Broders 2008 mentions they undergo migration",Moussy 2013; Burns & Broder 2014; McGuire & Boyle 2013; Poissant & Broders 2008,Short-distance Migrant,-89.3402922,40.98384843,-83.51280846,40.97341462,490365.1423,490.3651423,-87.95304531,0.255430137,0.501174297,0.454275565
 Myotis tricolor,Temminck's Myotis,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,NM - Bisson; MacEwan 2011 report mentions possible mig over ridges,Bisson et al. 2009; MacEwan 2011,,,,,,,,,,,
 Nyctophilus geoffroyi,Lesser Long-eared Bat,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,"Potential altitudinal migration - M&B2013, Nonmigratory",Bisson et al. 2009,Short-distance Migrant,134.6251978,-26.54215967,135.5023894,-30.20488123,414924.5307,414.9245307,-12.17033736,0.561143313,0.741176291,0.338663492
 Parastrellus hesperus,Canyon Bat,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,Potential altitudinal mig - McGuire/Boyle; NM - Bisson,McGuire & Boyle 2013; Bisson et al 2009; https://animalia.bio/canyon-bat,Short-distance Migrant,-110.9308482,35.44981678,-106.6512448,33.08109005,473611.9949,473.6119949,-55.11880666,0.667532497,0.70081052,0.605655246
 Plecotus auritus,Brown Long-eared Bat,Potential Migrant/Nonmigratory,Potential Migrant,Migratory,"NM - Fleming 2003, resident - Ahlen 2009; altitudinal mig. suggested in McGuire & Boyle 2013, Hutson 2001 also mentions movements of ~60km (from Lehmann 1992), sedentery - M&R2011, NM-B&B2014",Fleming 2003; Moussy 2013; McGuire & Ratcliffe 2011; Bisson et al 2009; https://animalia.bio/brown-long-eared-bat; Burns & Broder 2014; Ahlen et al. 2009; McGuire & Boyle 2013; Hutterer et al. 2005,Long-distance Migrant,23.36502711,52.68195728,8.76590391,51.56879054,1005709.432,1005.709432,77.20205326,0.441851808,0.646011651,0.611942775
 Megaloglossus woermanni,Woermann's Long-tongued Fruit Bat,Potential Migrant/Potential Nonmigrant,Potential Migrant,Migratory,"Kingdon suggests potentially migratory, Wolton suggests sedentery",Kingdon 1984; Wolton 1982; https://animaldiversity.org/accounts/Megaloglossus_woermanni/,Long-distance Migrant,15.53670726,3.355665765,4.634897597,3.863822367,1212483.764,1212.483764,92.30393449,0.134080729,0.337499656,0.219690037
 Rhinopoma hardwickii,Lesser Mouse-tailed Bat,Potential Migrant/Potential Nonmigrant,Potential Migrant,Migratory,potential migrant; Mohan suggests nonmigratory,Kumar et al 1965; Hulva et al 2007; Mohan et al 2022 says this one is known to hibernate,Long-distance Migrant,48.70088613,29.58636242,32.79077762,22.50845384,1772411.884,1772.411884,60.42323289,0.279603684,0.407944328,0.354080892
-Lasiurus frantzii,Desert Red Bat,Potential Migrant/Potential Nonmigrant,Potential Migrant,Migratory,"some sources in Rojas-Herrera suggest migratory, Rojas-Herrera suggests non-migratory (with some altitudinal migration�)",Rojas-Herrera et al 2023,,,,,,,,,,,
+Lasiurus frantzii,Desert Red Bat,Potential Migrant/Potential Nonmigrant,Potential Migrant,Migratory,"some sources in Rojas-Herrera suggest migratory, Rojas-Herrera suggests non-migratory (with some altitudinal migration)",Rojas-Herrera et al 2023,,,,,,,,,,,
 Lasiurus xanthinus,Western Yellow Bat,Potential Migrant/Potential Nonmigrant,Potential Migrant,Migratory,"check sources in Rojas-Herrera, some suggest mig, they suggest non-mig",Rojas-Herrera et al 2023; https://animalia.bio/western-yellow-bat?property=76,Short-distance Migrant,-103.8858304,30.39032686,-104.932343,28.76251074,206972.6389,206.9726389,29.07801508,0.718445483,0.728741705,0.425139518
 Megaloglossus woermanni,Woermann's Long-tongued Fruit Bat,Potential Migrant/Potential Nonmigrant,Potential Nonmigrant,Nonmigratory,"Kingdon suggests potentially migratory, Wolton suggests sedentery",Kingdon 1984; Wolton 1982; https://animaldiversity.org/accounts/Megaloglossus_woermanni/,Long-distance Migrant,15.53670726,3.355665765,4.634897597,3.863822367,1212483.764,1212.483764,92.30393449,0.134080729,0.337499656,0.219690037
 Rhinopoma hardwickii,Lesser Mouse-tailed Bat,Potential Migrant/Potential Nonmigrant,Potential Nonmigrant,Nonmigratory,potential migrant; Mohan suggests nonmigratory,Kumar et al 1965; Hulva et al 2007; Mohan et al 2022 says this one is known to hibernate,Long-distance Migrant,48.70088613,29.58636242,32.79077762,22.50845384,1772411.884,1772.411884,60.42323289,0.279603684,0.407944328,0.354080892
-Lasiurus frantzii,Desert Red Bat,Potential Migrant/Potential Nonmigrant,Potential Nonmigrant,Nonmigratory,"some sources in Rojas-Herrera suggest migratory, Rojas-Herrera suggests non-migratory (with some altitudinal migration�)",Rojas-Herrera et al 2023,,,,,,,,,,,
+Lasiurus frantzii,Desert Red Bat,Potential Migrant/Potential Nonmigrant,Potential Nonmigrant,Nonmigratory,"some sources in Rojas-Herrera suggest migratory, Rojas-Herrera suggests non-migratory (with some altitudinal migration)",Rojas-Herrera et al 2023,,,,,,,,,,,
 Lasiurus xanthinus,Western Yellow Bat,Potential Migrant/Potential Nonmigrant,Potential Nonmigrant,Nonmigratory,"check sources in Rojas-Herrera, some suggest mig, they suggest non-mig",Rojas-Herrera et al 2023; https://animalia.bio/western-yellow-bat?property=76,Short-distance Migrant,-103.8858304,30.39032686,-104.932343,28.76251074,206972.6389,206.9726389,29.07801508,0.718445483,0.728741705,0.425139518
 Emballonura alecto,Small Asian Sheath-tailed Bat,Potential Nonmigrant,Potential Nonmigrant,Nonmigratory,"Potentially not migratory - has low wing loading, low aspect ratio",Tanalgo et al. 2012 ,Short-distance Migrant,119.8761839,8.244491934,117.4065457,1.880873517,755070.5567,755.0705567,21.16745677,0.305546347,0.497752404,0.293578232
 Mystacina tuberculata,New Zealand Lesser Short-tailed Bat,Potential Nonmigrant,Potential Nonmigrant,Nonmigratory,putative NM - Moussy 2013,,,,,,,,,,,,
@@ -463,7 +463,7 @@ Hipposideros swinhoii,Swinhoe's Leaf-nosed Bat,Unknown,Unknown,Unknown,,,,,,,,,,
 Hipposideros tephrus,Ash Gray Leaf-nosed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Hipposideros wollastoni,Wollaston's Leaf-nosed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Macronycteris cryptovalorona,Cryptic Leaf-nosed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
-Macronycteris thomensis,S�o Tom� Leaf-nosed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Macronycteris thomensis,São Tomé Leaf-nosed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Eudiscoderma thongareeae,Thongaree's Disc-nosed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Lyroderma lyra,Greater False Vampire Bat,Unknown,Unknown,Unknown,,,Short-distance Migrant,94.42588385,20.99809186,89.18945854,22.32932368,561634.437,561.634437,104.2367385,0.257832951,0.481380259,0.330152586
 Megaderma spasma,Lesser False Vampire Bat,Unknown,Unknown,Unknown,,,Short-distance Migrant,98.22777934,16.01805564,102.6307786,10.45912551,778288.5378,778.2885378,-37.32842234,0.400088616,0.550041888,0.316042623
@@ -579,7 +579,7 @@ Neoplatymops mattogrossensis,Mato Grosso Dog-faced Bat,Unknown,Unknown,Unknown,,
 Nyctinomops aurispinosus,Peale's Free-tailed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Nyctinomops femorosaccus,Pocketed Free-tailed Bat,Unknown,Unknown,Unknown,,,Short-distance Migrant,-108.9034376,30.50166305,-107.5705276,27.80040464,326274.4116,326.2744116,-23.09821025,0.542991779,0.55880956,0.382317776
 Nyctinomops laticaudatus,Broad-eared Free-tailed Bat,Unknown,Unknown,Unknown,NM,https://animalia.bio/broad-eared-bat,Short-distance Migrant,-67.72259446,-0.15782354,-65.53488264,1.350172117,295133.2968,295.1332968,-124.3850478,0.384118289,0.479373139,0.197704219
-Nyctinomops mbopicuare,Guaraní  Free-tailed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Nyctinomops mbopicuare,GuaranÃ­  Free-tailed Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Otomops formosus,Java Giant Mastiff Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Otomops harrisoni,Harrison's Large-eared Giant Mastiff Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Otomops johnstonei,Johnstone's Giant Mastiff Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
@@ -828,7 +828,7 @@ Uroderma magnirostrum,Brown Tent-making Bat,Unknown,Unknown,Unknown,,,Short-dist
 Vampyressa elisabethae,Elisabeth's Little Yellow-eared Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Vampyressa pusilla,Southern Little Yellow-eared Bat,Unknown,Unknown,Unknown,,,Short-distance Migrant,-65.52902715,-2.102562286,-62.31628195,-5.294312157,501909.0243,501.9090243,-45.43457256,0.573141578,0.643319547,0.315910494
 Vampyressa thyone,Northern Little Yellow-eared Bat,Unknown,Unknown,Unknown,,,Short-distance Migrant,-68.2638743,0.358468239,-69.57350945,1.895176089,223870.2136,223.8702136,139.3617379,0.589068642,0.73866395,0.314570233
-Vampyressa voragine,La Vorágine Little Yellow-eared Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Vampyressa voragine,La VorÃ¡gine Little Yellow-eared Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Vampyriscus bidens,Bidentate Yellow-eared Bat,Unknown,Unknown,Unknown,,,Nonmigratory,-64.68501024,-2.638458503,-64.11784362,-3.268636239,93975.81502,93.97581502,-42.15556138,0.719677565,0.831781194,0.613264795
 Vampyriscus brocki,Brock's Yellow-eared Bat,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Vampyriscus nymphaeus,Striped Yellow-eared Bat,Unknown,Unknown,Unknown,,,Short-distance Migrant,-75.10861846,3.267305071,-76.49362923,4.51448145,206594.1256,206.5941256,131.8287878,0.457525071,0.649509037,0.448096939
@@ -1307,15 +1307,15 @@ Myotis ancricola,Valley-dwelling Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis anjouanensis,Anjouan Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis annatessae,Anna Tess' Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis annectans,Hairy-faced Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
-Myotis arescens,Valparaíso Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
-Myotis armiensis,Armién's Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Myotis arescens,ValparaÃ­so Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Myotis armiensis,ArmiÃ©n's Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis atacamensis,Atacaman Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis ater,Peters' Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis attenboroughi,Sir David Attenborough's Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis auriculus,Southwestern Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis australis,Australian Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis bakeri,Baker's Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
-Myotis barquezi,Barquez’s Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Myotis barquezi,Barquezâs Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis bartelsii,Bartel's Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis bombinus,Far Eastern Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis borneoensis,Bornean Whiskered Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
@@ -1352,7 +1352,7 @@ Myotis midastactus,Golden Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis moluccarum,Maluku Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis moratellii,Moratelli's Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis morrisi,Morris' Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
-Myotis nesopolus,Curaçao Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Myotis nesopolus,CuraÃ§ao Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis nimbaensis,Nimba Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis nipalensis,Nepal Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Myotis nyctor,Silky Cave Myotis,Unknown,Unknown,Unknown,,,,,,,,,,,,,
@@ -1464,7 +1464,7 @@ Pseudoromicia isabella,Isabelline White-winged Serotine,Unknown,Unknown,Unknown,
 Pseudoromicia kityoi,Kityo's Serotine,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Pseudoromicia mbamminkom,Mbam Minkom Serotine,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Pseudoromicia nyanza,Nyanza Serotine,Unknown,Unknown,Unknown,,,,,,,,,,,,,
-Pseudoromicia principis,Príncipe’s Pipistrelle,Unknown,Unknown,Unknown,,,,,,,,,,,,,
+Pseudoromicia principis,PrÃ­ncipeâs Pipistrelle,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Pseudoromicia rendalli,Rendall's Serotine,Unknown,Unknown,Unknown,,,Long-distance Migrant,23.5887456,-2.282813796,17.22852192,5.49937481,1113840.134,1113.840134,140.4244257,0.266087382,0.296413356,-0.079172633
 Pseudoromicia roseveari,Rosevear's Serotine,Unknown,Unknown,Unknown,,,,,,,,,,,,,
 Pseudoromicia tenuipinnis,White-winged Serotine,Unknown,Unknown,Unknown,,,Short-distance Migrant,16.08633015,3.9823066,19.37115889,3.074494331,378526.459,378.526459,-74.52451496,0.603464832,0.622026742,0.378441728
