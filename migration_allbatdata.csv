@@ -1,0 +1,1475 @@
+Family,Genus,Species,Latin_Name,Common_Name,Status,Details,Sources
+Vespertilionidae,Lasiurus,cinereus,Lasiurus cinereus,Hoary Bat,Migratory,"LD/PM in NA; altitudinal mig. suggested in McGuire & Boyle 2013; mig - W&M2022; mig-Medellin; mig-CMS2020; mig-Cryan 2003, mention of alt mig - Adams 2018",Fleming 2019; Bisson et al 2009; McGuire & Boyle 2013; Weller et al 2016 - first direct evidence of LD movements & hibernation; Clerc et al 2021; Rojas-Herrera et al 2023; Webber & McGuire 2022; Wieringa et al 2021; Medellin 2003; CMS 2020; Cryan 2003
+Miniopteridae,Miniopterus,australis,Miniopterus australis,Little Long-fingered Bat,Migratory/Nonmigratory,Mig - M&R; mig-W&M2022; NM - Bisson,McGuire & Ratcliffe 2011; Webber & McGuire 2022; Bisson et al 2009
+Molossidae,Tadarida,brasiliensis,Tadarida brasiliensis,Brazilian Free-tailed Bat,Migratory/Nonmigratory,"LD/PM in NA; altitudinal mig. suggested in McGuire & Boyle 2013, Moussy has some subspecies as migratory, others as NM; LD-B&B2014;  partial migrant - Cockrum 1969, mig-W&M2022, mig-Burland & Wilmer 2001; model mig routes - Weiderholt2013; mig-Medellin; mig-Cockrum 1969","Fleming 2019; Burns & Broder 2014; McGuire & Boyle 2013, Moussy et al 2013; Cockrum 1969; Krauel et al 2018; Webber & McGuire 2022; Burland & Wilmer 2001; Wiederholt 2013; Medellin 2003; Cockrum 1969"
+Rhinolophidae,Rhinolophus,blasii,Rhinolophus blasii,Blasius' Horseshoe Bat,Nonmigratory,NM in Europe - Fleming 2003; sedentary - Hutterer et al. 2005; nm-W&M2022,Fleming 2003; Hutterer et al. 2005; Webber & McGuire 2022
+Vespertilionidae,Lasiurus,borealis,Lasiurus borealis,Eastern Red Bat,Migratory,"LD - Bisson, mig - M&R2011, mig-W&M2022; mig-Medellin; mig - CMS2020; mig-Cryan 2003",Fleming 2019; McGuire & Ratcliffe 2011; Bisson et al 2009; Rojas-Herrera et al 2023; Webber & McGuire2022; Medellin 2003; CMS 2020; Cryan 2003; Wieringa et al 2021
+Emballonuridae,Saccolaimus,saccolaimus,Saccolaimus saccolaimus,Naked-rumped Pouched Bat,Unknown,no mention of migration found,"Australian govt documentation (https://www.environment.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=66889), Reza et al 2022"
+Vespertilionidae,Vespertilio,murinus,Vespertilio murinus,Particolored Bat,Migratory,"LD - Bisson, PM in Europe - Fleming 2019; altitudinal mig. suggested in McGuire & Boyle 2013, mig - Moussy, LD - Fleming 2003, mig-Ahlen2009, mig-W&M2022; mig-Hutterer","Fleming 2019/2003; Bisson et al 2009; Ahlen et al. 2009; Hutterer et al. 2005; McGuire & Boyle 2013; Dietz & Kiefer 2016, Moussy et al 2013; Webber & McGuire 2022"
+Molossidae,Tadarida,aegyptiaca,Tadarida aegyptiaca,Egyptian Free-tailed Bat,Potential Migrant,"le Grange suggests possible migration but provides no evidence; Mohan et al 2022 also suggests evidence of potential/partial migration, unk-O&V1980",le Grange et al 2010 - reproductive stategy of the Egyptian free-tailed bat; Mohan et al 2022; O'Shea & Vaughan 1980
+Vespertilionidae,Myotis,daubentonii,Myotis daubentonii,Daubenton's Myotis,Migratory/Nonmigratory,"RM in Europe - Fleming 2003; SD - Bisson/Burns & Broder; resident - Ahlen 2009, RM - Hutterer et al. 2005; altitudinal mig. suggested in McGuire & Boyle 2013, mig - Moussy, mig-M&R2011","Fleming 2003; McGuire & Ratcliffe 2011; Bisson et al 2009; Burns & Broder 2014; Ahlen et al. 2009; Hutterer et al. 2005; McGuire & Boyle 2013, Moussy et al 2013"
+Hipposideridae,Macronycteris,commersonii,Macronycteris commersonii,Commerson's Leaf-nosed Bat,Migratory,"partial migrant?(has some variable presence) - O'Shea & Vaughan, evidence of migration - Hutson 2001",Rakotoarivelo et al 2019; O'Shea & Vaughan 1980; see Hutson et al 2001 about M.B. Fenton personal communication; 
+Vespertilionidae,Myotis,oxyotus,Myotis oxyotus,Montane Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Rhinopomatidae,Rhinopoma,hardwickii,Rhinopoma hardwickii,Lesser Mouse-tailed Bat,Potential Migrant/Potential Nonmigrant,potential migrant; Mohan suggests nonmigratory,Kumar et al 1965; Hulva et al 2007; Mohan et al 2022 says this one is known to hibernate
+Molossidae,Eumops,bonariensis,Eumops bonariensis,Dwarf Bonneted Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Rhinopomatidae,Rhinopoma,microphyllum,Rhinopoma microphyllum,Greater Mouse-tailed Bat,Migratory,Mig - McGuire & Ratcliffe 2011; mig-Gopalakrishna 1986,McGuire & Ratcliffe 2011; Gopalakrishna 1986
+Vespertilionidae,Myotis,dasycneme,Myotis dasycneme,Pond Myotis,Migratory,"RM in Europe - Hutterer; SD - Bisson, RM - Fleming 2003, migrant - Ahlen2009, mig-W&M2022",Fleming 2003; McGuire & Ratcliffe 2011; Bisson et al 2009; Ahlen et al. 2009; Hutterer et al. 2005; Haarsma et al. 2019; Webber & McGuire 2022
+Phyllostomidae,Leptonycteris,curasoae,Leptonycteris curasoae,Cura&ccedil;aoan Long-nosed Bat,Migratory,"LD/PM in NA-fleming, LD - B&B2014; migrant or partial migrant- Fleming1993; mig-W&M2022; mig-Medellin; mig - Cockrum 1991","Fleming 2019; McGuire & Ratcliffe 2011; Burns & Broder 2014, Moussy et al 2013; Fleming et al 1993 (cites Barbour & Davis 1969 & Cockrum 1991); Horner et al 1998; Caballos et al. 1997; Webber & McGuire 2022; Medellin 2003"
+Molossidae,Eumops,perotis,Eumops perotis,Greater Bonneted Bat,Migratory/Nonmigratory,"NM - M&R, nm-W&M2022; mig-Medellin",McGuire & Ratcliffe 2011; https://tpwd.texas.gov/huntwild/wild/species/westmastiff/; Webber & McGuire 2022; Medellin 2003
+Phyllostomidae,Sturnira,ludovici,Sturnira ludovici,Highland Yellow-shouldered Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013 (cites Fraser 2010); nm-Medellin,McGuire & Boyle 2013 (cites Fraser et al 2010); Medellin 2003
+Hipposideridae,Asellia,tridens,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,Migratory,potential migrant - Harrison; mig-W&M2022,Harrison 1957; Owens & Qumsiyeh 1986; Webber & McGuire 2022
+Phyllostomidae,Desmodus,rotundus,Desmodus rotundus,Common Vampire Bat,Migratory/Nonmigratory,"NM - M&R2011, NM-B&B2014; mig-W&M2022; NM-Burland & Wilmer 2001; nm-Medellin",Moussy 2013; McGuire & Ratcliffe 2011; Burns & Broder 2014; Webber & McGuire 2022; Burland & Wilmer 2001; Medellin 2003
+Vespertilionidae,Nyctalus,leisleri,Nyctalus leisleri,Leisler's Noctule,Migratory,"LD - Fleming 2003; altitudinal mig. suggested in McGuire & Boyle 2013; mig-Ahlen2009, mig-W&M2022; LD mig-Hutterer",Fleming 2003; Bisson et al 2009; see Caprio et al 2020; Ahlen et al. 2009; Hutterer et al. 2005; McGuire & Boyle 2013; Webber & McGuire 2022
+Phyllostomidae,Centurio,senex,Centurio senex,Wrinkle-faced Bat,Potential Migrant/Nonmigratory,"Trujillo, Dumont suggests it is a migrant; Wilson suggests altitudinal migration; nm-Medellin",Trujillo et al 2022; Wilson & Mittermeier 2019; Dumont et al 2009; Medellin 2003
+Miniopteridae,Miniopterus,schreibersii,Miniopterus schreibersii,Schreiber's Long-fingered Bat,Migratory,"RM in Europe - Fleming; January only/PM? - O'Shea & Vaughan; Dwyer 1969 recorded movements of 1300km; RM - Hutterer et al. 2005, disperse 300km around maternity roost - Eco Logical Australia 2012, LD - Bisson, Mig - Moussy, mig - M&R, LD-B&B2014, Wright2020 confirmed with H isotopes; mig (only African & European pops) - CMS 2020",Fleming 2003; McGuire & Ratcliffe 2011; O'Shea & Vaughan 1980; see Hutson et al 2001; Burns & Broders 2014; Hutterer et al. 2005; Eco Logical Australia 2012; Rodrigues & Palmeirim 2008; Bisson et al. 2009; Moussy et al. 2013; Piksa & Gubala 2021; Wright et al 2020; CMS 2020
+Vespertilionidae,Myotis,leibii,Myotis leibii,Eastern Small-footed Myotis,Nonmigratory,"NM-Bisson; Johnson et al 2017 mentions NM pops, nm-W&M2022",Bisson et al. 2009; Johnson et al. 2017; Webber & McGuire 2022
+Phyllostomidae,Artibeus,jamaicensis,Artibeus jamaicensis,Jamaican Fruit-eating Bat,Migratory/Nonmigratory,NM - Moussy et al 2013; mig-W&M2022; nm-Medellin,Moussy 2013; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Nyctalus,noctula,Nyctalus noctula,Noctule,Migratory,"LD - Bisson, LD - Hutterer, mig - Moussy, LD - Fleming 2003, LD-B&B2014; mig-Ahlen2009, mig-W&M2022; mig - Burland & Wilmer 2001; mig - Petit & Mayer2000; up to 1600km - Strelkov 1969","Fleming 2003; McGuire & Ratcliffe 2011; Bisson et al 2009; Burns & Broder 2014; Ahlen et al. 2009; Hutterer et al. 2005, Moussy et al 2013; Dechmann et al 2017 - migratory timing; O'Mara et al 2019; Petit & Mayer 2000 - pop gen; Webber & McGuire 2022; Burland & Wilmer 2001; Strelkov 1969"
+Vespertilionidae,Scotophilus,viridis,Scotophilus viridis,Green House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Pteropodidae,Megaloglossus,woermanni,Megaloglossus woermanni,Woermann's Long-tongued Fruit Bat,Potential Migrant/Potential Nonmigrant,"Kingdon suggests potentially migratory, Wolton suggests sedentery",Kingdon 1984; Wolton 1982; https://animaldiversity.org/accounts/Megaloglossus_woermanni/
+Emballonuridae,Peropteryx,kappleri,Peropteryx kappleri,Greater Dog-like Bat,Nonmigratory,nonmigratory emballonurid - species studied over course of 1 year - Dunlop; nm-Medellin2003,Dunlop 1998; Medellin 2003
+Vespertilionidae,Lasiurus,blossevillii,Lasiurus blossevillii,Southern Red Bat,Migratory,"suggested altitudinal migration - M&B2013, natureserve has some sources for evidence of migration; mig-Medellin, mig-CMS2020; mig-Cryan2003",McGuire & Boyle 2013; LD & local migrant - https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.102668/Lasiurus_blossevillii; Medellin 2003; CMS 2020; Cryan 2003
+Phyllostomidae,Diphylla,ecaudata,Diphylla ecaudata,Hairy-legged Vampire Bat,Nonmigratory,NM - M&R2011; nm-W&M2022; nm-Medellin,McGuire & Ratcliffe 2011; Webber & McGuire 2022; Medellin 2003
+Rhinolophidae,Rhinolophus,hipposideros,Rhinolophus hipposideros,Lesser Horseshoe Bat,Migratory/Nonmigratory,"NM in Europe - Fleming 2003, NM - McGuire & Ratcliffe; altitudinal mig. suggested in McGuire & Boyle 2013, Aellen 1983 mentions sedentery, Hutterer mentions NM; mig-W&M2022",Fleming 2003; McGuire & Ratcliffe 2011; https://www.batmonitoring.org/en/species/rhinolophus-hipposideros/; Hutterer et al. 2005; McGuire & Boyle 2013; Webber & McGuire 2022
+Molossidae,Mops,ansorgei,Mops ansorgei,Ansorge's Free-tailed Bat,Unknown,,
+Phyllostomidae,Mimon,bennettii,Mimon bennettii,Southern Golden Bat,Unknown,,
+Vespertilionidae,Myotis,mystacinus,Myotis mystacinus,Whiskered Myotis,Migratory,"RM in Europe - Fleming 2003; SD - Bisson/Burns & Broder, RM - Hutterer et al. 2005; altitudinal mig. suggested in McGuire & Boyle 2013; mig-W&M2022",Fleming 2003; Bisson et al 2009; Burns & Broder 2014; Hutterer et al. 2005; McGuire & Boyle 2013; Webber & McGuire 2022
+Vespertilionidae,Pseudoromicia,rendalli,Pseudoromicia rendalli,Rendall's Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Rhinolophidae,Rhinolophus,euryale,Rhinolophus euryale,Mediterranean Horseshoe Bat,Potential Migrant/Nonmigratory,"NM in Europe - Fleming 2003, Hutterer mentions they may rarely travel over 100km (so possibly a partial or regional migrant?); nm-W&M2022","Fleming 2003; https://www.batmonitoring.org/en/species/rhinolophus-euryale/, Hutterer et al 2005; Webber & McGuire 2022"
+Phyllostomidae,Phyllostomus,discolor,Phyllostomus discolor,Pale Spear-nosed Bat,Nonmigratory,NM-W&M2022; nm-Medellin,Webber & McGuire 2022; Medellin 2003
+Mormoopidae,Pteronotus,personatus,Pteronotus personatus,Wagner's Mustached Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Pteropodidae,Pteropus,conspicillatus,Pteropus conspicillatus,Spectacled Flying Fox,Potential Nonmigrant,"NM, unknown in Moussy 2013, species in M&K2001 but no mention of mig/nonmig","Moussy et al. 2013, Menkhorst & Knight 2001"
+Molossidae,Molossus,sinaloae,Molossus sinaloae,Sinaloan Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores; nm-Medellin,Louriero et al 2020 (check citations 26-29); Medellin 2003
+Vespertilionidae,Myotis,keaysi,Myotis keaysi,Keays' Myotis,Nonmigratory,NM - Bisson; nm-Medellin,Bisson et al. 2009; Medellin 2003
+Phyllostomidae,Macrotus,waterhousii,Macrotus waterhousii,Waterhouse's Leaf-nosed Bat,Nonmigratory,NM-B&B2014; nm-W&M2022; nm-Medellin2003,Burns & Broder 2014; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Mimetillus,moloneyi,Mimetillus moloneyi,Moloney's Mimic Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Miniopteridae,Miniopterus,tristis,Miniopterus tristis,Great Long-fingered Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Plecotus,auritus,Plecotus auritus,Brown Long-eared Bat,Potential Migrant/Nonmigratory,"NM - Fleming 2003, resident - Ahlen 2009; altitudinal mig. suggested in McGuire & Boyle 2013, Hutson 2001 also mentions movements of ~60km (from Lehmann 1992), sedentery - M&R2011, NM-B&B2014, NM-Bisson, nm-Burland & Wilmer 2001; nm-W&M2022",Fleming 2003; Moussy 2013; McGuire & Ratcliffe 2011; Bisson et al 2009; Burns & Broder 2014; Ahlen et al. 2009; McGuire & Boyle 2013; Hutterer et al. 2005; Burland & Wilmer 2001; Webber & McGuire 2022
+Phyllostomidae,Micronycteris,microtis,Micronycteris microtis,Common Big-eared Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Pteropodidae,Cynopterus,brachyotis,Cynopterus brachyotis,Lesser Short-nosed Fruit Bat,Nonmigratory,"NM, unknown in Moussy 2013, NM-W&M2022; NM- Burland & Wilmer 2001",Moussy 2013; McGuire & Ratcliffe 2011; Webber & McGuire 2022; Burland & Wilmer 2001
+Pteropodidae,Epomophorus,gambianus,Epomophorus gambianus,Gambian Epauletted Fruit Bat,Unknown,,
+Vespertilionidae,Scotoecus,hirundo,Scotoecus hirundo,Dark-winged Lesser House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,nathusii,Pipistrellus nathusii,Nathusius' Pipistrelle,Migratory/Nonmigratory,"LD - Bisson/PM in Europe; altitudinal mig. suggested in McGuire & Boyle 2013, up to 1800km movements mentioned in Hutson 2001; mig - Ahlen2009; Vasenkov2022 recorded 2486km migration; Sachanowicz2018 mentions some sedentary pops; mig-W&M2022; migration & diet - Kruger et al 2014; mig - Voigt et al 2012; mig-Hutterer","Fleming 2019/2003; Bisson et al 2009; Ahlen et al. 2009; Hutterer et al. 2005; McGuire & Boyle 2013, Hutson 2001; Kruger et al 2014 - diet during migration; Vasenkov et al 2022; Voigt et al 2012; Jarzembowski et al 2004 - pop gen study; Jarzembowski et al 2003 - migration study in Poland; Sachanowicz et al 2018; Blomberg et al 2021; Webber & McGuire 2022; Kruger et al 2014"
+Vespertilionidae,Myotis,nattereri,Myotis nattereri,Natterer's Myotis,Migratory/Nonmigratory,"NM in Europe - Fleming 2003, SD in Moussy 2013, NM - Bisson/Burns & Broder; sedentary - Hutterer, sedentery - M&R2011, nm-W&M2022","Fleming 2003; Moussy 2013; Rivers et al. 2005; Bisson et al 2009; Burns & Broder 2014; Hutterer et al. 2005; Mordue et al. 2021, McGuire & Ratcliffe 2011; Webber & McGuire 2022"
+Hipposideridae,Hipposideros,bicolor,Hipposideros bicolor,Bicolored Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,diadema,Hipposideros diadema,Diadem Leaf-nosed Bat,Unknown,,
+Vespertilionidae,Scotophilus,leucogaster,Scotophilus leucogaster,White-bellied House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,emarginatus,Myotis emarginatus,Geoffroy's Myotis,Potential Migrant/Nonmigratory,"NM in Europe - Fleming 2003; altitudinal mig. suggested in McGuire & Boyle 2013, NM - Hutterer, nm-W&M2022; nm - Bisson",Fleming 2003; Hutterer et al. 2005; https://www.batmonitoring.org/en/species/myotis-emarginatus/; McGuire & Boyle 2013; Webber & McGuire 2022; Bisson et al 2009
+Phyllostomidae,Micronycteris,hirsuta,Micronycteris hirsuta,Hairy Big-eared Bat,Unknown,,
+Phyllostomidae,Diaemus,youngi,Diaemus youngi,White-winged Vampire Bat,Nonmigratory,NM - M&R2011; nm-W&M2022; nm-Medellin,McGuire & Ratcliffe 2011; Webber & McGuire 2022; Medellin 2003
+Phyllostomidae,Carollia,castanea,Carollia castanea,Chestnut Short-tailed Bat,Unknown,,
+Phyllostomidae,Dermanura,cinerea,Dermanura cinerea,Gervais' Fruit-eating Bat,Unknown,,
+Mormoopidae,Mormoops,megalophylla,Mormoops megalophylla,Peters's Ghost-faced Bat,Potential Migrant/Nonmigratory,"Local/partial migrant? - Schmidly 1991, Ammerman et al. 2012; nm-Medellin2003",Schmidly 1991; Ammerman 2012; Medellin 2003; https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.106339/Mormoops_megalophylla
+Molossidae,Molossus,rufus,Molossus rufus,Black Mastiff Bat,Nonmigratory,sedentary - M&R2011; NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores; nm-Medellin,McGuire & Ratcliffe 2011; Louriero et al 2020 (check citations 26-29); Medellin 2003
+Molossidae,Mops,nanulus,Mops nanulus,Dwarf Free-tailed Bat,Unknown,,
+Phyllostomidae,Vampyrodes,caraccioli,Vampyrodes caraccioli,Caracciolo&apos;s Stripe-faced Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; nm-Medellin,McGuire & Boyle 2013 (cites Hutson 2004); Medellin 2003
+Vespertilionidae,Myotis,myotis,Myotis myotis,Mouse-eared Myotis,Migratory,"RM in Europe - Fleming 2003; SD - Bisson/Burns & Broder, RM - Hutterer et al. 2005; altitudinal mig. suggested in McGuire & Boyle 2013, mig - Moussy et al 2013, mig-W&M2022; mig - Burland & Wilmer 2001","Fleming 2003; McGuire & Ratcliffe 2011; Bisson et al 2009; Burns & Broder 2014; Hutterer et al. 2005; https://www.batmonitoring.org/en/species/myotis-myotis/; McGuire & Boyle 2013, Moussy et al 2013; Webber & McGuire 2022; Burland & Wilmer 2001"
+Phyllostomidae,Platyrrhinus,brachycephalus,Platyrrhinus brachycephalus,Short-headed Broad-nosed Bat,Potential Migrant,Altitudinal mig. suggested in McGuire & Boyle 2013,McGuire & Boyle 2013
+Rhinolophidae,Rhinolophus,lepidus,Rhinolophus lepidus,Blyth's Horseshoe Bat,Potential Migrant,Mohan et al suggests potential migration,Mohan et al. 2022
+Phyllostomidae,Glossophaga,soricina,Glossophaga soricina,Pallas's Long-tongued Bat,Potential Migrant/Nonmigratory,"Suggestion of alt. migration - McGuire/Boyle; NM - McGuire/Ratcliffe; nonmig - Fleming 1993, nm-W&M2022; nm-Medellin",McGuire & Boyle 2013; McGuire & Ratcliffe 2011; Pedro & Taddei 2002; Fleming et al 1993; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Myotis,macropus,Myotis macropus,Gould's Large-footed Myotis,Nonmigratory,NM - both sources,Moussy 2013; Burns & Broder 2014
+Vespertilionidae,Pipistrellus,abramus,Pipistrellus abramus,Japanese Pipistrelle,Unknown,Unknown - Moussy 2013,Moussy 2013
+Phyllostomidae,Pygoderma,bilabiatum,Pygoderma bilabiatum,Ipanema Broad-nosed Bat,Migratory,"Altitudinal mig. suggested in McGuire & Boyle 2013, Esberard 2011 provides evidence",McGuire & Boyle 2013; Esberard et al 2011 evidence of vert mig. in Ipanema bat
+Vespertilionidae,Myotis,horsfieldii,Myotis horsfieldii,Horsfield's Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Phyllostomidae,Platyrrhinus,dorsalis,Platyrrhinus dorsalis,Thomas' Broad-nosed Bat,Unknown,,
+Vespertilionidae,Nyctalus,lasiopterus,Nyctalus lasiopterus,Giant Noctule,Migratory/Nonmigratory,"NM - Bisson; batmonitoring.org considers them migratory, DD - Hutterer et al. 2005, LD - Fleming 2003; mig-W&M2022",Fleming 2003; Bisson et al 2009; https://www.batmonitoring.org/en/species/nyctalus-lasiopterus/; Hutterer et al. 2005; Webber & McGuire 2022
+Megadermatidae,Megaderma,spasma,Megaderma spasma,Lesser False Vampire Bat,Unknown,,
+Pteropodidae,Macroglossus,minimus,Macroglossus minimus,Dagger-toothed Long-nosed Fruit Bat,Nonmigratory,"NM, sedentery - McGuire & Ratcliffe, nm-W&M2022, species in M&K2001 but no mention of mig/nonmig",Moussy 2013; McGuire & Ratcliffe 2011; Webber & McGuire 2022
+Vespertilionidae,Myotis,blythii,Myotis blythii,Lesser Mouse-eared Myotis,Migratory,"RM in Europe - Hutterer, SD - Bisson; mig-W&M2022",Fleming 2003; Bisson et al 2009; Hutterer et al. 2005; https://www.batmonitoring.org/en/species/myotis-blythii/; Moussy et al 2013; Webber & McGuire 2022
+Phyllostomidae,Phyllostomus,latifolius,Phyllostomus latifolius,Guianan Spear-nosed Bat,Unknown,,
+Vespertilionidae,Myotis,alcathoe,Myotis alcathoe,Alcathoe Myotis,Nonmigratory,"NM - B&B2014, considered sedentary",Burns & Broders2014; https://www.batmonitoring.org/en/species/myotis-alcathoe/
+Emballonuridae,Emballonura,alecto,Emballonura alecto,Small Asian Sheath-tailed Bat,Potential Nonmigrant,"Potentially not migratory - has low wing loading, low aspect ratio",Tanalgo et al. 2012 
+Vespertilionidae,Myotis,muricola,Myotis muricola,Nepalese Whiskered Myotis,Nonmigratory,"NM, unknown in Moussy 2013",Moussy 2013; Bisson et al 2009
+Vespertilionidae,Pipistrellus,pygmaeus,Pipistrellus pygmaeus,Soprano Pipistrelle,Migratory,"SD - Burns & Broder 2014; partial migrant - Ahlen 2009, putative migratory - Moussy 2013; DD - Hutterer",Moussy 2013; Burns & Broder 2014; Ahlen et al. 2009; Hutterer et al. 2005; Bryja et al 2008
+Emballonuridae,Taphozous,australis,Taphozous australis,Coastal Tomb Bat,Nonmigratory,NM - M&R; nm-W&M2022,McGuire & Ratcliffe 2011; Webber & McGuire 2022
+Vespertilionidae,Vansonia,rueppellii,Vansonia rueppellii,R&uuml;ppell's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,keenii,Myotis keenii,Keen's Myotis,Nonmigratory,"NM - Bisson, nm-W&M2022",Bisson et al. 2009; Webber & McGuire 2022; https://animaldiversity.org/accounts/Myotis_keenii/#contributors (provides sources for small-scale movements between hibernacula but no migration)
+Vespertilionidae,Corynorhinus,mexicanus,Corynorhinus mexicanus,Mexican Big-eared Bat,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al 2009; Medellin 2003
+Vespertilionidae,Eptesicus,nilssonii,Eptesicus nilssonii,Northern Bat,Migratory/Nonmigratory,"NM in Europe - Fleming 2003, NM - Bisson, resident - Ahlen 2009, Hutterer et al. 2005 mentions that they are regional migrants (provides distances and evidence), potential altitudinal mig - McGuire & Boyle 2013",Fleming 2003; Bisson et al 2009; Ahlen et al. 2009; M&B2013; Hutterer 2005
+Pteropodidae,Epomophorus,wahlbergi,Epomophorus wahlbergi,Wahlberg&apos;s Epauletted Fruit Bat,Migratory/Potential Nonmigrant,"mig - McGuire & Ratcliffe, annual res/partial migrant? - O'Shea & Vaughan; altitudinal migration suggested by McGuire & Boyle 2013; purported NM - Ossa et al 2012 (cites Acharya 1992 - SD movements of few km); mig-W&M2022",McGuire & Ratcliffe 2011; O'Shea & Vaughan 1980; Ossa et al 2012; Webber & McGuire 2022
+Phyllostomidae,Sturnira,bidens,Sturnira bidens,Bidentate Yellow-shouldered Bat,Unknown,,
+Vespertilionidae,Pipistrellus,tenuis,Pipistrellus tenuis,Least Pipistrelle,Nonmigratory,NM-Bisson; Mohan et al 2022 also suggests NM,Bisson et al. 2009; Mohan et al 2022
+Molossidae,Mops,spurrelli,Mops spurrelli,Spurrell's Free-tailed Bat,Unknown,,
+Vespertilionidae,Barbastella,barbastellus,Barbastella barbastellus,Western Barbastelle,Migratory/Nonmigratory,"RM in Europe - Fleming 2003, NM - Bisson 2009, RM - Hutterer 2005/McGuire & Ratcliffe; mig - W&M2022",Fleming 2003; McGuire & Ratcliffe 2011; Bisson et al 2009; Hutterer et al. 2005; Webber & McGuire 2022
+Phyllostomidae,Carollia,perspicillata,Carollia perspicillata,Seba's Short-tailed Bat,Migratory/Nonmigratory,"NM - Moussy, B&B, P&T; mig-W&M2022; nm-Medellin; mig-Fleming 1988",Moussy 2013; Burns & Broder 2014; Pedro & Taddei 2002; Webber & McGuire 2022; Medellin 2003; Fleming 1988
+Phyllostomidae,Choeroniscus,godmani,Choeroniscus godmani,Godman's Long-tongued Bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Vespertilionidae,Myotis,yumanensis,Myotis yumanensis,Yuma Myotis,Migratory/Nonmigratory,"Potential altitudinal mig - McGuire/Boyle; NM - Bisson, mig-W&M2022, mig-Medellin",McGuire & Boyle 2013; Bisson et al 2009; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Neoeptesicus,furinalis,Neoeptesicus furinalis,Argentinian Brown Bat,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Scotorepens,balstoni,Scotorepens balstoni,Western Broad-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Nycteridae,Nycteris,grandis,Nycteris grandis,Large Slit-faced Bat,Nonmigratory,NM - M&R2011,McGuire & Ratcliffe 2011
+Molossidae,Eumops,glaucinus,Eumops glaucinus,Wagner's Bonneted Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Rhinolophidae,Rhinolophus,mehelyi,Rhinolophus mehelyi,Mehely's Horseshoe Bat,Nonmigratory,"NM - Hutterer, NM - Fleming 2003; nm-W&M2022",Fleming 2003; Hutterer et al. 2005; https://www.batmonitoring.org/en/species/rhinolophus-mehelyi/; Webber & McGuire 2022
+Rhinolophidae,Rhinolophus,clivosus,Rhinolophus clivosus,Geoffroy's Horseshoe Bat,Nonmigratory,Voigt et al 2014 - mentions it is sedentery,Voigt et al 2014
+Phyllostomidae,Glossophaga,longirostris,Glossophaga longirostris,Miller's Long-tongued Bat,Nonmigratory,NM -both sources,Moussy 2013; Burns & Broder 2014
+Phyllostomidae,Vampyrodes,major,Vampyrodes major,Greater Stripe-faced Bat,Unknown,,
+Rhinolophidae,Rhinolophus,ferrumequinum,Rhinolophus ferrumequinum,Greater Horseshoe Bat,Potential Migrant/Nonmigratory,"NM in Europe - Fleming 2003, Hutterer mentions they could be a facultative migrant?, sedentery - McGuire & Ratcliffe, NM - Moussy, NM-B&B2014, NM-Burland & Wilmer 2001; nm-W&M2022",Fleming 2003; Moussy 2013; Burns & Broder 2014; https://www.batmonitoring.org/en/species/rhinolophus-ferrumequinum/; Hutterer et al. 2005; Burland & Wilmer 2001; Webber & McGuire 2022
+Pteropodidae,Rousettus,leschenaultii,Rousettus leschenaultii,Leschenault's Rousette,Potential Migrant/Nonmigratory,"NM, unknown in Moussy 2013; Aeshita et al 2006 suggests possible migration, NM-B&B2014",Moussy 2013; Burns & Broder 2014; Aeshita et al 2006
+Rhinolophidae,Rhinolophus,simulator,Rhinolophus simulator,Bushveld Horseshoe Bat,Unknown,,
+Vespertilionidae,Myotis,bechsteinii,Myotis bechsteinii,Bechstein's Myotis,Nonmigratory,NM in Europe - Fleming 2003; NM - Hutterer; NM-B&B2014; NM-Bisson,Fleming 2003; McGuire & Ratcliffe 2011; Burns & Broder 2014; Hutterer et al. 2005; Bisson et al 2009
+Natalidae,Natalus,mexicanus,Natalus mexicanus,Mexican Greater Funnel-eared Bat,Unknown,,
+Pteropodidae,Pteropus,scapulatus,Pteropus scapulatus,Little Red Flying Fox,Migratory,"LD - Burns & Broder 2014, mig - McGuire & Ratcliffe; Vardon & Tidemann mentions long-range mig movements seasonally, species in M&K2001 - mention of partially nomadic in response to food fluctuations, mig - Burland & Wilmer 2001; mig-W&M2022; mig-Ratcliffe 1932",Moussy 2013; McGuire & Ratcliffe 2011; Burns & Broder 2014; Vardon & Tidemann 1999; Menkhorst & Knight 2001; Burland & Wilmer 2001; Webber & McGuire 2022; Ratcliffe 1932
+Phyllostomidae,Mesophylla,macconnelli,Mesophylla macconnelli,MacConnell's Bat,Unknown,,
+Vespertilionidae,Scotorepens,sanborni,Scotorepens sanborni,Northern Broad-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Rhinolophidae,Rhinolophus,pusillus,Rhinolophus pusillus,Least Horseshoe Bat,Unknown,,
+Molossidae,Ozimops,ridei,Ozimops ridei,Ride's Free-tailed Bat,Unknown,,
+Phyllostomidae,Chiroderma,salvini,Chiroderma salvini,Salvin's Big-eyed Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; nm-Medellin,McGuire & Boyle 2013; Medellin 2003
+Miniopteridae,Miniopterus,inflatus,Miniopterus inflatus,Greater Long-fingered Bat,Migratory/Nonmigratory,"Mig - M&R, NM - Bisson",McGuire & Ratcliffe 2011; Bisson et al 2009
+Molossidae,Mops,pumilus,Mops pumilus,Little Free-tailed Bat,Nonmigratory/Potential Migrant,NM - M&R; potential migrant-O&V1980,McGuire & Ratcliffe 2011; O'Shea & Vaughan 1980
+Phyllostomidae,Uroderma,magnirostrum,Uroderma magnirostrum,Brown Tent-making Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Vespertilionidae,Myotis,thysanodes,Myotis thysanodes,Fringed Myotis,Migratory/Nonmigratory,"Potential altitudinal mig - McGuire/Boyle; NM - Bisson; mig-W&M2022, mig-Medellin, mention of alt mig - Adams 2018",McGuire & Boyle 2013; Bisson et al 2009; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Hypsugo,savii,Hypsugo savii,Savi's Pipistrelle,Migratory/Nonmigratory,"Not migratory in Italy-Ferri2011; batmonitoring.org mentions some suggestion of partial migration, DD- Hutterer, unknown - Fleming 2003; mig-W&M2022; NM-Bisson",Ferri et al. 2011; Hypsugo savii | UNEP/EUROBATS; https://batslife.eu/item/hypsugo-savii/;https://www.batmonitoring.org/en/species/hypsugo-savii/; Hutterer et al. 2005; Webber & McGuire 2022; Bisson et al 2009
+Pteropodidae,Rousettus,aegyptiacus,Rousettus aegyptiacus,Egyptian Rousette,Migratory/Nonmigratory,"NM, Perdekraal report says lit suggests they may migrate 50-500km, purported NM with documented NM habits - Ossa 2012(also cites Kwiecinski & Griffiths 1999); nm-Burland & Wilmer 2001; mig-W&M2022; MacEwan 2011 report mentions potential migration over ridges",Perdkraal report (Monadjem et al 2010); MacEwan 2011; Ossa et al 2012; Burland & Wilmer 2001; Webber & McGuire 2022
+Vespertilionidae,Lasionycteris,noctivagans,Lasionycteris noctivagans,Silver-haired Bat,Migratory/Nonmigratory,"LD - Bisson/PM in NA; altitudinal mig. suggested in McGuire & Boyle 2013; mig-W&M2022, nm-Medellin; mig- Cryan 2003, mention of alt mig - Adams 2018",Fleming 2019; McGuire & Boyle 2013; Bisson et al. 2009; Clerc et al 2021; McGuire et al 2011; Jonasson & Guglielmo 2017 - sex differences in mig/body comp; Baloun & Guglielmo 2019; Webber & McGuire 2022; Medellin 2003; Cryan 2003; Wieringa et al 2021
+Megadermatidae,Lyroderma,lyra,Lyroderma lyra,Greater False Vampire Bat,Unknown,,
+Vespertilionidae,Histiotus,montanus,Histiotus montanus,Small Big-eared Brown Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Phyllostomidae,Carollia,brevicauda,Carollia brevicauda,Silky Short-tailed Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; nm-Medellin,McGuire & Boyle 2013; Medellin 2003
+Phyllostomidae,Leptonycteris,yerbabuenae,Leptonycteris yerbabuenae,Lesser Long-nosed Bat,Migratory,"LD-fleming, alt mig suggested - M&B2013; females are both resident/mig & males are nonmig - Zamora-Mejias 2020; mig-Cockrum 1991",Fleming 2019; McGuire & Boyle2013; Burke et al 2019; Zamora-Mejias et al 2020; Cockrum 1991
+Vespertilionidae,Neoeptesicus,brasiliensis,Neoeptesicus brasiliensis,Brazilian Brown Bat,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Phyllostomidae,Lophostoma,brasiliense,Lophostoma brasiliense,Pygmy Round-eared Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Mops,midas,Mops midas,Midas' Free-tailed Bat,Unknown,,
+Molossidae,Otomops,martiensseni,Otomops martiensseni,Large-eared Giant Mastiff Bat,Migratory,"LD - Burns & Broder 2014, suggested migration in Hutson 2001 (cites Mutere 1973), also Adams et al 2015 did revised range study; CMS 2020 says only African populations",Burns & Broder 2014; Mutere 1973 - a comparative study of reproduction in two populations of Otomops martiensseni; CMS 2020
+Phyllostomidae,Platyrrhinus,lineatus,Platyrrhinus lineatus,White-lined Broad-nosed Bat,Potential Migrant,mention phenological changes in bat activity - migration could be possible,Pedro & Taddei 2002
+Phyllostomidae,Phyllostomus,hastatus,Phyllostomus hastatus,Greater Spear-nosed Bat,Potential Migrant/Nonmigratory,"Potential alt. migration - McGuire/Boyle; NM - McGuire/Ratcliffe, NM-B&B2014; nm-W&M2022",McGuire & Boyle 2013; McGuire & Ratcliffe 2011; Burns & Broder 2014; Webber & McGuire 2022
+Phyllostomidae,Lonchophylla,robusta,Lonchophylla robusta,Orange Nectar Bat,Potential Migrant,Altitudinal mig. suggested in McGuire & Boyle 2013,McGuire & Boyle 2013
+Rhinolophidae,Rhinolophus,fumigatus,Rhinolophus fumigatus,R&uuml;ppell's Horseshoe Bat,Unknown,,
+Hipposideridae,Hipposideros,cervinus,Hipposideros cervinus,Fawn-colored Leaf-nosed Bat,Unknown,,
+Molossidae,Molossus,currentium,Molossus currentium,Thomas's Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Phyllostomidae,Dermanura,phaeotis,Dermanura phaeotis,Pygmy Fruit-eating Bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Phyllostomidae,Micronycteris,minuta,Micronycteris minuta,Tiny Big-eared Bat,Unknown,,
+Vespertilionidae,Pipistrellus,pipistrellus,Pipistrellus pipistrellus,Common Pipistrelle,Migratory,"LD - Bisson, RM - Hutterer et al. 2005; altitudinal mig. suggested in McGuire & Boyle 2013, mig - Moussy, LD-B&B2014; mig - Ahlen2009, mig-W&M2022","Fleming 2003; Bisson et al 2009; Burns & Broder 2014; Ahlen et al. 2009; Hutterer et al. 2005; McGuire & Boyle 2013, Moussy et al 2013; Bryja et al 2008; Webber & McGuire 2022"
+Phyllostomidae,Artibeus,lituratus,Artibeus lituratus,Great Fruit-eating Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; direct evidence of >100km seasonal travel of female in Arnone et al 2016; nm-Medellin,McGuire & Boyle 2013; Arnone et al 2016; Medellin 2003
+Vespertilionidae,Pipistrellus,nanulus,Pipistrellus nanulus,Tiny Pipistrelle,Nonmigratory,NM,Bisson et al. 2009
+Phyllostomidae,Anoura,caudifer,Anoura caudifer,Tailed Tailless Bat,Potential Migrant,mention phenological changes in bat activity - migration could be possible,Pedro & Taddei 2002
+Pteropodidae,Scotonycteris,zenkeri,Scotonycteris zenkeri,Zenker's Fruit Bat,Unknown,,
+Rhinolophidae,Rhinolophus,hildebrandtii,Rhinolophus hildebrandtii,Hildebrandt's Horseshoe Bat,Migratory,Mig (presence in May) - O&V1980; mig-CMS2012,O'Shea & Vaughan 1980; CMS 2012
+Vespertilionidae,Antrozous,pallidus,Antrozous pallidus,Pallid Bat,Migratory/Nonmigratory,"NM in NA - Fleming, SD - Bisson 2009, Moussy et al. 2013 says putative migratory; Lack et al. 2010 & cited sources mention migration; W&M2022 - mig; nm-Medellin",Fleming 2019; Bisson et al 2009; Moussy et al. 2013; Lack et al. 2010; Webber & McGuire 2022; Medellin 2003
+Phyllostomidae,Leptonycteris,nivalis,Leptonycteris nivalis,Mexican Long-nosed Bat,Migratory,"LD-fleming, alt mig suggested - M&B2013; mig-Fleming1993(cites two other papers); mig-Medellin; mig-Moreno-Valdez 2004",Fleming 2019; McGuire & Ratcliffe 2011; M&B2013; Fleming et al 1993 (cites Barbour & Davis 1969 & Cockrum 1991); Burke et al 2019; Medellin 2003; Moreno-Valdez et al 2004
+Phyllostomidae,Vampyressa,pusilla,Vampyressa pusilla,Southern Little Yellow-eared Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Vespertilionidae,Myotis,septentrionalis,Myotis septentrionalis,Northern Myotis,Potential Migrant/Nonmigratory,"NM, unknown in Moussy 2013; altitudinal mig. suggested in McGuire & Boyle 2013; NM - B&B2014; Poissant & Broders 2008 mentions they undergo migration…",Moussy 2013; Burns & Broder 2014; McGuire & Boyle 2013; Poissant & Broders 2008
+Pteropodidae,Cynopterus,horsfieldii,Cynopterus horsfieldii,Horsfield's Short-nosed Fruit Bat,Nonmigratory,"NM, unknown in Moussy 2013",Moussy 2013; McGuire & Ratcliffe 2011
+Phyllostomidae,Phylloderma,stenops,Phylloderma stenops,Pale-faced Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Megadermatidae,Lavia,frons,Lavia frons,Yellow-winged Bat,Nonmigratory,NM,McGuire & Ratcliffe 2011
+Mormoopidae,Pteronotus,parnellii,Pteronotus parnellii,Common Mustached Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Platyrrhinus,infuscus,Platyrrhinus infuscus,Buffy Broad-nosed Bat,Unknown,,
+Rhinolophidae,Rhinolophus,affinis,Rhinolophus affinis,Intermediate Horseshoe Bat,Nonmigratory,"Unknown - Moussy 2013, NM-Burland & Wilmer 2001",Moussy 2013; Burland & Wilmer 2001
+Vespertilionidae,Parastrellus,hesperus,Parastrellus hesperus,Canyon Bat,Potential Migrant/Nonmigratory,Potential altitudinal mig - McGuire/Boyle; NM - Bisson; nm-Medellin,McGuire & Boyle 2013; Bisson et al 2009; Medellin 2003
+Vespertilionidae,Myotis,levis,Myotis levis,Yellowish Myotis,Nonmigratory,"NM - Bisson, nm-W&M2022",Bisson et al. 2009; Webber & McGuire 2022
+Molossidae,Mops,condylurus,Mops condylurus,Angolan Free-tailed Bat,Migratory,Mig - M&R; potential mig-O&V1980,McGuire & Ratcliffe 2011; O'Shea & Vaughan 1980
+Emballonuridae,Taphozous,mauritianus,Taphozous mauritianus,Mauritian Tomb Bat,Migratory/Nonmigratory,"Mig - M&R2011, annual res/PM? - O'Shea & Vaughan; Dunlop 1998 says nonmigratory, mig-W&M2022",McGuire & Ratcliffe 2011; O'Shea & Vaughan 1980; Dunlop 1998; Webber & McGuire 2022
+Vespertilionidae,Myotis,californicus,Myotis californicus,Californian Myotis,Migratory/Nonmigratory,"Potential altitudinal mig - McGuire/Boyle; NM - Bisson, nm-W&M2022; mig-Medellin",McGuire & Boyle 2013; Bisson et al 2009; Webber & McGuire 2022; Medellin 2003
+Pteropodidae,Syconycteris,australis,Syconycteris australis,Southern Blossom Bat,Nonmigratory,"sedentary-M&R2011, species in M&K2001 but no mention of mig/nonmig; nm-W&M2022",McGuire & Ratcliffe 2011; Webber & McGuire 2022
+Molossidae,Tadarida,teniotis,Tadarida teniotis,European Free-tailed Bat,Migratory/Nonmigratory,"DD in Europe - Fleming, NM - Hutterer 2005; nm-W&M2022; mig-CMS2020",Fleming 2003; Hutterer et al. 2005; Webber & McGuire 2022; CMS 2020
+Vespertilionidae,Vespadelus,pumilus,Vespadelus pumilus,Eastern Forest Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Rhogeessa,parvula,Rhogeessa parvula,Little Yellow Bat,Nonmigratory,NM - Bisson; nm-Medellin,Bisson et al. 2009; Medellin 2003
+Rhinolophidae,Rhinolophus,swinnyi,Rhinolophus swinnyi,Swinny's Horseshoe Bat,Unknown,,
+Vespertilionidae,Corynorhinus,rafinesquii,Corynorhinus rafinesquii,Rafinesque's Big-eared Bat,Nonmigratory,NM in NA - Fleming; NM-Bisson,Fleming 2019; Bisson et al 2009
+Hipposideridae,Hipposideros,galeritus,Hipposideros galeritus,Cantor's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,ater,Hipposideros ater,Dusky Leaf-nosed Bat,Unknown,,
+Mormoopidae,Pteronotus,davyi,Pteronotus davyi,Davy's Naked-backed Bat,Nonmigratory,"NM - B&B2014, unknown in Moussy 2013; nm-Medellin",Moussy 2013; Burns & Broder 2014; Medellin 2003
+Noctilionidae,Noctilio,leporinus,Noctilio leporinus,Greater Bulldog Bat,Nonmigratory,NM - M&R2011; nm-W&M2022; nm-Medellin,McGuire & Ratcliffe 2011; Webber & McGuire 2022; Medellin 2003
+Emballonuridae,Coleura,afra,Coleura afra,African sheath-tailed bat,Nonmigratory,NM - M&R2011,McGuire & Ratcliffe 2011
+Phyllostomidae,Rhinophylla,fischerae,Rhinophylla fischerae,Fischer's Little Fruit Bat,Unknown,,
+Vespertilionidae,Kerivoula,hardwickii,Kerivoula hardwickii,Hardwicke's Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Phyllostomidae,Dermanura,gnoma,Dermanura gnoma,Dwarf Fruit-eating Bat,Unknown,,
+Molossidae,Nyctinomops,macrotis,Nyctinomops macrotis,Big Free-tailed Bat,Migratory,"Local/LD migrant - Banfield 1974, Kunirai & Jones 1990; mig-W&M2022; mig-Medellin",Banfield 1974; Kunirai & Jones 1990; Webber & McGuire 2022; https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.101410/Nyctinomops_macrotis; Medellin 2003
+Phyllostomidae,Dermanura,bogotensis,Dermanura bogotensis,Bogot&aacute; Fruit-eating Bat,Unknown,,
+Vespertilionidae,Nyctophilus,geoffroyi,Nyctophilus geoffroyi,Lesser Long-eared Bat,Potential Migrant/Nonmigratory,"Potential altitudinal migration - M&B2013, Nonmigratory - Bisson",Bisson et al. 2009; McGuire & Boyle 2013
+Phyllostomidae,Dermanura,anderseni,Dermanura anderseni,Andersen's Fruit-eating Bat,Unknown,,
+Vespertilionidae,Nyctophilus,gouldi,Nyctophilus gouldi,Gould's Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Phyllostomidae,Tonatia,bidens,Tonatia bidens,Greater Round-eared Bat,Unknown,,
+Vespertilionidae,Chalinolobus,gouldii,Chalinolobus gouldii,Gould's Wattled Bat,Potential Migrant/Nonmigratory,"NM - Bisson, potential migration? - Driessen et al. 2011",Bisson et al. 2009; Driessen et al. 2011
+Rhinolophidae,Rhinolophus,alcyone,Rhinolophus alcyone,Halcyon Horseshoe Bat,Unknown,,
+Vespertilionidae,Scotophilus,kuhlii,Scotophilus kuhlii,Lesser Asiatic Yellow House Bat,Nonmigratory,"NM, unknown in Moussy 2013",Moussy 2013; Bisson et al 2009
+Phyllostomidae,Dermanura,tolteca,Dermanura tolteca,Toltec Fruit-eating Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; nm-Medellin,McGuire & Boyle 2013; Medellin 2003
+Phyllostomidae,Monophyllus,redmani,Monophyllus redmani,Leach's Single-leaf Bat,Unknown,,
+Vespertilionidae,Nycticeinops,schlieffenii,Nycticeinops schlieffenii,Schlieffen's Twilight Bat,Nonmigratory,"Annual resident - O&V1980, NM - Bisson",O'Shea & Vaughan 1980; Bisson et al 2009
+Nycteridae,Nycteris,arge,Nycteris arge,Bates's Slit-faced Bat,Unknown,,
+Natalidae,Natalus,stramineus,Natalus stramineus,Straw-colored Greater Funnel-eared Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Rhinolophidae,Rhinolophus,pearsonii,Rhinolophus pearsonii,Pearson's Horseshoe Bat,Unknown,,
+Vespertilionidae,Laephotis,capensis,Laephotis capensis,,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,javanicus,Pipistrellus javanicus,Javan Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Emballonuridae,Saccolaimus,flaviventris,Saccolaimus flaviventris,Yellow-bellied Pouched Bat,Migratory,"Potential migrant - Bonaccorso, Dunlop says known to migrate",Bonaccorso 2019; Dunlop 1998
+Vespertilionidae,Nycticeius,humeralis,Nycticeius humeralis,Evening Bat,Migratory/Nonmigratory,"NM - Bisson, Mig - Watson suggests that fat deposition and tagging/tracking suggests migration; mig-W&M2022; nm-Medellin",Bisson et al. 2009; Watson 1972; Webber & McGuire 2022; Medellin 2003
+Phyllostomidae,Trachops,cirrhosus,Trachops cirrhosus,Fringe-lipped Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Vespertilionidae,Myotis,sodalis,Myotis sodalis,Indiana Myotis,Migratory,over 500km (mentioned in Hutson 2001); SD - Bisson; Roby et al 2019 - multiyear study of mig behavior w/ distances traveled (up to 673km…); mig-W&M2022; mig-F&E2003,"Moussy 2013, Kurta 2002; Bisson et al 2009, Hutson 2001; Roby et al 2019; Webber & McGuire 2022; Fleming & Eby 2003"
+Noctilionidae,Noctilio,albiventris,Noctilio albiventris,Lesser Bulldog Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Artibeus,fimbriatus,Artibeus fimbriatus,Fringed Fruit-eating Bat,Unknown,,
+Phyllostomidae,Sturnira,luisi,Sturnira luisi,Luis' Yellow-shouldered Bat,Unknown,,
+Molossidae,Mops,plicatus,Mops plicatus,Wrinkle-lipped Free-tailed Bat,Unknown,,
+Hipposideridae,Hipposideros,armiger,Hipposideros armiger,Great Leaf-nosed Bat,Nonmigratory,NM - Moussy,Moussy 2013
+Vespertilionidae,Pseudoromicia,tenuipinnis,Pseudoromicia tenuipinnis,White-winged Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Rhinolophidae,Rhinolophus,eloquens,Rhinolophus eloquens,Eloquent Horseshoe Bat,Unknown,,
+Vespertilionidae,Lasiurus,intermedius,Lasiurus intermedius,Northern Yellow Bat,Migratory,LD - Bisson; mig- W&M2022; mig-Medellin,Bisson et al. 2009; Rojas-Herrera et al 2023; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Vespadelus,finlaysoni,Vespadelus finlaysoni,Finlayson's Forest Bat,Unknown,,
+Phyllostomidae,Vampyrum,spectrum,Vampyrum spectrum,Spectral Bat,Nonmigratory,NM - M&R2011; nm-Medellin,McGuire & Ratcliffe 2011; Medellin 2003
+Molossidae,Mops,bivittatus,Mops bivittatus,Spotted Free-tailed Bat,Unknown,unk-O'Shea & Vaughan,O'Shea & Vaughan 1980
+Vespertilionidae,Scotophilus,dinganii,Scotophilus dinganii,Yellow-bellied House Bat,Nonmigratory,NM - both sources,McGuire & Ratcliffe 2011; Bisson et al 2009
+Phyllostomidae,Carollia,subrufa,Carollia subrufa,Gray Short-tailed Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Mimon,cozumelae,Mimon cozumelae,Cozumelan Golden Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Macrotus,californicus,Macrotus californicus,Californian Leaf-nosed Bat,Nonmigratory,NM-B&B2014; nm-W&M2022; nm-Medellin2003,Burns & Broder; Phillips & Comus 2000 a natl history of the Sonoran Desert; Webber & McGuire 2022; Medellin 2003
+Pteropodidae,Myonycteris,torquata,Myonycteris torquata,Little Collared Fruit Bat,Migratory,"LD (up to 1500km), mig-McGuire & Ratcliffe; mig from dry to wet zones - Thomas 1983",Fleming 2019; McGuire & Ratcliffe 2011; Thomas 1983
+Pteropodidae,Epomophorus,crypturus,Epomophorus crypturus,Peters&apos;s Epauletted Fruit Bat,Potential Nonmigrant,purported NM - Ossa et al 2012 (cites Mickleburgh 2008 IUCN source),Ossa et al 2012
+Emballonuridae,Taphozous,melanopogon,Taphozous melanopogon,Black-bearded Tomb Bat,Migratory/Nonmigratory,Mig - M&R2011; NM - Burland & Wilmer 2001; mig-Gopalakrishna 1986,McGuire & Ratcliffe 2011; Burland & Wilmer 2001; Gopalakrishna 1986
+Rhinolophidae,Rhinolophus,philippinensis,Rhinolophus philippinensis,Large-eared Horseshoe Bat,Unknown,,
+Vespertilionidae,Corynorhinus,townsendii,Corynorhinus townsendii,Townsend's Big-eared Bat,Potential Migrant/Nonmigratory,"Local/partial migrant - movements over 150km?; suggestion of elevational mig - McGuire/Boyle 2013, NM - Moussy et al 2013; NM-Bisson; nm-Medellin, mention of alt mig - Adams 2018",McGuire and Boyle 2013; https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.103228/Corynorhinus_townsendii; Moussy et al 2013; Bisson et al 2009; Medellin 2003
+Phyllostomidae,Anoura,peruana,Anoura peruana,Peruvian Tailless Bat,Unknown,,
+Phyllostomidae,Sturnira,hondurensis,Sturnira hondurensis,Honduran Yellow-shouldered Bat,Unknown,,
+Hipposideridae,Doryrhina,cyclops,Doryrhina cyclops,Cyclops Leaf-nosed Bat,Unknown,,
+Phyllostomidae,Sturnira,lilium,Sturnira lilium,Little Yellow-shouldered Bat,Potential Migrant/Nonmigratory,"Mello et al. 2008 mentions possible seasonal altitudinal migration, M&B2013 also mentions potential alt mig (cites Giannini 1999 and others); nm-W&M2022; nm-Medellin",Pedro & Taddei 2002; Mello et al. 2008; McGuire & Boyle 2013; Giannini 1999 + others; Webber & McGuire 2022; Medellin 2003
+Molossidae,Nyctinomops,femorosaccus,Nyctinomops femorosaccus,Pocketed Free-tailed Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Miniopteridae,Miniopterus,africanus,Miniopterus africanus,African Long-fingered Bat,Potential Migrant,only present in Feb/PM? - O'Shea & Vaughan,O'Shea & Vaughan 1980
+Vespertilionidae,Myotis,ciliolabrum,Myotis ciliolabrum,Western Small-footed Myotis,Migratory/Nonmigratory,"Suggest altitudinal migration - McGuire & Boyle 2013, NM - Burns & Broder, nm-W&M2022; mig-Medellin, mention of alt mig - Adams 2018",McGuire & Boyle 2013; Burns & Broder 2014; Webber & McGuire 2022; Medellin 2003
+Phyllostomidae,Glossophaga,commissarisi,Glossophaga commissarisi,Commissaris's Long-tongued Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Pteropodidae,Rousettus,amplexicaudatus,Rousettus amplexicaudatus,Geoffroy's Rousette,Unknown,,
+Molossidae,Mops,thersites,Mops thersites,Railer Free-tailed Bat,Unknown,,
+Pteropodidae,Cynopterus,sphinx,Cynopterus sphinx,Greater Short-nosed Fruit Bat,Nonmigratory,"NM - B&B2014, unknown in Moussy 2013",Moussy 2013; Burns & Broder 2014
+Vespertilionidae,Myotis,bocagii,Myotis bocagii,Rufous Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Phyllostomidae,Ametrida,centurio,Ametrida centurio,Little White-shouldered Bat,Potential Migrant,suggests potential regional or altitudinal migration,"Acacio et al 2015 Ametrida centurio: small bat, big traveller?"
+Phyllostomidae,Artibeus,planirostris,Artibeus planirostris,Flat-headed Fruit-eating Bat,Unknown,,
+Rhinolophidae,Rhinolophus,trifoliatus,Rhinolophus trifoliatus,Trefoil Horseshoe Bat,Unknown,,
+Vespertilionidae,Myotis,elegans,Myotis elegans,Elegant Myotis,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Phyllostomidae,Trinycteris,nicefori,Trinycteris nicefori,Niceforo's Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Molossus,pretiosus,Molossus pretiosus,Miller's Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020
+Molossidae,Nyctinomops,laticaudatus,Nyctinomops laticaudatus,Broad-eared Free-tailed Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Austronomus,australis,Austronomus australis,White-striped Free-tailed Bat,Migratory,"potentially migratory - Hourigan et al 2006, seasonal migrant - Menkhorst & Knight 2011",Hourigan et al. 2006; Menkhorst & Knight 2011
+Hipposideridae,Hipposideros,cineraceus,Hipposideros cineraceus,Ashy Leaf-nosed Bat,Unknown,,
+Phyllostomidae,Phyllostomus,elongatus,Phyllostomus elongatus,Lesser Spear-nosed Bat,Unknown,,
+Molossidae,Eumops,auripendulus,Eumops auripendulus,Black Bonneted Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Nycteridae,Nycteris,thebaica,Nycteris thebaica,Egyptian Slit-faced Bat,Migratory/Nonmigratory,"NM - M&R2011, others mention potential migration; mig-W&M2022; annual resident - O&V1980",McGuire & Ratcliffe 2011; Monadjem et al. 2009 & Monadjem 2006 mentions possible migration but provides no evidence; Webber & McGuire 2022; O'Shea & Vaughan 1980
+Rhinonycteridae,Rhinonicteris,aurantia,Rhinonicteris aurantia,Orange Leaf-nosed Bat,Unknown,,
+Miniopteridae,Miniopterus,natalensis,Miniopterus natalensis,Natal Long-fingered Bat,Migratory,"annual res/PM? - O'Shea & Vaughan, Mig - Moussy; SD - B&B2014; MacEwan 2011 report mentions migration over ridges; Voigt et al 2014 - evidence of alt mig; mig (only African pops) - CMS2020; mig-Miller-Butterworth",Moussy 2013; Pretorius 2021; O'Shea & Vaughan 1980; Burns & Broders 2014; MacEwan 2011; Voigt et al 2014; CMS 2020; Miller-Butterworth et al 2003
+Vespertilionidae,Myotis,volans,Myotis volans,Long-legged Myotis,Migratory/Nonmigratory,"Potential altitudinal mig - McGuire/Boyle; NM - Bisson; mig-W&M2022, mig-Medellin, mention of alt mig - Adams 2018",McGuire & Boyle 2013; Bisson et al 2009; Webber & McGuire 2022; Medellin 2003
+Thyropteridae,Thyroptera,tricolor,Thyroptera tricolor,Spix's Disk-winged Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Vespertilionidae,Myotis,capaccinii,Myotis capaccinii,Long-fingered Myotis,Migratory/Nonmigratory,"RM in Europe; NM - Bisson, SD - Burns & Broder, RM - Hutterer et al. 2005, mig - Moussy, Fleming 2003 says unknown, nm-W&M2022","Papadatou et al 2008; Bisso et al 2009; Burns & Broder 2014; Hutterer et al. 2005, Moussy et al 2013; Webber & McGuire 2022"
+Vespertilionidae,Chalinolobus,morio,Chalinolobus morio,Chocolate Wattled Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotoecus,hindei,Scotoecus hindei,Hinde's Lesser House Bat,Potential Migrant,PM? - O'Shea & Vaughan,O'Shea & Vaughan 1980
+Vespertilionidae,Eptesicus,serotinus,Eptesicus serotinus,Common Serotine,Potential Migrant/Nonmigratory,"NM in Europe - Fleming 2003, partial mig? - suggested by Ahlen et al. 2009, regional migrant also suggested by Hutterer et al. 2005 (evidence suggests shorter distances); altitudinal mig. suggested by McGuire & Boyle 2013, sedentery - R&M2011, sedentery - Strelkov1969, nm-W&M2022; NM-Bisson",Fleming 2003; McGuire & Ratcliffe 2011; Bisson et al 2009; Ahlen et al. 2009; Hutterer et al. 2005; Strelkov 1969; Webber & McGuire 2022
+Emballonuridae,Peropteryx,macrotis,Peropteryx macrotis,Lesser Dog-like Bat,Nonmigratory,nonmigratory emballonurid - species studied over course of 1 year - Dunlop; nm-Medellin2003,Dunlop 1998; Medellin 2003
+Phyllostomidae,Erophylla,sezekorni,Erophylla sezekorni,Buffy Flower Bat,Unknown,,
+Phyllostomidae,Artibeus,obscurus,Artibeus obscurus,Dark Fruit-eating Bat,Potential Migrant,Altitudinal mig. suggested in McGuire & Boyle 2013,McGuire & Boyle 2013
+Vespertilionidae,Myotis,grisescens,Myotis grisescens,Gray Myotis,Migratory,"SD - Bisson, >500km mentioned in Hutson 2001; mig-W&M2022; mig-Tuttle 1976, mig - Holliday et al 2023",Bisson et al. 2009; Hutson 2001; Webber & McGuire 2022; Tuttle 1976; Holliday et al 2023
+Vespertilionidae,Kerivoula,papillosa,Kerivoula papillosa,Papillose Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotorepens,greyii,Scotorepens greyii,Little Broad-nosed Bat,Potential Migrant/Nonmigratory,"Purported migratory - Churchill, NM - Bisson",Churchill 2009 Australian bats; Bisson et al 2009
+Phyllostomidae,Carollia,sowelli,Carollia sowelli,Sowell&apos;s Short-tailed Bat,Unknown,,
+Phyllostomidae,Micronycteris,megalotis,Micronycteris megalotis,Little Big-eared Bat,Potential Migrant,Altitudinal mig. suggested in McGuire & Boyle 2013,McGuire & Boyle 2013
+Vespertilionidae,Myotis,austroriparius,Myotis austroriparius,Southeastern Myotis,Nonmigratory,"NM-bisson, nm-W&M2022",Bisson et al. 2009; Webber & McGuire 2022
+Phyllostomidae,Sturnira,bogotensis,Sturnira bogotensis,Bogot&aacute; Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Lophostoma,silvicola,Lophostoma silvicola,White-throated Round-eared Bat,Nonmigratory,NM-Moussy,Moussy 2013
+Vespertilionidae,Lasiurus,ega,Lasiurus ega,Southern Yellow Bat,Migratory/Potential Nonmigrant,LD - Bisson; check out sources in Rojas-Herrera2023; mig-Medellin; mig-CMS2020,Bisson et al. 2009; Rojas-Herrera et al 2023; Medellin 2003; CMS2020
+Emballonuridae,Emballonura,monticola,Emballonura monticola,Lesser Sheath-tailed Bat,Migratory,mig - McGuire & Ratcliffe; mig-CMS2012,McGuire & Ratcliffe 2011; CMS 2012
+Phyllostomidae,Enchisthenes,hartii,Enchisthenes hartii,Velvety Fruit-eating Bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Phyllostomidae,Gardnerycteris,crenulata,Gardnerycteris crenulata,Striped Hairy-nosed Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; nm-Medellin,McGuire & Boyle 2013; Medellin 2003
+Pteropodidae,Nyctimene,robinsoni,Nyctimene robinsoni,Queensland Tube-nosed Fruit Bat,Unknown,species in M&K2001 but no mention of mig/nonmig,Menkhorst & Knight 2001
+Vespertilionidae,Myotis,goudotii,Myotis goudotii,Malagasy Myotis,Potential Migrant/Nonmigratory,"Some suggestion of possible migration/mig - Moussy et al. 2013/Weyeneth et al. 2010, NM - Bisson",Moussy 2013; Bisson et al 2009
+Phyllostomidae,Anoura,cultrata,Anoura cultrata,Handley's Tailless Bat,Unknown,,
+Phyllostomidae,Micronycteris,schmidtorum,Micronycteris schmidtorum,Schmidt's Big-eared Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Molossus,molossus,Molossus molossus,Pallas's Mastiff Bat,Nonmigratory,NM - NatureServe; NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores; nm-Medellin,Louriero et al 2020 (check citations 26-29); https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.798402/Molossus_molossus; Medellin 2003
+Emballonuridae,Saccopteryx,canescens,Saccopteryx canescens,Frosted Sac-winged Bat,Unknown,,
+Rhinolophidae,Rhinolophus,megaphyllus,Rhinolophus megaphyllus,Smaller Horseshoe Bat,Unknown,,
+Phyllostomidae,Sturnira,oporaphilum,Sturnira oporaphilum,Tschudi's Yellow-shouldered Bat,Unknown,,
+Vespertilionidae,Myotis,lucifugus,Myotis lucifugus,Little Brown Myotis,Migratory,Mig - McGuire/Ratcliffe; SD - Bisson/Burns & Broder; altitudinal mig. suggested in McGuire & Boyle 2013; mig-W&M2022; mig-Medellin; mig-F&E2003,McGuire & Ratcliffe 2011; Bisson et al 2009; https://en.wikipedia.org/wiki/Little_brown_bat; Burns & Broder 2014; McGuire & Boyle 2013; Davis & Hitchcock 1965; Webber & McGuire 2022; Medellin 2003; Fleming & Eby 2003
+Vespertilionidae,Plecotus,austriacus,Plecotus austriacus,Gray Long-eared Bat,Nonmigratory,"NM - Fleming 2003, NM - Hutterer, nm-W&M2022; NM-Bisson",Fleming 2003; Moussy 2013; Bisson et al 2009; Hutterer et al. 2005; Webber & McGuire 2022
+Emballonuridae,Taphozous,hilli,Taphozous hilli,Hill's Tomb Bat,Unknown,,
+Phyllostomidae,Chiroderma,villosum,Chiroderma villosum,Hairy Big-eyed Bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Pteropodidae,Eidolon,helvum,Eidolon helvum,African Straw-colored Fruit Bat,Migratory/Nonmigratory,"LD (up to 1500km), migratory, purported migratory - Ossa2012; mig - Thomas1983, satellite telemetry & distances - Richter & Cumming 2008, NM-Burland & Wilmer 2001; mig-W&M2022, mig-CMS2020","Fleming 2019; McGuire & Ratcliffe 2011; Hurme et al. 2022; Richter & Cumming 2008, Moussy et al 2013; Ossa et al 2012; Thomas 1983; Burland & Wilmer 2001; Webber & McGuire 2022; CMS 2020"
+Rhinonycteridae,Triaenops,afer,Triaenops afer,African Trident Bat,Unknown,,
+Vespertilionidae,Vespadelus,vulturnus,Vespadelus vulturnus,Little Forest Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Phyllostomidae,Vampyressa,thyone,Vampyressa thyone,Northern Little Yellow-eared Bat,Unknown,,
+Pteropodidae,Penthetor,lucasi,Penthetor lucasi,Lucas' Short-nosed Fruit Bat,Unknown,,
+Emballonuridae,Saccopteryx,bilineata,Saccopteryx bilineata,Greater Sac-winged Bat,Nonmigratory,"NM - M&R, Dunlop says NM (sp studied for 1 year), NM - B&B2014; NM - Burland & Wilmer 2001; nm-W&M2022; nm-Medellin2003",McGuire & Ratcliffe 2011; Dunlop 1998; Burns & Broder 2014; Burland & Wilmer 2001; Webber & McGuire 2022; Medellin 2003
+Phyllostomidae,Artibeus,hirsutus,Artibeus hirsutus,Hairy Fruit-eating Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Vespertilionidae,Neoromicia,somalica,Neoromicia somalica,Somali Serotine,Nonmigratory,NM - Bisson; annual res - O&V1980,"Bisson et al. 2009, O'Shea & Vaughan 1980"
+Phyllostomidae,Uroderma,convexum,Uroderma convexum,Arcuate Tent-making Bat,Unknown,,
+Vespertilionidae,Rhogeessa,tumida,Rhogeessa tumida,Black-winged Little Yellow Bat,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Pteropodidae,Epomophorus,labiatus,Epomophorus labiatus,Little Epauletted Fruit Bat,Unknown,,
+Vespertilionidae,Lasiurus,xanthinus,Lasiurus xanthinus,Western Yellow Bat,Migratory/Potential Nonmigrant,"check sources in Rojas-Herrera, some suggest mig, they suggest non-mig; mig-Medellin",Rojas-Herrera et al 2023; Medellin 2003
+Phyllostomidae,Vampyriscus,nymphaeus,Vampyriscus nymphaeus,Striped Yellow-eared Bat,Unknown,,
+Rhinolophidae,Rhinolophus,landeri,Rhinolophus landeri,Lander's Horseshoe Bat,Migratory,mig - McGuire & Ratcliffe; mig (presence Oct to March)-O&V1980,"O'Shea & Vaughan 1980, McGuire & Ratcliffe 2011"
+Emballonuridae,Cormura,brevirostris,Cormura brevirostris,Chestnut sac-winged bat,Nonmigratory,nonmigratory emballonurid - species studied over course of 1 year,Dunlop 1998
+Mormoopidae,Mormoops,blainvillii,Mormoops blainvillii,Antillean Ghost-faced Bat,Unknown,,
+Pteropodidae,Myonycteris (Lissonycteris),angolensis,Myonycteris (Lissonycteris) angolensis,,Potential Nonmigrant,documented NM habits - mentioned in Ossa2012,Ossa et al 2012 (cites Kwiecinski & Griffiths 1999)
+Pteropodidae,Epomops,buettikoferi,Epomops buettikoferi,B&uuml;ttikofer&apos;s Epauletted Fruit Bat,Unknown,,
+Miniopteridae,Miniopterus,gleni,Miniopterus gleni,Glen's Long-fingered Bat,Unknown,,
+Rhinolophidae,Rhinolophus,stheno,Rhinolophus stheno,Lesser Brown Horseshoe Bat,Unknown,,
+Emballonuridae,Saccopteryx,leptura,Saccopteryx leptura,Lesser Sac-winged Bat,Nonmigratory,nonmigratory emballonurid - species studied over course of 1 year-Dunlop; NM - Burland & Wilmer 2001; nm-Medellin,Dunlop 1998; Burland & Wilmer 2001; Medellin 2003
+Phyllostomidae,Anoura,geoffroyi,Anoura geoffroyi,Geoffroy's Tailless Bat,Migratory,Altitudinal mig. suggested in McGuire & Boyle 2013; mig - Medellin2003,McGuire & Boyle 2013; Medellin 2003
+Phyllostomidae,Glossophaga,leachii,Glossophaga leachii,Gray's Long-tongued Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Ozimops,petersi,Ozimops petersi,Eastern Free-tailed Bat,Unknown,,
+Pteropodidae,Epomophorus,minor,Epomophorus minor,Minor Epauletted Fruit Bat,Unknown,,
+Vespertilionidae,Myotis,albescens,Myotis albescens,Silver-tipped Myotis,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Myotis,velifer,Myotis velifer,Cave Myotis,Migratory/Nonmigratory,"NM - Bisson, mig-W&M2022, either hibernation or mig - Burland & Wilmer 2001, mig-Medellin",Bisson et al. 2009; Webber & McGuire 2022; Burland & Wilmer 2001; Medellin 2003
+Emballonuridae,Balantiopteryx,io,Balantiopteryx io,Thomas's sac-winged bat,Nonmigratory,Dunlop says NM (sp studied over 1 year); NM-Medellin2003,Dunlop 1998; Medellin 2003
+Vespertilionidae,Chalinolobus,nigrogriseus,Chalinolobus nigrogriseus,Hoary Wattled Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Pteropodidae,Eonycteris,spelaea,Eonycteris spelaea,Lesser Dawn Bat,Unknown,,
+Vespertilionidae,Perimyotis,subflavus,Perimyotis subflavus,Tricolored Bat,Migratory/Nonmigratory,"RM in Europe; altitudinal mig. suggested in McGuire & Boyle 2013; SD - Bisson, Smith et al 2022 shows evidence of both short and long mig movements; mig-W&M2022; nm-Medellin; mig-F&E 2003",Fleming 2019; McGuire & Ratcliffe 2011; McGuire & Boyle 2013; Smith et al 2022; Bisson et al. 2009; Webber & McGuire 2022; Medellin 2003; Fleming & Eby 2003
+Phyllostomidae,Artibeus,fraterculus,Artibeus fraterculus,Fraternal Fruit-eating Bat,Unknown,,
+Phyllostomidae,Chiroderma,trinitatum,Chiroderma trinitatum,Little Big-eyed Bat,Unknown,,
+Vespertilionidae,Vespadelus,troughtoni,Vespadelus troughtoni,Troughton's Forest Bat,Unknown,,
+Emballonuridae,Balantiopteryx,plicata,Balantiopteryx plicata,Gray sac-winged bat,Nonmigratory,"Dunlop says NM (species studied for 1 year), Nagy says no evidence to suggest seasonal migration - does mention individuals will forage up to 12km from day roost; nm-Medellin2003",Dunlop 1998; Nagy et al 2014 - dispersal and social organization in the neotropical grey sac-winged bat; Medellin 2003
+Molossidae,Molossops,temminckii,Molossops temminckii,Dwarf Dog-faced Bat,Unknown,,
+Phyllostomidae,Sturnira,tildae,Sturnira tildae,Tilda's Yellow-shouldered Bat,Unknown,,
+Pteropodidae,Pteropus,medius,Pteropus medius,Indian Flying Fox,Potential Migrant,Altitudinal mig. suggested in McGuire & Boyle 2013 (cites Hutson 2002),McGuire & Boyle 2013 (cites Hutson 2202)
+Vespertilionidae,Falsistrellus,tasmaniensis,Falsistrellus tasmaniensis,Eastern False Pipistrelle,Potential Migrant/Nonmigratory,"May be undergoing altitudinal migration - Driessen, NM-Bisson",Driessen et al. 2011 - status and conservation of bats in Tasmania; Bisson et al 2009
+Phyllostomidae,Sturnira,parvidens,Sturnira parvidens,Northern Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,helleri,Platyrrhinus helleri,Heller's Broad-nosed Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; nm-Medellin,McGuire & Boyle 2013; Medellin 2003
+Phyllostomidae,Dermanura,watsoni,Dermanura watsoni,Thomas' Fruit-eating Bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Nycteridae,Nycteris,hispida,Nycteris hispida,Hairy Slit-faced Bat,Unknown,,
+Phyllostomidae,Glossophaga,morenoi,Glossophaga morenoi,Western Long-tongued Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Sturnira,erythromos,Sturnira erythromos,Hairy Yellow-shouldered Bat,Potential Migrant,Altitudinal mig. suggested in McGuire & Boyle 2013,McGuire & Boyle 2013 (cites Giannini 1999 - surveys of Sturnira sp over elev gradient)
+Rhinolophidae,Rhinolophus,monoceros,Rhinolophus monoceros,Formosan Lesser Horseshoe Bat,Nonmigratory,NM,Moussy 2013; Burns & Broder 2014
+Vespertilionidae,Pipistrellus,kuhlii,Pipistrellus kuhlii,Kuhl's Pipistrelle,Nonmigratory,NM in Europe - Fleming 2003; NM - Hutterer; nm-M&W2022,Fleming 2003; McGuire & Ratcliffe 2011; Bisson et al 2009; Hutterer et al. 2005; Webber & McGuire 2022
+Phyllostomidae,Dermanura,azteca,Dermanura azteca,Aztec Fruit-eating Bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Pteropodidae,Epomops,franqueti,Epomops franqueti,Franquet&apos;s Epauletted Fruit Bat,Potential Nonmigrant,purported NM - Ossa et al 2012 (cites Mickleburgh 2008 IUCN source),Ossa et al 2012
+Vespertilionidae,Tylonycteris,robustula,Tylonycteris robustula,Greater Bamboo Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Pteropodidae,Otopteropus,cartilagonodus,Otopteropus cartilagonodus,Luzon Fruit Bat,Unknown,,
+Miniopteridae,Miniopterus,manavi,Miniopterus manavi,Manavi Long-fingered Bat,Unknown,,
+Phyllostomidae,Chrotopterus,auritus,Chrotopterus auritus,Woolly False Vampire Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Hipposideridae,Hipposideros,caffer,Hipposideros caffer,Sundevall's Leaf-nosed Bat,Nonmigratory,Annual resident-O&V1980; nm-W&M2022,O'Shea & Vaughan 1980; Webber & McGuire 2022
+Phyllostomidae,Sturnira,magna,Sturnira magna,Greater Yellow-shouldered Bat,Unknown,,
+Molossidae,Cynomops,planirostris,Cynomops planirostris,Southern Dog-faced Bat,Unknown,,
+Hipposideridae,Hipposideros,larvatus,Hipposideros larvatus,Intermediate Leaf-nosed Bat,Unknown,,
+Molossidae,Mops,jobensis,Mops jobensis,Jobie Island Free-tailed Bat,Unknown,,
+Megadermatidae,Macroderma,gigas,Macroderma gigas,Australian False Vampire Bat,Nonmigratory,"NM - Moussy, sedentery - M&R2011; NM-Burland & Wilmer 2001; nm-W&M2022",Moussy 2013; McGuire & Ratcliffe 2011; Burland & Wilmer 2001; Webber & McGuire 2022
+Emballonuridae,Taphozous,troughtoni,Taphozous troughtoni,Troughton's Tomb Bat,Unknown,,
+Phyllostomidae,Rhinophylla,pumilio,Rhinophylla pumilio,Dwarf Little Fruit Bat,Unknown,,
+Phyllostomidae,Hsunycteris,thomasi,Hsunycteris thomasi,Thomas's Nectar Bat,Unknown,,
+Phyllostomidae,Uroderma,davisi,Uroderma davisi,Davis' Tent-making Bat,Unknown,,
+Vespertilionidae,Vespadelus,regulus,Vespadelus regulus,Southern Forest Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Molossidae,Micronomus,norfolkensis,Micronomus norfolkensis,Eastern Little Mastiff Bat,Unknown,,
+Nycteridae,Nycteris,macrotis,Nycteris macrotis,Large-eared Slit-faced Bat,Unknown,,
+Phyllostomidae,Lionycteris,spurrelli,Lionycteris spurrelli,Chestnut Long-tongued Bat,Unknown,,
+Mormoopidae,Pteronotus,mesoamericanus,Pteronotus mesoamericanus,Mesoamerican mustached bat,Unknown,,
+Mormoopidae,Pteronotus,quadridens,Pteronotus quadridens,Sooty Mustached Bat,Unknown,,
+Pteropodidae,Pteropus,poliocephalus,Pteropus poliocephalus,Gray-headed Flying Fox,Migratory,"SD - Burns & Broder 2014; govt doc says migratory; mig - McGuire & Ratcliffe; Vardon & Tidemann 1999 mentions possible partial migration, M&K2001 mentions camp size fluctuation; mig - Burland & Wilmer 2001; mig-W&M2022; mig-Ratcliffe1932","Moussy 2013; McGuire & Ratcliffe 2011; Burns & Broder 2014; Australia govt document for survey guidelines; Vardon & Tidemann 1999, Menkhorst & Knight 2001; Burland & Wilmer 2001; Webber & McGuire 2022; Ratcliffe 1932"
+Vespertilionidae,Glauconycteris,argentata,Glauconycteris argentata,Common Butterfly Bat,Nonmigratory,Not much is known about this species; NM - Bisson,see Rahoum 2015; Hassanin et al. 2017 for species information; Bisson et al 2009
+Phyllostomidae,Ectophylla,alba,Ectophylla alba,Honduran White Bat,Unknown,,
+Phyllostomidae,Lonchorhina,aurita,Lonchorhina aurita,Common Sword-nosed Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Vespertilionidae,Nyctophilus,bifax,Nyctophilus bifax,Bifax Long-eared Bat,Unknown,,
+Phyllostomidae,Artibeus,concolor,Artibeus concolor,Brown Fruit-eating Bat,Potential Migrant,Altitudinal mig. suggested by source in McGuire & Boyle 2013,McGuire & Boyle 2013
+Rhinolophidae,Rhinolophus,malayanus,Rhinolophus malayanus,Malayan Horseshoe Bat,Unknown,,
+Vespertilionidae,Scotorepens,orion,Scotorepens orion,Orion Broad-nosed Bat,Unknown,,
+Phyllostomidae,Vampyriscus,bidens,Vampyriscus bidens,Bidentate Yellow-eared Bat,Unknown,,
+Vespertilionidae,Vespadelus,caurinus,Vespadelus caurinus,Western Cave Bat,Unknown,,
+Natalidae,Natalus,tumidirostris,Natalus tumidirostris,Trinidadian Greater Funnel-eared Bat,Unknown,,
+Pteropodidae,Ptenochirus,jagorii,Ptenochirus jagorii,Greater Musky Fruit Bat,Nonmigratory,NM,Moussy 2013
+Mormoopidae,Pteronotus,gymnonotus,Pteronotus gymnonotus,Big Naked-backed Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Eumops,patagonicus,Eumops patagonicus,Patagonian Dwarf Bonneted Bat,Unknown,,
+Pteropodidae,Pteropus,alecto,Pteropus alecto,Black Flying Fox,Migratory,"LD - Burns & Broder 2014, mig - McGuire & Ratcliffe, movements of <133km/evidence of differential or partial migration - Vardon & Tidemann 1999, M&K2001 - may travel up to 50km daily in search of food, mig - Burland & Wilmer 2001; mig-W&M2022; mig-Breed 2010",Moussy 2013; McGuire & Ratcliffe 2011; Burns & Broder 2014; Vardon & Tidemann 1999; Burland & Wilmer 2001; Menkhorst & Knight 2001; Webber & McGuire 2022; Breed et al 2010
+Phyllostomidae,Artibeus,amplus,Artibeus amplus,Large Fruit-eating Bat,Unknown,,
+Hipposideridae,Hipposideros,ruber,Hipposideros ruber,Noack's Leaf-nosed Bat,Unknown,,
+Vespertilionidae,Myotis,escalerai,Myotis escalerai,Escalera's Myotis,Nonmigratory,Considered sedentary,"https://www.batmonitoring.org/en/species/myotis-escalerai/; see Machado et al. 2017, "
+Phyllostomidae,Platyrrhinus,vittatus,Platyrrhinus vittatus,Greater Broad-nosed Bat,Unknown,,
+Pteropodidae,Nanonycteris,veldkampii,Nanonycteris veldkampii,Veldkamp's Dwarf Epauletted Fruit Bat,Migratory,LD (up to 1500km) - Fleming; migrates btw wet & dry zones - Thomas 1983,Fleming 2019; mentioned in Hurme et al. 2022; Thomas 1983
+Hipposideridae,Hipposideros,beatus,Hipposideros beatus,Benito Leaf-nosed Bat,Unknown,,
+Vespertilionidae,Scotophilus,nigrita,Scotophilus nigrita,Giant House Bat,Migratory/Nonmigratory,"annual res/PM? - O'Shea & Vaughan; NM - Bisson, mig - M&R2011",McGuire & Ratcliffe 2011; O'Shea & Vaughan 1980; Bisson et al 2009
+Vespertilionidae,Vespadelus,baverstocki,Vespadelus baverstocki,Baverstock's Forest Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,riparius,Myotis riparius,Riparian Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Pteropodidae,Stenonycteris,lanosa,Stenonycteris lanosa,Long-haired Rousette,Unknown,,
+Vespertilionidae,Myotis,nigricans,Myotis nigricans,Black Myotis,Nonmigratory,"NM - Bisson, nm-W&M2022, nm-Medellin",Bisson et al. 2009; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Chalinolobus,dwyeri,Chalinolobus dwyeri,Large-eared Pied Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Rhinolophidae,Rhinolophus,arcuatus,Rhinolophus arcuatus,Arcuate Horseshoe Bat,Unknown,,
+Phyllostomidae,Hylonycteris,underwoodi,Hylonycteris underwoodi,Underwood's Long-tongued Bat,Potential Migrant/Nonmigratory,Altitudinal mig. suggested in McGuire & Boyle 2013; nm-Medellin,McGuire & Boyle 2013; Medellin 2003
+Pteropodidae,Pteropus,vampyrus,Pteropus vampyrus,Large Flying Fox,Migratory,potential migrant (transmigratory) - Hutson 2002; mig-Epstein 2009,Hutson 2002; Epstein et al 2009
+Vespertilionidae,Afronycteris,nana,Afronycteris nana,Banana Serotine,Nonmigratory,"sedentary - M&R2011, NM-Bisson; nm-W&M2022; annual resident - O&V1980",McGuire & Ratcliffe 2011; Bisson et al 2009; Webber & McGuire 2022; O'Shea & Vaughan 1980
+Megadermatidae,Cardioderma,cor,Cardioderma cor,Heart-nosed Bat,Nonmigratory,"NM - M&R2011, O'Shea & Vaughan suggests annual resident/low densities in summer; F&E2003 says sedentery",McGuire & Ratcliffe 2011; Fleming & Eby 2003; O'Shea & Vaughan 1980
+Pteropodidae,Balionycteris,maculata,Balionycteris maculata,Spotted-winged Fruit Bat,Unknown,,
+Phyllostomidae,Choeronycteris,mexicana,Choeronycteris mexicana,Mexican Long-tongued Bat,Migratory,"LD in NA - fleming2019, suggested alt migration - flower pollination (M&B2013), mig-Fleming1993 (cites two other papers); mig-W&M2022; mig-Medellin; mig-Valiente-Banuet 1996",Fleming 2019; McGuire & Boyle 2013; Fleming et al 1993 (cites Barbour & Davis 1969 & Cockrum 1991); Burke et al 2019; Webber & McGuire 2022; Medellin 2003; Valiente-Banuet et al 1996
+Vespertilionidae,Chalinolobus,picatus,Chalinolobus picatus,Little Pied Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Phyllostomidae,Macrophyllum,macrophyllum,Macrophyllum macrophyllum,Long-legged Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Pteropodidae,Hypsignathus,monstrosus,Hypsignathus monstrosus,Hammer-headed Fruit Bat,Potential Nonmigrant,purported NM - Ossa et al 2012 (cites Langevin & Barclay 1990 - SD movments of few km),Ossa et al 2012
+Vespertilionidae,Rhogeessa,aenea,Rhogeessa aenea,Yucatan Yellow Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Uroderma,bilobatum,Uroderma bilobatum,Common Tent-making Bat,Potential Migrant/Nonmigratory,"Altitudinal mig. suggested in McGuire & Boyle 2013 (cites Hutson 2004), putative nonmigrant - Moussy 2013, NM - B&B2014, nm-Medellin",McGuire & Boyle 2013 (cites Hutson 2004); Burns & Broder 2014; Moussy et al. 2013 says putative NM; Medellin 2003
+Vespertilionidae,Scoteanax,rueppellii,Scoteanax rueppellii,R&uuml;ppell's Broad-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Molossidae,Molossus,coibensis,Molossus coibensis,Coiban Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores; nm-Medellin,Louriero et al 2020 (check citations 26-29); Medellin 2003
+Emballonuridae,Rhynchonycteris,naso,Rhynchonycteris naso,Proboscis Bat,Nonmigratory,nonmigratory emballonurid - species studied over course of 1 year - Dunlop; nm-Medellin2003,Dunlop 1998; Medellin 2003
+Phyllostomidae,Dermanura,glauca,Dermanura glauca,Silvery Fruit-eating Bat,Unknown,,
+Emballonuridae,Taphozous,georgianus,Taphozous georgianus,Sharp-nosed Tomb Bat,Nonmigratory,nonmigratory emballonurid - species studied over course of 1 year,Dunlop 1998
+Vespertilionidae,Lasiurus,seminolus,Lasiurus seminolus,Seminole Bat,Migratory,LD - Bisson; mig- W&M2022; mig-Medellin; mig-Perry 2018,Bisson et al. 2009; Webber & McGuire 2022; Medellin 2003; Perry et al 2018
+Rhinolophidae,Rhinolophus,subrufus,Rhinolophus subrufus,Small Rufous Horseshoe Bat,Unknown,,
+Vespertilionidae,Vespadelus,darlingtoni,Vespadelus darlingtoni,Large Forest Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Pteropodidae,Dobsonia,magna,Dobsonia magna,New Guinea Naked-backed Fruit Bat,Unknown,,
+Vespertilionidae,Scotophilus,heathii,Scotophilus heathii,Greater Asiatic Yellow House Bat,Nonmigratory,NM; Mohan et al 2022 also suggests NM,Bisson et al. 2009; Mohan et al 2022
+Pteropodidae,Epomophorus,pusillus,Epomophorus pusillus,Peters' Lesser Epauletted Fruit Bat,Unknown,,
+Cistugidae,Cistugo,lesueuri,Cistugo lesueuri,Lesueur's wing-gland bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Cistugidae,Cistugo,seabrae,Cistugo seabrae,Angolan wing-gland bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Craseonycteridae,Craseonycteris,thonglongyai,Craseonycteris thonglongyai,Hog-nosed bat,Unknown,,
+Emballonuridae,Balantiopteryx,infusca,Balantiopteryx infusca,Ecuadorian sac-winged bat,Unknown,,
+Emballonuridae,Centronycteris,centralis,Centronycteris centralis,Thoma's shaggy bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Emballonuridae,Centronycteris,maximiliani,Centronycteris maximiliani,Shaggy bat,Unknown,,
+Emballonuridae,Coleura,gallarum,Coleura gallarum,Somali sheath-tailed bat,Unknown,,
+Emballonuridae,Coleura,kibomalandy,Coleura kibomalandy,Madagascar sheath-tailed bat,Unknown,,
+Emballonuridae,Coleura,seychellensis,Coleura seychellensis,Seychelles sheath-tailed bat,Unknown,,
+Emballonuridae,Cyttarops,alecto,Cyttarops alecto,Short-eared bat,Unknown,,
+Emballonuridae,Diclidurus,albus,Diclidurus albus,Northern ghost bat,Nonmigratory,NM - Medellin 2003,Medellin 2003
+Emballonuridae,Diclidurus,ingens,Diclidurus ingens,Greater ghost bat,Unknown,,
+Emballonuridae,Diclidurus,isabella,Diclidurus isabella,Isabelle's ghost bat,Unknown,,
+Emballonuridae,Diclidurus,scutatus,Diclidurus scutatus,Lesser ghost bat,Unknown,,
+Emballonuridae,Emballonura,beccarii,Emballonura beccarii,Beccari's Sheath-tailed Bat,Unknown,,
+Emballonuridae,Emballonura,dianae,Emballonura dianae,Large-eared Sheath-tailed Bat,Unknown,,
+Emballonuridae,Emballonura,furax,Emballonura furax,New Guinean Sheath-tailed Bat,Unknown,,
+Emballonuridae,Emballonura,raffrayana,Emballonura raffrayana,Raffray's Sheath-tailed Bat,Unknown,,
+Emballonuridae,Emballonura,semicaudata,Emballonura semicaudata,Polynesian Sheath-tailed Bat,Migratory,mig - McGuire & Ratcliffe; mig-CMS2012,McGuire & Ratcliffe 2011; CMS 2012
+Emballonuridae,Emballonura,serii,Emballonura serii,Seri's Sheath-tailed Bat,Unknown,,
+Emballonuridae,Mosia,nigrescens,Mosia nigrescens,Dark Sheath-tailed Bat,Unknown,,
+Emballonuridae,Paremballonura,atrata,Paremballonura atrata,Peters's Sheath-tailed Bat,Unknown,,
+Emballonuridae,Paremballonura,tiavato,Paremballonura tiavato,Rock-loving Sheath-tailed Bat,Unknown,,
+Emballonuridae,Peropteryx,leucoptera,Peropteryx leucoptera,White-winged Dog-like Bat,Unknown,,
+Emballonuridae,Peropteryx,pallidoptera,Peropteryx pallidoptera,Pale-winged Doglike Bat,Unknown,,
+Emballonuridae,Peropteryx,trinitatis,Peropteryx trinitatis,Trinidad Dog-like Bat,Unknown,,
+Emballonuridae,Saccolaimus,mixtus,Saccolaimus mixtus,Troughton's Pouched Bat,Unknown,,
+Emballonuridae,Saccolaimus,peli,Saccolaimus peli,Pel's Pouched Bat,Unknown,,
+Emballonuridae,Saccopteryx,antioquensis,Saccopteryx antioquensis,Antioquian Sac-winged Bat,Unknown,,
+Emballonuridae,Saccopteryx,gymnura,Saccopteryx gymnura,Amazonian Sac-winged Bat,Unknown,,
+Emballonuridae,Taphozous,achates,Taphozous achates,Indonesian Tomb Bat,Unknown,,
+Emballonuridae,Taphozous,hamiltoni,Taphozous hamiltoni,Hamilton's Tomb Bat,Unknown,,
+Emballonuridae,Taphozous,hildegardeae,Taphozous hildegardeae,Hildegarde's Tomb Bat,Unknown,,
+Emballonuridae,Taphozous,kapalgensis,Taphozous kapalgensis,Arnhem Tomb Bat,Unknown,,
+Emballonuridae,Taphozous,longimanus,Taphozous longimanus,Long-winged Tomb Bat,Nonmigratory,nm-W&M2022,Webber & McGuire 2022
+Emballonuridae,Taphozous,nudiventris,Taphozous nudiventris,Naked-rumped Tomb Bat,Migratory,mig- W&M2022,Webber & McGuire 2022
+Emballonuridae,Taphozous,perforatus,Taphozous perforatus,Egyptian Tomb Bat,Unknown,,
+Emballonuridae,Taphozous,theobaldi,Taphozous theobaldi,Theobald's Tomb Bat,Unknown,,
+Furipteridae,Amorphochilus,schnablii,Amorphochilus schnablii,Smoky Bat,Unknown,,
+Furipteridae,Furipterus,horrens,Furipterus horrens,Thumbless Bat,Unknown,,
+Hipposideridae,Anthops,ornatus,Anthops ornatus,Flower-faced Bat,Unknown,,
+Hipposideridae,Asellia,arabica,Asellia arabica,Arabian Trident Leaf-nosed Bat,Unknown,,
+Hipposideridae,Asellia,italosomalica,Asellia italosomalica,Horn-of-Africa Trident Leaf-nosed Bat,Unknown,,
+Hipposideridae,Asellia,patrizii,Asellia patrizii,Patrizi's Trident Leaf-nosed Bat,Unknown,,
+Hipposideridae,Aselliscus,dongbacanus,Aselliscus dongbacanus,Dong Bac's Trident Bat,Unknown,,
+Hipposideridae,Aselliscus,stoliczkanus,Aselliscus stoliczkanus,Stoliczka's Asian Trident Bat,Unknown,,
+Hipposideridae,Aselliscus,tricuspidatus,Aselliscus tricuspidatus,Temminck's Asian Trident Bat,Unknown,,
+Hipposideridae,Coelops,frithii,Coelops frithii,East Asian Tailless Leaf-nosed Bat,Unknown,,
+Hipposideridae,Coelops,hirsutus,Coelops hirsutus,Philippine Tailless Leaf-nosed Bat,Unknown,,
+Hipposideridae,Coelops,robinsoni,Coelops robinsoni,Malayan Tailless Leaf-nosed Bat,Unknown,,
+Hipposideridae,Doryrhina,camerunensis,Doryrhina camerunensis,Cameroon Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,abae,Hipposideros abae,Aba Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,alongensis,Hipposideros alongensis,Halong Bay Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,antricola,Hipposideros antricola,Philippine Dusky Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,boeadii,Hipposideros boeadii,Boeadi's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,breviceps,Hipposideros breviceps,Short-headed Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,calcaratus,Hipposideros calcaratus,Spurred Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,coronatus,Hipposideros coronatus,Large Mindanao Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,corynophyllus,Hipposideros corynophyllus,Telefomin Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,coxi,Hipposideros coxi,Cox's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,crumeniferus,Hipposideros crumeniferus,Timor Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,curtus,Hipposideros curtus,Short-tailed Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,demissus,Hipposideros demissus,Makira Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,dinops,Hipposideros dinops,Fierce Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,doriae,Hipposideros doriae,Bornean Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,durgadasi,Hipposideros durgadasi,Durga Das's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,dyacorum,Hipposideros dyacorum,Dayak Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,edwardshilli,Hipposideros edwardshilli,Hill's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,einnaythu,Hipposideros einnaythu,House-dwelling Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,fuliginosus,Hipposideros fuliginosus,Sooty Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,fulvus,Hipposideros fulvus,Fulvus Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,gentilis,Hipposideros gentilis,Exotic Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,grandis,Hipposideros grandis,Grand Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,griffini,Hipposideros griffini,Griffin's Leaf-nosed bat,Unknown,,
+Hipposideridae,Hipposideros,halophyllus,Hipposideros halophyllus,Thailand Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,hypophyllus,Hipposideros hypophyllus,Leafletted Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,inexpectatus,Hipposideros inexpectatus,Crested Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,inornatus,Hipposideros inornatus,McKean's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,jonesi,Hipposideros jonesi,Jones' Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,khaokhouayensis,Hipposideros khaokhouayensis,Phou Khao Khouay Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,kingstonae,Hipposideros kingstonae,Kingston's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,kunzi,Hipposideros kunzi,Kunz's Bicolored Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,lamottei,Hipposideros lamottei,Lamotte's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,lankadiva,Hipposideros lankadiva,Indian Leaf-nosed Bat,Migratory,mig - McGuire & Ratcliffe; mig-Gopalakrishna,McGuire & Ratcliffe 2011; Gopalakrishna 1986
+Hipposideridae,Hipposideros,lekaguli,Hipposideros lekaguli,Large Asian Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,lylei,Hipposideros lylei,Shield-faced Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,macrobullatus,Hipposideros macrobullatus,Big-eared Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,madurae,Hipposideros madurae,Maduran Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,maggietaylorae,Hipposideros maggietaylorae,Maggie Taylor's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,marisae,Hipposideros marisae,Aellen's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,megalotis,Hipposideros megalotis,Large-eared Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,muscinus,Hipposideros muscinus,Fly River Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,nequam,Hipposideros nequam,Malayan Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,nicobarulae,Hipposideros nicobarulae,Nicobar Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,obscurus,Hipposideros obscurus,Philippine Forest Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,orbiculus,Hipposideros orbiculus,Orbiculus Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,papua,Hipposideros papua,Biak Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,pelingensis,Hipposideros pelingensis,Peleng Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,pendleburyi,Hipposideros pendleburyi,Pendlebury's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,pomona,Hipposideros pomona,Pomona Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,poutensis,Hipposideros poutensis,Allen's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,pygmaeus,Hipposideros pygmaeus,Philippine Pygmy Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,ridleyi,Hipposideros ridleyi,Ridley's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,rotalis,Hipposideros rotalis,Laotian Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,scutinares,Hipposideros scutinares,Shield-nosed Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,semoni,Hipposideros semoni,Semon's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,sorenseni,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,speoris,Hipposideros speoris,Schneider's Leaf-nosed Bat,Nonmigratory,NM - Burns & Broder 2014,Burns & Broder 2014
+Hipposideridae,Hipposideros,stenotis,Hipposideros stenotis,Narrow-eared Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,sumbae,Hipposideros sumbae,Sumban Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,swinhoii,Hipposideros swinhoii,Swinhoe's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,tephrus,Hipposideros tephrus,Ash Gray Leaf-nosed Bat,Unknown,,
+Hipposideridae,Hipposideros,turpis,Hipposideros turpis,Lesser Leaf-nosed Bat,Nonmigratory,NM - Moussy,Moussy et al 2013
+Hipposideridae,Hipposideros,wollastoni,Hipposideros wollastoni,Wollaston's Leaf-nosed Bat,Unknown,,
+Hipposideridae,Macronycteris,cryptovalorona,Macronycteris cryptovalorona,Cryptic Leaf-nosed Bat,Unknown,,
+Hipposideridae,Macronycteris,gigas,Macronycteris gigas,Giant Leaf-nosed Bat,Migratory/Nonmigratory,"NM - Moussy et al 2013, Rakotoarivelo et al 2019 mentions local seasonal migrations (see the papers they cite too)",Moussy et al 2013; Rakotoarivelo et al 2019 (also look at papers they cite)
+Hipposideridae,Macronycteris,thomensis,Macronycteris thomensis,São Tomé Leaf-nosed Bat,Unknown,,
+Hipposideridae,Macronycteris,vittata,Macronycteris vittata,Striped Leaf-nosed Bat,Migratory,local seasonal migrations assoc. with prey fluc - Rakotoarivelo et al 2019,Rakotoarivelo et al 2019
+Megadermatidae,Eudiscoderma,thongareeae,Eudiscoderma thongareeae,Thongaree's Disc-nosed Bat,Unknown,,
+Miniopteridae,Miniopterus,aelleni,Miniopterus aelleni,Aellen's Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,ambohitrensis,Miniopterus ambohitrensis,Ambohitra Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,arenarius,Miniopterus arenarius,Sandy Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,brachytragos,Miniopterus brachytragos,Broad-tragused Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,egeri,Miniopterus egeri,Eger's Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,eschscholtzii ,Miniopterus eschscholtzii ,Eschscholtz's Bent-winged Bat,Unknown,,
+Miniopteridae,Miniopterus,fraterculus,Miniopterus fraterculus,Lesser Long-fingered Bat,Potential Migrant/Nonmigratory,NM - Bisson; potential mig (only present Nov-April) - O&V1980,Bisson et al 2009; O'Shea & Vaughan 1980
+Miniopteridae,Miniopterus,fuliginosus,Miniopterus fuliginosus,Eastern Bent-winged Bat,Unknown,,
+Miniopteridae,Miniopterus,fuscus,Miniopterus fuscus,Southeast Asian Long-fingered Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Miniopteridae,Miniopterus,griffithsi,Miniopterus griffithsi,Griffiths' Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,griveaudi,Miniopterus griveaudi,Griveaud's Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,macrocneme,Miniopterus macrocneme,Small Melanesian Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,maghrebensis,Miniopterus maghrebensis,Mahgrebian Bent-wing Bat,Unknown,,
+Miniopteridae,Miniopterus,magnater,Miniopterus magnater,Western Long-fingered Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Miniopteridae,Miniopterus,mahafaliensis,Miniopterus mahafaliensis,Mahafaly Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,majori,Miniopterus majori,Major's Long-fingered Bat,Migratory,mig-CMS 2020,CMS 2020
+Miniopteridae,Miniopterus,medius,Miniopterus medius,Intermediate Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,minor,Miniopterus minor,Least Long-fingered Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Miniopteridae,Miniopterus,mossambicus,Miniopterus mossambicus,Mozambique Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,newtoni,Miniopterus newtoni,Newton's Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,nimbae,Miniopterus nimbae,Nimba Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,orianae,Miniopterus orianae,Oriana's Long-fingered Bat,Migratory,"long term study on migration to/from maternity colonies - Mills2021, seasonal mig btw maternity & roosting areas - van Harten2022; http://www.environment.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=76606",Mills 2021; van Harten et al 2022
+Miniopteridae,Miniopterus,pallidus,Miniopterus pallidus,Ashen Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,paululus,Miniopterus paululus,Philippine Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,petersoni,Miniopterus petersoni,Peterson's Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,phillipsi,Miniopterus phillipsi,Phillips' Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,pusillus,Miniopterus pusillus,Small Long-fingered Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Miniopteridae,Miniopterus,robustior,Miniopterus robustior,Loyalty Long-fingered Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Miniopteridae,Miniopterus,shortridgei,Miniopterus shortridgei,Shortridge's Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,sororculus,Miniopterus sororculus,Malagasy Long-fingered Bat,Unknown,,
+Miniopteridae,Miniopterus,srinii,Miniopterus srinii,Srini's Bent-winged Bat,Unknown,,
+Miniopteridae,Miniopterus,villiersi,Miniopterus villiersi,Villier's Bent-winged Bat,Unknown,,
+Miniopteridae,Miniopterus,wilsoni,Miniopterus wilsoni,Wilson's Long-fingered Bat,Unknown,,
+Molossidae,Austronomus,kuboriensis,Austronomus kuboriensis,New Guinea Mastiff Bat,Unknown,,
+Molossidae,Cabreramops,aequatorianus,Cabreramops aequatorianus,Equatorial Dog-faced Bat,Unknown,,
+Molossidae,Cheiromeles,parvidens,Cheiromeles parvidens,Lesser Naked Bat,Unknown,,
+Molossidae,Cheiromeles,torquatus,Cheiromeles torquatus,Greater Naked Bat,Unknown,,
+Molossidae,Cynomops,abrasus,Cynomops abrasus,Cinnamon Dog-faced Bat,Unknown,,
+Molossidae,Cynomops,freemani,Cynomops freemani,Freeman's Dog-faced Bat,Unknown,,
+Molossidae,Cynomops,greenhalli,Cynomops greenhalli,Greenhall's Dog-faced Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Cynomops,kuizha,Cynomops kuizha,Awa Dog-faced Bat,Unknown,,
+Molossidae,Cynomops,mastivus,Cynomops mastivus,Mastiff Dog-faced Bat,Unknown,,
+Molossidae,Cynomops,mexicanus,Cynomops mexicanus,Mexican Dog-faced Bat,Unknown,,
+Molossidae,Cynomops,milleri,Cynomops milleri,Miller's Dog-faced Bat,Unknown,,
+Molossidae,Cynomops,tonkigui,Cynomops tonkigui,Waorani Dog-faced Bat,Unknown,,
+Molossidae,Eumops,chimaera,Eumops chimaera,Chimaera Bonneted Bat,Unknown,,
+Molossidae,Eumops,chiribaya,Eumops chiribaya,Chiribaya Bonneted Bat,Unknown,,
+Molossidae,Eumops,dabbenei,Eumops dabbenei,Big Bonneted Bat,Unknown,,
+Molossidae,Eumops,delticus,Eumops delticus,Maraj&oacute; Island Bonneted Bat ,Unknown,,
+Molossidae,Eumops,ferox,Eumops ferox,Wild Bonneted Bat,Unknown,,
+Molossidae,Eumops,floridanus,Eumops floridanus,Florida Bonneted Bat,Unknown,NM,https://animaldiversity.org/accounts/Eumops_floridanus/
+Molossidae,Eumops,hansae,Eumops hansae,Sanborn's Bonneted Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Eumops,maurus,Eumops maurus,Guianan Bonneted Bat,Unknown,,
+Molossidae,Eumops,nanus,Eumops nanus,Dwarf Bonneted Bat,Unknown,,
+Molossidae,Eumops,trumbulli,Eumops trumbulli,Trumbull's Bonneted Bat,Unknown,,
+Molossidae,Eumops,underwoodi,Eumops underwoodi,Underwood's Bonneted Bat,Migratory,mig-Medellin,Medellin 2003
+Molossidae,Eumops,wilsoni,Eumops wilsoni,Wilson&apos;s Bonneted Bat,Unknown,,
+Molossidae,Molossops,griseiventer,Molossops griseiventer,,Unknown,,
+Molossidae,Molossops,neglectus,Molossops neglectus,Rufous Dog-faced Bat,Unknown,,
+Molossidae,Molossus,alvarezi,Molossus alvarezi,Alvarez's Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Molossidae,Molossus,aztecus,Molossus aztecus,Aztec Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores; nm-Medellin,Louriero et al 2020 (check citations 26-29); Medellin 2003
+Molossidae,Molossus,bondae,Molossus bondae,Bonda Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores; nm-Medellin,Louriero et al 2020 (check citations 26-29); Medellin 2003
+Molossidae,Molossus,fentoni,Molossus fentoni,Fenton's Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Molossidae,Molossus,fluminensis,Molossus fluminensis,River Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Molossidae,Molossus,melini,Molossus melini,Melin's Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Molossidae,Molossus,milleri,Molossus milleri,Miller's Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Molossidae,Molossus,nigricans,Molossus nigricans,Ebon Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Molossidae,Molossus,verrilli,Molossus verrilli,Verrill's Mastiff Bat,Nonmigratory,NM - Louriero et al 2020 says Molossus sp are nonmig & aerial insectivores,Louriero et al 2020 (check citations 26-29)
+Molossidae,Mops,aloysiisabaudiae,Mops aloysiisabaudiae,Duke of Abruzzi's Free-tailed Bat,Unknown,,
+Molossidae,Mops,atsinanana,Mops atsinanana,Eastern Free-tailed Bat,Unknown,,
+Molossidae,Mops,bakarii,Mops bakarii,Bakari&apos;s Free-tailed Bat,Unknown,,
+Molossidae,Mops,bemmeleni,Mops bemmeleni,Gland-tailed Free-tailed Bat,Potential Migrant,potential mig-O'Shea & Vaughan,O'Shea & Vaughan 1980
+Molossidae,Mops,brachypterus,Mops brachypterus,Short-winged Free-tailed Bat,Unknown,,
+Molossidae,Mops,bregullae,Mops bregullae,Fijian Free-tailed Bat,Unknown,,
+Molossidae,Mops,chapini,Mops chapini,Pale Free-tailed Bat,Unknown,,
+Molossidae,Mops,congicus,Mops congicus,Congo Free-tailed Bat,Unknown,,
+Molossidae,Mops,demonstrator,Mops demonstrator,Mongallan Free-tailed Bat,Unknown,,
+Molossidae,Mops,gallagheri,Mops gallagheri,Gallagher's Free-tailed Bat,Unknown,,
+Molossidae,Mops,jobimena,Mops jobimena,Bicolored Free-tailed Bat,Unknown,,
+Molossidae,Mops,johorensis,Mops johorensis,Johor Free-tailed Bat,Unknown,,
+Molossidae,Mops,leucogaster,Mops leucogaster,Grandidier's Free-tailed Bat,Unknown,,
+Molossidae,Mops,leucostigma,Mops leucostigma,Malagasy White-bellied Free-tailed Bat,Unknown,,
+Molossidae,Mops,major,Mops major,Lappet-eared Free-tailed Bat,Unknown,,
+Molossidae,Mops,mops,Mops mops,Malayan Free-tailed Bat,Unknown,,
+Molossidae,Mops,niangarae,Mops niangarae,Niangaran Free-tailed Bat,Unknown,,
+Molossidae,Mops,nigeriae,Mops nigeriae,Nigerian Free-tailed Bat,Unknown,,
+Molossidae,Mops,niveiventer,Mops niveiventer,White-bellied Free-tailed Bat,Unknown,,
+Molossidae,Mops,petersoni,Mops petersoni,Peterson's Free-tailed Bat,Unknown,,
+Molossidae,Mops,pusillus,Mops pusillus,Least Free-tailed Bat,Unknown,,
+Molossidae,Mops,russatus,Mops russatus,Russet Free-tailed Bat,Unknown,,
+Molossidae,Mops,sarasinorum,Mops sarasinorum,Sulawesian Free-tailed Bat,Unknown,,
+Molossidae,Mops,shortridgei,Mops shortridgei,Shortridge's Free-tailed Bat,Unknown,,
+Molossidae,Mops,solomonis,Mops solomonis,Solomons Mastiff Bat,Unknown,,
+Molossidae,Mops,tomensis,Mops tomensis,S&atilde;o Tom&eacute; Free-tailed Bat,Unknown,,
+Molossidae,Mops,trevori,Mops trevori,Trevor's Free-tailed Bat,Unknown,,
+Molossidae,Mormopterus,acetabulosus,Mormopterus acetabulosus,Mauritian Little Mastiff Bat,Unknown,,
+Molossidae,Mormopterus,doriae,Mormopterus doriae,Sumatran Mastiff Bat,Unknown,,
+Molossidae,Mormopterus,francoismoutoui ,Mormopterus francoismoutoui ,Moutou&apos;s Mastiff Bat,Unknown,,
+Molossidae,Mormopterus,jugularis,Mormopterus jugularis,Peters' Wrinkle-lipped Bat,Nonmigratory,NM - B&B2014,Burns & Broders 2014
+Molossidae,Mormopterus,kalinowskii,Mormopterus kalinowskii,Kalinowski's Mastiff Bat,Unknown,,
+Molossidae,Mormopterus,minutus,Mormopterus minutus,Little Goblin Bat,Unknown,,
+Molossidae,Mormopterus,phrudus,Mormopterus phrudus,Incan Little Mastiff Bat,Unknown,,
+Molossidae,Myopterus,daubentonii,Myopterus daubentonii,Daubenton's Winged-mouse Bat,Unknown,,
+Molossidae,Myopterus,whitleyi,Myopterus whitleyi,Bini Winged-mouse Bat,Unknown,,
+Molossidae,Neoplatymops,mattogrossensis,Neoplatymops mattogrossensis,Mato Grosso Dog-faced Bat,Unknown,,
+Molossidae,Nyctinomops,aurispinosus,Nyctinomops aurispinosus,Peale's Free-tailed Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Nyctinomops,mbopicuare,Nyctinomops mbopicuare,GuaranÃ­  Free-tailed Bat,Unknown,,
+Molossidae,Otomops,formosus,Otomops formosus,Java Giant Mastiff Bat,Unknown,,
+Molossidae,Otomops,harrisoni,Otomops harrisoni,Harrison's Large-eared Giant Mastiff Bat,Unknown,,
+Molossidae,Otomops,johnstonei,Otomops johnstonei,Johnstone's Giant Mastiff Bat,Unknown,,
+Molossidae,Otomops,madagascariensis,Otomops madagascariensis,Malagasy Giant Mastiff Bat,Migratory,mig-CMS 2020,CMS 2020
+Molossidae,Otomops,papuensis,Otomops papuensis,Papuan Giant Mastiff Bat,Unknown,,
+Molossidae,Otomops,secundus,Otomops secundus,Mantled Giant Mastiff Bat,Unknown,,
+Molossidae,Otomops,wroughtoni,Otomops wroughtoni,Wroughton's Giant Mastiff Bat,Unknown,,
+Molossidae,Ozimops,beccarii,Ozimops beccarii,Beccari&apos;s Mastiff Bat,Unknown,,
+Molossidae,Ozimops,cobourgianus,Ozimops cobourgianus,Northwestern Free-tailed Bat,Unknown,,
+Molossidae,Ozimops,halli,Ozimops halli,Cape York Free-tailed Bat,Unknown,,
+Molossidae,Ozimops,kitcheneri,Ozimops kitcheneri,Southwestern Free-tailed Bat,Unknown,,
+Molossidae,Ozimops,loriae,Ozimops loriae,Loria's Mastiff Bat,Unknown,,
+Molossidae,Ozimops,lumsdenae,Ozimops lumsdenae,Northern Free-tailed Bat,Unknown,,
+Molossidae,Ozimops,planiceps,Ozimops planiceps,Southern Free-tailed Bat,Unknown,,
+Molossidae,Platymops,setiger,Platymops setiger,Peters' Flat-headed Bat,Potential Migrant,potential migrant-O&V1980,O'Shea & Vaughan 1980
+Molossidae,Promops,centralis,Promops centralis,Big Crested Mastiff Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Molossidae,Promops,davisoni,Promops davisoni,Davison's Crested Mastiff Bat,Unknown,,
+Molossidae,Promops,nasutus,Promops nasutus,Brown Mastiff Bat,Unknown,,
+Molossidae,Sauromys,petrophilus,Sauromys petrophilus,Roberts's Flat-headed Bat,Unknown,,
+Molossidae,Setirostris,eleryi,Setirostris eleryi,Bristle-faced Free-tailed Bat,Unknown,,
+Molossidae,Tadarida,fulminans,Tadarida fulminans,Malagasy Free-tailed Bat,Unknown,,
+Molossidae,Tadarida,insignis,Tadarida insignis,East Asian Free-tailed Bat,Migratory,"mig-CMS 2020, mig-Funakoshi & Yamamoto 2001",CMS 2020; Funakoshi & Yamamoto 2001
+Molossidae,Tadarida,latouchei,Tadarida latouchei,La Touche's Free-tailed Bat,Migratory,mig-CMS 2020,CMS 2020
+Molossidae,Tadarida,lobata,Tadarida lobata,Big-eared Free-tailed Bat,Unknown,,
+Molossidae,Tadarida,ventralis,Tadarida ventralis,Giant Free-tailed Bat,Unknown,,
+Molossidae,Tomopeas,ravum,Tomopeas ravum,Blunt-eared Bat,Unknown,,
+Mormoopidae,Pteronotus,alitonus,Pteronotus alitonus,Clarion mustached bat,Unknown,,
+Mormoopidae,Pteronotus,fulvus,Pteronotus fulvus,Tawny Naked-backed Bat,Unknown,,
+Mormoopidae,Pteronotus,fuscus,Pteronotus fuscus,Dusky Mustached Bat,Unknown,,
+Mormoopidae,Pteronotus,macleayii,Pteronotus macleayii,MacLeay's Mustached Bat,Unknown,,
+Mormoopidae,Pteronotus,mexicanus,Pteronotus mexicanus,Mexican Mustached Bat,Unknown,,
+Mormoopidae,Pteronotus,paraguanensis,Pteronotus paraguanensis,Paraguanan Mustached Bat,Unknown,,
+Mormoopidae,Pteronotus,portoricensis,Pteronotus portoricensis,Puerto Rican Mustached Bat,Unknown,,
+Mormoopidae,Pteronotus,psilotis,Pteronotus psilotis,Tehuantepec Mustached Bat,Unknown,,
+Mormoopidae,Pteronotus,pusillus,Pteronotus pusillus,Tiny Mustached Bat,Unknown,,
+Mormoopidae,Pteronotus,rubiginosus,Pteronotus rubiginosus,Rusty Mustached Bat,Unknown,,
+Mystacinidae,Mystacina,robusta,Mystacina robusta,New Zealand Greater Short-tailed Bat,Unknown,,
+Mystacinidae,Mystacina,tuberculata,Mystacina tuberculata,New Zealand Lesser Short-tailed Bat,Potential Nonmigrant,putative NM - Moussy 2013,
+Myzopodidae,Myzopoda,aurita,Myzopoda aurita,Sucker-footed Bat,Unknown,,
+Myzopodidae,Myzopoda,schliemanni,Myzopoda schliemanni,Schliemann's Sucker-footed Bat,Unknown,,
+Natalidae,Chilonatalus,macer,Chilonatalus macer,Slender Lesser Funnel-eared Bat,Unknown,,
+Natalidae,Chilonatalus,micropus,Chilonatalus micropus,Cuban Lesser Funnel-eared Bat,Unknown,,
+Natalidae,Chilonatalus,tumidifrons,Chilonatalus tumidifrons,Bahamian Lesser Funnel-eared Bat,Unknown,,
+Natalidae,Natalus,jamaicensis,Natalus jamaicensis,Jamaican Greater Funnel-eared Bat,Unknown,,
+Natalidae,Natalus,macrourus,Natalus macrourus,Long-tailed Greater Funnel-eared Bat,Unknown,,
+Natalidae,Natalus,major,Natalus major,Hispaniolan Greater Funnel-eared Bat,Unknown,,
+Natalidae,Natalus,primus,Natalus primus,Cuban Greater Funnel-eared Bat,Unknown,,
+Natalidae,Nyctiellus,lepidus,Nyctiellus lepidus,Gervais' Funnel-eared Bat,Unknown,,
+Nycteridae,Nycteris,aurita,Nycteris aurita,Andersen's Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,gambiensis,Nycteris gambiensis,Gambian Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,intermedia,Nycteris intermedia,Intermediate Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,javanica,Nycteris javanica,Javan Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,major,Nycteris major,Dja Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,nana,Nycteris nana,Dwarf Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,parisii,Nycteris parisii,Parisi's Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,tragata,Nycteris tragata,Malayan Slit-faced Bat,Unknown,,
+Nycteridae,Nycteris,woodi,Nycteris woodi,Wood's Slit-faced Bat,Unknown,,
+Phyllostomidae,Anoura,aequatoris,Anoura aequatoris,Ecuadorian Tailless Bat,Unknown,,
+Phyllostomidae,Anoura,cadenai,Anoura cadenai,Cadena&apos;s Tailless Bat,Unknown,,
+Phyllostomidae,Anoura,fistulata,Anoura fistulata,Tube-lipped Tailless Bat,Unknown,,
+Phyllostomidae,Anoura,javieri,Anoura javieri,Javier's Tailless Bat,Unknown,,
+Phyllostomidae,Anoura,latidens,Anoura latidens,Broad-toothed Tailless Bat,Unknown,,
+Phyllostomidae,Anoura,luismanueli,Anoura luismanueli,Luis Manuel's Tailless Bat,Unknown,,
+Phyllostomidae,Ardops,nichollsi,Ardops nichollsi,Tree Bat,Nonmigratory,NM - Moussy et al 2013,
+Phyllostomidae,Ariteus,flavescens,Ariteus flavescens,Jamaican Fig-eating Bat,Unknown,,
+Phyllostomidae,Artibeus,aequatorialis,Artibeus aequatorialis,Equatorial Fruit-eating Bat,Unknown,,
+Phyllostomidae,Artibeus,inopinatus,Artibeus inopinatus,Honduran Fruit-eating Bat,Unknown,,
+Phyllostomidae,Artibeus,intermedius,Artibeus intermedius,Common Fruit-eating Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Artibeus,schwartzi,Artibeus schwartzi,Schwartz&apos;s Fruit-eating Bat,Unknown,,
+Phyllostomidae,Brachyphylla,cavernarum,Brachyphylla cavernarum,Antillean Fruit-eating Bat,Nonmigratory,NM - Moussy et al 2013,
+Phyllostomidae,Brachyphylla,nana,Brachyphylla nana,Cuban Fruit-eating Bat,Unknown,,
+Phyllostomidae,Carollia,benkeithi,Carollia benkeithi,Ben Keith's Short-tailed Bat,Unknown,,
+Phyllostomidae,Carollia,manu,Carollia manu,Manu Short-tailed Bat,Unknown,,
+Phyllostomidae,Carollia,monohernandezi,Carollia monohernandezi,Hern&aacute;ndez-Camacho's Short-tailed Bat,Unknown,,
+Phyllostomidae,Chiroderma,doriae,Chiroderma doriae,Brazilian Big-eyed Bat,Unknown,,
+Phyllostomidae,Chiroderma,gorgasi,Chiroderma gorgasi,Fierce Big-eyed Bat,Unknown,,
+Phyllostomidae,Chiroderma,improvisum,Chiroderma improvisum,Guadeloupean Big-eyed Bat,Unknown,,
+Phyllostomidae,Chiroderma,scopaeum,Chiroderma scopaeum,Mexican Big-eyed Bat,Unknown,,
+Phyllostomidae,Choeroniscus,minor,Choeroniscus minor,Lesser Long-tongued Bat,Unknown,,
+Phyllostomidae,Choeroniscus,periosus,Choeroniscus periosus,Greater Long-tongued Bat,Unknown,,
+Phyllostomidae,Dermanura,rava,Dermanura rava,Amber Fruit-eating Bat,Unknown,,
+Phyllostomidae,Dermanura,rosenbergi,Dermanura rosenbergi,Rosenberg&apos;s Fruit-eating Bat,Unknown,,
+Phyllostomidae,Dryadonycteris,capixaba,Dryadonycteris capixaba,Espirito Santo Atlantic Forest Bat,Unknown,,
+Phyllostomidae,Erophylla,bombifrons,Erophylla bombifrons,Brown Flower Bat,Unknown,,
+Phyllostomidae,Gardnerycteris,keenani,Gardnerycteris keenani,Keenan&apos;s Hairy-nosed Bat,Unknown,,
+Phyllostomidae,Gardnerycteris,koepckeae,Gardnerycteris koepckeae,Koepcke's Hairy-nosed Bat,Unknown,,
+Phyllostomidae,Glossophaga,antillarum,Glossophaga antillarum,Jamaican Long-tongued Bat,Unknown,,
+Phyllostomidae,Glossophaga,bakeri,Glossophaga bakeri,Baker's Long-tongued Bat,Unknown,,
+Phyllostomidae,Glossophaga,mutica,Glossophaga mutica,Tres Marias Long-tongued Bat,Unknown,,
+Phyllostomidae,Glossophaga,valens,Glossophaga valens,Robust Long-tongued Bat,Unknown,,
+Phyllostomidae,Glyphonycteris,behnii,Glyphonycteris behnii,Behn's Bat,Unknown,,
+Phyllostomidae,Glyphonycteris,daviesi,Glyphonycteris daviesi,Graybeard Bat,Unknown,,
+Phyllostomidae,Glyphonycteris,sylvestris,Glyphonycteris sylvestris,Tricolored Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Hsunycteris,cadenai,Hsunycteris cadenai,Cadena&apos;s Nectar Bat,Unknown,,
+Phyllostomidae,Hsunycteris,dashe,Hsunycteris dashe,Dashe&apos;s Nectar Bat,Unknown,,
+Phyllostomidae,Hsunycteris,pattoni,Hsunycteris pattoni,Patton&apos;s Nectar Bat,Unknown,,
+Phyllostomidae,Lampronycteris,brachyotis,Lampronycteris brachyotis,Orange-throated Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Lichonycteris,degener,Lichonycteris degener,Common Long-tongued Bat,Unknown,,
+Phyllostomidae,Lichonycteris,obscura,Lichonycteris obscura,Dark Long-tongued Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Lonchophylla,bokermanni,Lonchophylla bokermanni,Bokermann's Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,chocoana,Lonchophylla chocoana,Choc&oacute; Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,concava,Lonchophylla concava,Goldman's Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,dekeyseri,Lonchophylla dekeyseri,Dekeyser's Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,fornicata,Lonchophylla fornicata,Pacific Forest Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,handleyi,Lonchophylla handleyi,Handley's Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,hesperia,Lonchophylla hesperia,Western Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,inexpectata,Lonchophylla inexpectata,Caatinga Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,mordax,Lonchophylla mordax,Mordant Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,orcesi,Lonchophylla orcesi,Orces&apos; Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,orienticollina,Lonchophylla orienticollina,Eastern Cordilleran Nectar Bat,Unknown,,
+Phyllostomidae,Lonchophylla,peracchii,Lonchophylla peracchii,Peracchi&apos;s Nectar Bat,Unknown,,
+Phyllostomidae,Lonchorhina,fernandezi,Lonchorhina fernandezi,Fernandez's Sword-nosed Bat,Unknown,,
+Phyllostomidae,Lonchorhina,inusitata,Lonchorhina inusitata,Uncommon Sword-nosed Bat,Unknown,,
+Phyllostomidae,Lonchorhina,mankomara,Lonchorhina mankomara,Mother Mara's Sword-nosed Bat,Unknown,,
+Phyllostomidae,Lonchorhina,marinkellei,Lonchorhina marinkellei,Marinkelle's Sword-nosed Bat,Unknown,,
+Phyllostomidae,Lonchorhina,orinocensis,Lonchorhina orinocensis,Orinocoan Sword-nosed Bat,Unknown,,
+Phyllostomidae,Lophostoma,carrikeri,Lophostoma carrikeri,Carriker's Round-eared Bat,Unknown,,
+Phyllostomidae,Lophostoma,evotis,Lophostoma evotis,Davis' Round-eared Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Lophostoma,kalkoae,Lophostoma kalkoae,Kalko&apos;s Round-eared Bat,Unknown,,
+Phyllostomidae,Lophostoma,nicaraguae,Lophostoma nicaraguae,Mesoamerican Round-eared Bat,Unknown,,
+Phyllostomidae,Lophostoma,occidentale,Lophostoma occidentale,Western Round-eared Bat,Unknown,,
+Phyllostomidae,Lophostoma,schulzi,Lophostoma schulzi,Schulz's Round-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,brosseti,Micronycteris brosseti,Brosset's Big-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,buriri,Micronycteris buriri,St. Vincent Big-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,giovanniae,Micronycteris giovanniae,Giovanni's Big-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,matses,Micronycteris matses,Matses Big-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,sanborni,Micronycteris sanborni,Sanborn's Big-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,simmonsae,Micronycteris simmonsae,Simmons' Big-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,tresamici,Micronycteris tresamici,Three Friends Big-eared Bat,Unknown,,
+Phyllostomidae,Micronycteris,yatesi,Micronycteris yatesi,Yates' Big-Eared Bat,Unknown,,
+Phyllostomidae,Monophyllus,plethodon,Monophyllus plethodon,Insular Single-leaf Bat,Unknown,,
+Phyllostomidae,Musonycteris,harrisoni,Musonycteris harrisoni,Banana Bat,Nonmigratory,nm-Medellin2003,Medellin 2003
+Phyllostomidae,Neonycteris,pusilla,Neonycteris pusilla,Least Big-eared Bat,Unknown,,
+Phyllostomidae,Phyllonycteris,aphylla,Phyllonycteris aphylla,Jamaican Flower Bat,Unknown,,
+Phyllostomidae,Phyllonycteris,poeyi,Phyllonycteris poeyi,Cuban Flower Bat,Unknown,,
+Phyllostomidae,Phyllops,falcatus,Phyllops falcatus,Cuban Fig-eating Bat,Unknown,,
+Phyllostomidae,Platalina,genovensium,Platalina genovensium,Long-snouted Bat,Migratory,mig-CMS 2012,CMS 2012
+Phyllostomidae,Platyrrhinus,albericoi,Platyrrhinus albericoi,Alberico&apos;s Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,angustirostris,Platyrrhinus angustirostris,Slender Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,aquilus,Platyrrhinus aquilus,Darien Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,aurarius,Platyrrhinus aurarius,Eldorado Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,fusciventris,Platyrrhinus fusciventris,Brown-bellied Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,guianensis,Platyrrhinus guianensis,Guianan Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,incarum,Platyrrhinus incarum,Incan Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,ismaeli,Platyrrhinus ismaeli,Ismael&apos;s Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,masu,Platyrrhinus masu,Quechua Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,matapalensis,Platyrrhinus matapalensis,Matapalo Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,nitelinea,Platyrrhinus nitelinea,Western Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,recifinus,Platyrrhinus recifinus,Recife Broad-nosed Bat,Unknown,,
+Phyllostomidae,Platyrrhinus,umbratus,Platyrrhinus umbratus,Shadowy Broad-nosed Bat,Unknown,,
+Phyllostomidae,Rhinophylla,alethina,Rhinophylla alethina,Hairy Little Fruit Bat,Unknown,,
+Phyllostomidae,Scleronycteris,ega,Scleronycteris ega,Ega Long-tongued Bat,Unknown,,
+Phyllostomidae,Sphaeronycteris,toxophyllum,Sphaeronycteris toxophyllum,Visored Bat,Unknown,,
+Phyllostomidae,Stenoderma,rufum,Stenoderma rufum,Red Fruit Bat,Nonmigratory,NM-W&M2022,Webber & McGuire 2022
+Phyllostomidae,Sturnira,adrianae,Sturnira adrianae,Adriana's Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,angeli,Sturnira angeli,Angel's Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,aratathomasi,Sturnira aratathomasi,Aratathomas' Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,bakeri,Sturnira bakeri,Baker's Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,boadai,Sturnira boadai,,Unknown,,
+Phyllostomidae,Sturnira,burtonlimi,Sturnira burtonlimi,Burton Lim's Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,giannae,Sturnira giannae,Gianna's Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,koopmanhilli,Sturnira koopmanhilli,Koopman and Hill&apos;s Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,mistratensis,Sturnira mistratensis,Mistratoan Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,mordax,Sturnira mordax,Talamancan Yellow-shouldered Bat,Potential Migrant,Alt mig suggested in M&B2013 (cites McCarthy 2005),McGuire & Boyle 2013 (cites McCarthy et al 2005)
+Phyllostomidae,Sturnira,nana,Sturnira nana,Lesser Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,paulsoni,Sturnira paulsoni,Paulson's Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,perla,Sturnira perla,La Perla Forest Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Sturnira,sorianoi,Sturnira sorianoi,Soriano&apos;s Yellow-shouldered Bat,Unknown,,
+Phyllostomidae,Tonatia,bakeri,Tonatia bakeri,Baker's Round-eared Bat,Unknown,,
+Phyllostomidae,Tonatia,maresi,Tonatia maresi,Mares' Round-eared Bat,Unknown,,
+Phyllostomidae,Uroderma,bakeri,Uroderma bakeri,Baker's Tent-making Bat,Unknown,,
+Phyllostomidae,Vampyressa,elisabethae,Vampyressa elisabethae,Elisabeth's Little Yellow-eared Bat,Unknown,,
+Phyllostomidae,Vampyressa,melissa,Vampyressa melissa,Melissa's Little Yellow-eared Bat,Potential Migrant,Alt mig suggested in M&B2013 (cites Hutson2004),McGuire & Boyle 2013 (cites Hutson 2004)
+Phyllostomidae,Vampyressa,voragine,Vampyressa voragine,La VorÃ¡gine Little Yellow-eared Bat,Unknown,,
+Phyllostomidae,Vampyriscus,brocki,Vampyriscus brocki,Brock's Yellow-eared Bat,Unknown,,
+Phyllostomidae,Xeronycteris,vieirai,Xeronycteris vieirai,Vieira&apos;s Bat,Unknown,,
+Pteropodidae,Acerodon,celebensis,Acerodon celebensis,Sulawesi Fruit Bat,Unknown,,
+Pteropodidae,Acerodon,humilis,Acerodon humilis,Talaud Fruit Bat,Unknown,,
+Pteropodidae,Acerodon,jubatus,Acerodon jubatus,Golden-capped Fruit Bat,Unknown,,
+Pteropodidae,Acerodon,leucotis,Acerodon leucotis,Palawan Fruit Bat,Unknown,,
+Pteropodidae,Acerodon,macklotii,Acerodon macklotii,Sunda Fruit Bat,Unknown,,
+Pteropodidae,Aethalops,aequalis,Aethalops aequalis,Borneo Fruit Bat,Unknown,,
+Pteropodidae,Aethalops,alecto,Aethalops alecto,Pygmy Fruit Bat,Unknown,,
+Pteropodidae,Alionycteris,paucidentata,Alionycteris paucidentata,Mindanao Pygmy Fruit Bat,Unknown,,
+Pteropodidae,Aproteles,bulmerae,Aproteles bulmerae,Bulmer's Fruit Bat,Unknown,,
+Pteropodidae,Balionycteris,seimundi,Balionycteris seimundi,Malayan Spotted-winged Fruit Bat,Unknown,,
+Pteropodidae,Boneia,bidens,Boneia bidens,Manado Rousette,Unknown,,
+Pteropodidae,Casinycteris,argynnis,Casinycteris argynnis,Golden Short-palated Fruit Bat,Unknown,,
+Pteropodidae,Casinycteris,campomaanensis,Casinycteris campomaanensis,Campo-Ma'an Fruit Bat,Unknown,,
+Pteropodidae,Casinycteris,ophiodon,Casinycteris ophiodon,Pohle's Fruit Bat,Unknown,,
+Pteropodidae,Chironax,melanocephalus,Chironax melanocephalus,Black-capped Fruit Bat,Unknown,,
+Pteropodidae,Chironax,tumulus,Chironax tumulus,Sulawesi Black-capped Fruit Bat,Unknown,,
+Pteropodidae,Cynopterus,luzoniensis,Cynopterus luzoniensis,Peters' Short-nosed  Fruit Bat,Unknown,,
+Pteropodidae,Cynopterus,minutus,Cynopterus minutus,Minute Short-nosed  Fruit Bat,Unknown,,
+Pteropodidae,Cynopterus,nusatenggara,Cynopterus nusatenggara,Nusatenggara Short-nosed Fruit Bat,Nonmigratory,NM - Burland & Wilmer 2001,Burland & Wilmer 2001
+Pteropodidae,Cynopterus,titthaecheilus,Cynopterus titthaecheilus,Indonesian Short-nosed Fruit Bat,Unknown,,
+Pteropodidae,Desmalopex,leucoptera,Desmalopex leucoptera,White-winged Flying Fox,Unknown,,
+Pteropodidae,Desmalopex,microleucoptera,Desmalopex microleucoptera,Mindoro Pallid Flying Fox,Unknown,,
+Pteropodidae,Dobsonia,anderseni,Dobsonia anderseni,Andersen&apos;s Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,beauforti,Dobsonia beauforti,Beaufort's Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,chapmani,Dobsonia chapmani,Negros Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,crenulata,Dobsonia crenulata,Halmahera Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,emersa,Dobsonia emersa,Biak Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,exoleta,Dobsonia exoleta,Sulawesi Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,inermis,Dobsonia inermis,Solomons Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,minor,Dobsonia minor,Lesser Naked-backed Fruit Bat,Nonmigratory,NM-W&M2022,Webber & McGuire 2022
+Pteropodidae,Dobsonia,moluccensis,Dobsonia moluccensis,Moluccan Naked-backed Fruit Bat,Unknown,species in M&K2001 but no mention of mig/nonmig,Menkhorst & Knight 2001
+Pteropodidae,Dobsonia,pannietensis,Dobsonia pannietensis,Panniet Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,peronii,Dobsonia peronii,Western Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,praedatrix,Dobsonia praedatrix,New Britain Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dobsonia,viridis,Dobsonia viridis,Greenish Naked-backed Fruit Bat,Unknown,,
+Pteropodidae,Dyacopterus,brooksi,Dyacopterus brooksi,Brooks&apos;s Dyak Fruit Bat,Unknown,,
+Pteropodidae,Dyacopterus,rickarti,Dyacopterus rickarti,Phillippine Large-Headed Fruit Bat,Unknown,,
+Pteropodidae,Dyacopterus,spadiceus,Dyacopterus spadiceus,Dyak Fruit Bat,Unknown,,
+Pteropodidae,Eidolon,dupreanum,Eidolon dupreanum,Malagasy Straw-colored Fruit Bat,Unknown,,
+Pteropodidae,Eonycteris,major,Eonycteris major,Greater Dawn Bat,Unknown,,
+Pteropodidae,Eonycteris,robusta,Eonycteris robusta,Phillipine Dawn Bat,Unknown,,
+Pteropodidae,Epomophorus,angolensis,Epomophorus angolensis,Angolan Epauletted Fruit Bat,Unknown,,
+Pteropodidae,Epomophorus,anselli,Epomophorus anselli,Ansell&apos;s Dawn Bat,Unknown,,
+Pteropodidae,Epomophorus,dobsonii,Epomophorus dobsonii,Dobson&apos;s Epauletted Fruit Bat,Unknown,,
+Pteropodidae,Epomophorus,grandis,Epomophorus grandis,Sanborn&apos;s Epauletted Fruit Bat,Unknown,,
+Pteropodidae,Epomophorus,intermedius,Epomophorus intermedius,Hayman's Lesser Epauletted Fruit Bat,Unknown,,
+Pteropodidae,Haplonycteris,fischeri,Haplonycteris fischeri,Philippine Pygmy Fruit Bat,Nonmigratory,NM - Burland & Wilmer 2001,Burland & Wilmer 2001
+Pteropodidae,Harpyionycteris,celebensis,Harpyionycteris celebensis,Sulawesi Harpy Fruit Bat,Unknown,,
+Pteropodidae,Harpyionycteris,whiteheadi,Harpyionycteris whiteheadi,Harpy Fruit Bat,Unknown,,
+Pteropodidae,Latidens,salimalii,Latidens salimalii,Salim Ali&apos;s Fruit Bat,Unknown,,
+Pteropodidae,Macroglossus,sobrinus,Macroglossus sobrinus,Greater Long-nosed Fruit Bat,Unknown,,
+Pteropodidae,Megaerops,albicollis,Megaerops albicollis,White-collared Fruit Bat,Unknown,,
+Pteropodidae,Megaerops,ecaudatus,Megaerops ecaudatus,Temminck&apos;s Tailless Fruit Bat,Unknown,,
+Pteropodidae,Megaerops,kusnotoi,Megaerops kusnotoi,Javan Tailless Fruit Bat,Unknown,,
+Pteropodidae,Megaerops,niphanae,Megaerops niphanae,Ratanaworabhan's Fruit Bat,Unknown,,
+Pteropodidae,Megaloglossus,azagnyi,Megaloglossus azagnyi,Western Woermann's Fruit Bat,Unknown,,
+Pteropodidae,Melonycteris,melanops,Melonycteris melanops,Black-bellied Fruit Bat,Unknown,,
+Pteropodidae,Mirimiri,acrodonta,Mirimiri acrodonta,Fijian Monkey-faced Fruit Bat,Unknown,,
+Pteropodidae,Myonycteris,brachycephala,Myonycteris brachycephala,S&atilde;o Tom&eacute; Collared Fruit Bat,Unknown,,
+Pteropodidae,Myonycteris,leptodon,Myonycteris leptodon,Small-eared Collared Fruit Bat,Unknown,,
+Pteropodidae,Myonycteris,relicta,Myonycteris relicta,Bergmans's Collared Fruit Bat,Unknown,,
+Pteropodidae,Neopteryx,frosti,Neopteryx frosti,Small-toothed Fruit Bat,Unknown,,
+Pteropodidae,Nesonycteris,fardoulisi,Nesonycteris fardoulisi,Fardoulis' Blossom Bat,Unknown,,
+Pteropodidae,Nesonycteris,maccoyi,Nesonycteris maccoyi,McCoy's Blossom Bat,Unknown,,
+Pteropodidae,Nesonycteris,mengermani,Nesonycteris mengermani,Mengden and German's Blossom Bat,Unknown,,
+Pteropodidae,Nesonycteris,woodfordi,Nesonycteris woodfordi,Woodford's Fruit Bat,Unknown,,
+Pteropodidae,Notopteris,macdonaldii,Notopteris macdonaldii,Fijian Long-tailed Fruit Bat,Unknown,,
+Pteropodidae,Notopteris,neocaledonicus,Notopteris neocaledonicus,New Caledonia Long-tailed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,aello,Nyctimene aello,Broad-striped Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,albiventer,Nyctimene albiventer,Common Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,cephalotes,Nyctimene cephalotes,Pallas' Tube-nosed Fruit Bat,Unknown,species in M&K2001 but no mention of mig/nonmig,Menkhorst & Knight 2001
+Pteropodidae,Nyctimene,certans,Nyctimene certans,Mountain Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,cyclotis,Nyctimene cyclotis,Round-eared Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,draconilla,Nyctimene draconilla,Dragon Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,keasti,Nyctimene keasti,Keast's Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,major,Nyctimene major,Island Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,malaitensis,Nyctimene malaitensis,Malaita Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,masalai,Nyctimene masalai,Demonic Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,rabori,Nyctimene rabori,Philippine Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,sanctacrucis,Nyctimene sanctacrucis,Nendo Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,varia,Nyctimene varia,Lesser Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,vizcaccia,Nyctimene vizcaccia,Umboi Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Nyctimene,wrightae,Nyctimene wrightae,Wright's Happy Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Paranyctimene,raptor,Paranyctimene raptor,Unstriped Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Paranyctimene,tenax,Paranyctimene tenax,Steadfast Tube-nosed Fruit Bat,Unknown,,
+Pteropodidae,Pilonycteris,celebensis,Pilonycteris celebensis,Sulawesi Rousette,Unknown,,
+Pteropodidae,Plerotes,anchietae,Plerotes anchietae,Anchieta's Broad-faced Fruit Bat,Unknown,,
+Pteropodidae,Ptenochirus,minor,Ptenochirus minor,Lesser Musky Fruit Bat,Unknown,,
+Pteropodidae,Ptenochirus,wetmorei,Ptenochirus wetmorei,Mindanao Fruit Bat,Unknown,,
+Pteropodidae,Pteralopex,anceps,Pteralopex anceps,Bougainville Monkey-faced Fruit Bat,Unknown,,
+Pteropodidae,Pteralopex,atrata,Pteralopex atrata,Guadalcanal Monkey-faced Fruit Bat,Unknown,,
+Pteropodidae,Pteralopex,flanneryi,Pteralopex flanneryi,Flannery&apos;s Monkey-faced Fruit Bat,Unknown,,
+Pteropodidae,Pteralopex,pulchra,Pteralopex pulchra,Montane Monkey-faced Fruit Bat,Unknown,,
+Pteropodidae,Pteralopex,taki,Pteralopex taki,New Georgian Monkey-faced Fruit Bat,Unknown,,
+Pteropodidae,Pteropus,admiralitatum,Pteropus admiralitatum,Admiralty Flying Fox,Unknown,,
+Pteropodidae,Pteropus,aldabrensis,Pteropus aldabrensis,Aldabra Flying Fox,Unknown,,
+Pteropodidae,Pteropus,allenorum,Pteropus allenorum,Allen&apos;s Flying Fox,Unknown,,
+Pteropodidae,Pteropus,anetianus,Pteropus anetianus,Vanuatu Flying Fox,Unknown,,
+Pteropodidae,Pteropus,aruensis,Pteropus aruensis,Aru Flying Fox,Unknown,,
+Pteropodidae,Pteropus,brunneus,Pteropus brunneus,Dusky Flying Fox,Unknown,species in M&K2001 but no mention of mig/nonmig,Menkhorst & Knight 2001
+Pteropodidae,Pteropus,caniceps,Pteropus caniceps,North Moluccan Flying Fox,Unknown,,
+Pteropodidae,Pteropus,capistratus,Pteropus capistratus,Bismark Masked Flying Fox,Unknown,,
+Pteropodidae,Pteropus,chrysoproctus,Pteropus chrysoproctus,Moluccan Flying Fox,Unknown,,
+Pteropodidae,Pteropus,cognatus,Pteropus cognatus,Makira Flying Fox,Unknown,,
+Pteropodidae,Pteropus,coxi,Pteropus coxi,Cox&apos;s Flying Fox,Unknown,,
+Pteropodidae,Pteropus,dasymallus,Pteropus dasymallus,Ryukyu Flying Fox,Unknown,,
+Pteropodidae,Pteropus,ennisae,Pteropus ennisae,Latangai Flying Fox,Unknown,,
+Pteropodidae,Pteropus,faunulus,Pteropus faunulus,Nicobar Flying Fox,Unknown,,
+Pteropodidae,Pteropus,fundatus,Pteropus fundatus,Banks Flying Fox,Unknown,,
+Pteropodidae,Pteropus,gilliardi,Pteropus gilliardi,Gilliard's Flying Fox,Unknown,,
+Pteropodidae,Pteropus,griseus,Pteropus griseus,Gray Flying Fox,Unknown,,
+Pteropodidae,Pteropus,howensis,Pteropus howensis,Ontong Java Flying Fox,Unknown,,
+Pteropodidae,Pteropus,hypomelanus,Pteropus hypomelanus,Variable Flying Fox,Unknown,,
+Pteropodidae,Pteropus,intermedius,Pteropus intermedius,Andersen's Flying Fox,Unknown,,
+Pteropodidae,Pteropus,keyensis,Pteropus keyensis,Kei Flying Fox,Unknown,,
+Pteropodidae,Pteropus,livingstonii,Pteropus livingstonii,Comoro Flying Fox,Unknown,,
+Pteropodidae,Pteropus,lombocensis,Pteropus lombocensis,Lombok Flying Fox,Unknown,,
+Pteropodidae,Pteropus,lylei,Pteropus lylei,Lyle's Flying Fox,Unknown,,
+Pteropodidae,Pteropus,macrotis,Pteropus macrotis,Big-eared Flying Fox,Unknown,species in M&K2001 but no mention of mig/nonmig,Menkhorst & Knight 2001
+Pteropodidae,Pteropus,mahaganus,Pteropus mahaganus,Sanborn's Flying Fox,Unknown,,
+Pteropodidae,Pteropus,mariannus,Pteropus mariannus,Marianas Flying Fox,Unknown,,
+Pteropodidae,Pteropus,melanopogon,Pteropus melanopogon,Black-bearded Flying Fox,Unknown,,
+Pteropodidae,Pteropus,melanotus,Pteropus melanotus,Black-eared Flying Fox,Unknown,,
+Pteropodidae,Pteropus,molossinus,Pteropus molossinus,Caroline Flying Fox,Unknown,,
+Pteropodidae,Pteropus,neohibernicus,Pteropus neohibernicus,Great Flying Fox,Unknown,,
+Pteropodidae,Pteropus,niger,Pteropus niger,Greater Mascarene Flying Fox,Unknown,,
+Pteropodidae,Pteropus,nitendiensis,Pteropus nitendiensis,Temotu Flying Fox,Unknown,,
+Pteropodidae,Pteropus,ocularis,Pteropus ocularis,Seram Flying Fox,Unknown,,
+Pteropodidae,Pteropus,ornatus,Pteropus ornatus,Ornate Flying Fox,Unknown,,
+Pteropodidae,Pteropus,pelagicus,Pteropus pelagicus,Seaside Flying Fox,Unknown,,
+Pteropodidae,Pteropus,pelewensis,Pteropus pelewensis,Pelew Flying Fox,Unknown,,
+Pteropodidae,Pteropus,personatus,Pteropus personatus,Moluccan Masked Flying Fox,Unknown,,
+Pteropodidae,Pteropus,pilosus,Pteropus pilosus,Large Pelew Flying Fox,Unknown,,
+Pteropodidae,Pteropus,pohlei,Pteropus pohlei,Geelvink Bay Flying Fox,Unknown,,
+Pteropodidae,Pteropus,pselaphon,Pteropus pselaphon,Bonin Flying Fox,Unknown,,
+Pteropodidae,Pteropus,pumilus,Pteropus pumilus,Little Golden-mantled Flying Fox,Unknown,,
+Pteropodidae,Pteropus,rayneri,Pteropus rayneri,Solomons Flying Fox,Unknown,,
+Pteropodidae,Pteropus,rennelli,Pteropus rennelli,Rennell Flying Fox,Unknown,,
+Pteropodidae,Pteropus,rodricensis,Pteropus rodricensis,Rodrigues Flying Fox,Unknown,,
+Pteropodidae,Pteropus,rufus,Pteropus rufus,Malagasy Flying Fox,Unknown,,
+Pteropodidae,Pteropus,samoensis,Pteropus samoensis,Samoan Flying Fox,Unknown,,
+Pteropodidae,Pteropus,seychellensis,Pteropus seychellensis,Seychelles Flying Fox,Unknown,,
+Pteropodidae,Pteropus,speciosus,Pteropus speciosus,Philippine Gray Flying Fox,Unknown,,
+Pteropodidae,Pteropus,subniger,Pteropus subniger,Dark Flying Fox,Unknown,,
+Pteropodidae,Pteropus,temminckii,Pteropus temminckii,Temminck's Flying Fox,Unknown,,
+Pteropodidae,Pteropus,tokudae,Pteropus tokudae,Guam Flying Fox,Unknown,,
+Pteropodidae,Pteropus,tonganus,Pteropus tonganus,Pacific Flying Fox,Unknown,,
+Pteropodidae,Pteropus,tuberculatus,Pteropus tuberculatus,Vanikoro Flying Fox,Unknown,,
+Pteropodidae,Pteropus,ualanus,Pteropus ualanus,Kosrae Flying Fox,Unknown,,
+Pteropodidae,Pteropus,vetulus,Pteropus vetulus,New Caledonian Flying Fox,Unknown,,
+Pteropodidae,Pteropus,voeltzkowi,Pteropus voeltzkowi,Pemba Flying Fox,Unknown,,
+Pteropodidae,Pteropus,woodfordi,Pteropus woodfordi,Dwarf Flying Fox,Unknown,,
+Pteropodidae,Rousettus,linduensis,Rousettus linduensis,Linduan Rousette,Unknown,,
+Pteropodidae,Rousettus,madagascariensis,Rousettus madagascariensis,Malagasy Rousette,Nonmigratory,NM,Burns & Broder 2014
+Pteropodidae,Rousettus,obliviosus,Rousettus obliviosus,Comoro Rousette,Unknown,,
+Pteropodidae,Rousettus,spinalatus,Rousettus spinalatus,Bare-backed Rousette,Unknown,,
+Pteropodidae,Scotonycteris,bergmansi,Scotonycteris bergmansi,Bergmans' Fruit Bat,Unknown,,
+Pteropodidae,Scotonycteris,occidentalis,Scotonycteris occidentalis,Hayman's Tear-drop Fruit Bat,Unknown,,
+Pteropodidae,Sphaerias,blanfordi,Sphaerias blanfordi,Blanford's Fruit Bat,Unknown,,
+Pteropodidae,Styloctenium,mindorensis,Styloctenium mindorensis,Mindoro Stripe-faced Fruit Bat,Unknown,,
+Pteropodidae,Styloctenium,wallacei,Styloctenium wallacei,Stripe-faced Fruit Bat,Unknown,,
+Pteropodidae,Syconycteris,carolinae,Syconycteris carolinae,Halmaheran Blossom Bat,Unknown,,
+Pteropodidae,Syconycteris,hobbit,Syconycteris hobbit,Moss-forest Blossom Bat,Unknown,,
+Pteropodidae,Thoopterus,nigrescens,Thoopterus nigrescens,Swift Fruit Bat,Nonmigratory,NM,Burns & Broder 2014
+Pteropodidae,Thoopterus,suhaniahae,Thoopterus suhaniahae,Suhaniah&apos;s Fruit Bat,Unknown,,
+Rhinolophidae,Rhinolophus,achilles,Rhinolophus achilles,Queensland Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,acuminatus,Rhinolophus acuminatus,Accuminate Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,adami,Rhinolophus adami,Adam's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,alticolus,Rhinolophus alticolus,Cameroon Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,andamanensis,Rhinolophus andamanensis,Cryptic Andaman Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,beddomei,Rhinolophus beddomei,Bedomme's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,belligerator,Rhinolophus belligerator,Belligerent Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,bocharicus,Rhinolophus bocharicus,Central Asian Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,borneensis,Rhinolophus borneensis,Bornean Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,canuti,Rhinolophus canuti,Canut's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,capensis,Rhinolophus capensis,Cape Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,celebensis,Rhinolophus celebensis,Sulawesi Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,chaseni,Rhinolophus chaseni,Chasen's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,chiewkweeae,Rhinolophus chiewkweeae,Chiew Kwee&apos;s Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,chutamasae,Rhinolophus chutamasae,Mountain Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,coelophyllus,Rhinolophus coelophyllus,Croslet Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,cognatus,Rhinolophus cognatus,Andaman Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,cohenae,Rhinolophus cohenae,Cohen's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,convexus,Rhinolophus convexus,Convex Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,cornutus,Rhinolophus cornutus,Little Japanese Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,creaghi,Rhinolophus creaghi,Creagh's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,damarensis,Rhinolophus damarensis,Damara Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,darlingi,Rhinolophus darlingi,Darling's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,deckenii,Rhinolophus deckenii,Decken's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,denti,Rhinolophus denti,Dent's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,episcopus,Rhinolophus episcopus,Guardian Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,euryotis,Rhinolophus euryotis,Broad-eared Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,foetidus,Rhinolophus foetidus,Andersen's Woolly Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,formosae,Rhinolophus formosae,Formosan Woolly Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,francisi,Rhinolophus francisi,Francis' Woolly Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,guineensis,Rhinolophus guineensis,Guinean Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,hilli,Rhinolophus hilli,Hill's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,hillorum,Rhinolophus hillorum,Upland Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,hirsutus,Rhinolophus hirsutus,Hairy Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,horaceki,Rhinolophus horaceki,Hor&aacute;&ccaron;ek's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,imaizumii,Rhinolophus imaizumii,Imaizumi's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,inops,Rhinolophus inops,Philippine Forest Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,keyensis,Rhinolophus keyensis,Kai Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,lobatus,Rhinolophus lobatus,Lobed Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,luctoides,Rhinolophus luctoides,Luctus-like Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,luctus,Rhinolophus luctus,Greater Woolly Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,mabuensis,Rhinolophus mabuensis,Mount Mabu Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,maclaudi,Rhinolophus maclaudi,Maclaud's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,macrotis,Rhinolophus macrotis,Big-eared Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,madurensis,Rhinolophus madurensis,Madura Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,maendeleo,Rhinolophus maendeleo,Maendeleo Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,marshalli,Rhinolophus marshalli,Marshall's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,mcintyrei,Rhinolophus mcintyrei,McIntyre's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,microglobosus,Rhinolophus microglobosus,Indo-Chinese Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,midas,Rhinolophus midas,Midas' Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,mitratus,Rhinolophus mitratus,Mitred Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,montanus,Rhinolophus montanus,Timorese Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,morio,Rhinolophus morio,Jester's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,mossambicus,Rhinolophus mossambicus,Mozambican Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,namuli,Rhinolophus namuli,Namuli Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,nereis,Rhinolophus nereis,Anamban Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,nippon,Rhinolophus nippon,Greater Japanese Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,osgoodi,Rhinolophus osgoodi,Osgood's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,perditus,Rhinolophus perditus,Yaeyama Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,perniger,Rhinolophus perniger,Northern Woolly Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,proconsulis,Rhinolophus proconsulis,Proconsul's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,pumilus,Rhinolophus pumilus,Little Okinawan Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,refulgens,Rhinolophus refulgens,Glossy Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,rex,Rhinolophus rex,King Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,robinsoni,Rhinolophus robinsoni,Peninsular Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,rouxii,Rhinolophus rouxii,Rufous Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,rufus,Rhinolophus rufus,Large Rufous Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,ruwenzorii,Rhinolophus ruwenzorii,Ruwenzori Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,sakejiensis,Rhinolophus sakejiensis,Sakeji Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,sedulus,Rhinolophus sedulus,Lesser Woolly Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,septentrionalis,Rhinolophus septentrionalis,Northern Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,shameli,Rhinolophus shameli,Shamel's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,shortridgei,Rhinolophus shortridgei,Shortridge's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,siamensis,Rhinolophus siamensis,Northern Thai Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,silvestris,Rhinolophus silvestris,Forest Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,sinicus,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,smithersi,Rhinolophus smithersi,Smithers' Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,subbadius,Rhinolophus subbadius,Little Nepalese Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,tatar,Rhinolophus tatar,Tatar Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,thailandensis,Rhinolophus thailandensis,Thai Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,thomasi,Rhinolophus thomasi,Thomas's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,virgo,Rhinolophus virgo,Yellow-faced Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,willardi,Rhinolophus willardi,Willard's Horsehoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,xinanzhongguoensis,Rhinolophus xinanzhongguoensis,Southwestern-Chinese Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,yonghoiseni,Rhinolophus yonghoiseni,Yong Hoi Sen's Woolly Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,yunanensis,Rhinolophus yunanensis,Dobson's Horseshoe Bat,Unknown,,
+Rhinolophidae,Rhinolophus,ziama,Rhinolophus ziama,Ziama Horseshoe Bat,Unknown,,
+Rhinonycteridae,Cloeotis,percivali,Cloeotis percivali,Percival's Short-eared Trident Bat,Unknown,,
+Rhinonycteridae,Paratriaenops,auritus,Paratriaenops auritus,Grandidier's Trident Bat,Unknown,,
+Rhinonycteridae,Paratriaenops,furcula,Paratriaenops furcula,Trouessart's Trident Bat,Unknown,,
+Rhinonycteridae,Paratriaenops,pauliani,Paratriaenops pauliani,Paulian&apos;s Trident Bat,Unknown,,
+Rhinonycteridae,Triaenops,menamena,Triaenops menamena,Red Madagascan Trident Bat,Unknown,,
+Rhinonycteridae,Triaenops,parvus,Triaenops parvus,Little Trident Bat,Unknown,,
+Rhinonycteridae,Triaenops,persicus,Triaenops persicus,Persian Trident Bat,Migratory,mig - McGuire & Ratcliffe; potential mig (present Nov-Dec)-O&V1980,McGuire & Ratcliffe 2011; O'Shea & Vaughan 1980
+Rhinopomatidae,Rhinopoma,cystops,Rhinopoma cystops,Big-eyed Mouse-tailed Bat,Potential Migrant,Wilson & Mittermeier 2019 suggest mig pattern identical to Rhinopoma microphyllum,Wilson & Mittermeier 2019
+Rhinopomatidae,Rhinopoma,hadramauticum,Rhinopoma hadramauticum,Hadramaut Mouse-tailed Bat,Unknown,,
+Rhinopomatidae,Rhinopoma,macinnesi,Rhinopoma macinnesi,MacInnes' Mouse-tailed Bat,Unknown,,
+Rhinopomatidae,Rhinopoma,muscatellum,Rhinopoma muscatellum,Small Mouse-tailed Bat,Potential Migrant,Kafaei et al 2021 talks about migration to higher latitudes in response to climate change…unclear if this is range shift type of migration or a seasonal thing,Kafaei et al 2021
+Thyropteridae,Thyroptera,devivoi,Thyroptera devivoi,De Vivo&#39;s Disk-winged Bat,Unknown,,
+Thyropteridae,Thyroptera,discifera,Thyroptera discifera,Peters's Disk-winged Bat,Unknown,,
+Thyropteridae,Thyroptera,lavali,Thyroptera lavali,LaVal's Disk-winged Bat,Unknown,,
+Thyropteridae,Thyroptera,wynneae,Thyroptera wynneae,Patricia's disk-winged bat,Unknown,,
+Vespertilionidae,Afronycteris,helios,Afronycteris helios,Samburu Serotine,Unknown,,
+Vespertilionidae,Arielulus,circumdatus,Arielulus circumdatus,Bronze Sprite,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Arielulus,cuprosus,Arielulus cuprosus,Coppery Sprite,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Arielulus,societatis,Arielulus societatis,Social Sprite,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Baeodon,alleni,Baeodon alleni,Allen's Yellow Bat,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Baeodon,gracilis,Baeodon gracilis,Slender Yellow Bat,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Barbastella,beijingensis,Barbastella beijingensis,Beijing Barbastelle,Unknown,,
+Vespertilionidae,Barbastella,caspica,Barbastella caspica,Caspian Barbastelle,Unknown,,
+Vespertilionidae,Barbastella,darjelingensis,Barbastella darjelingensis,Darjeeling Barbastelle,Unknown,,
+Vespertilionidae,Barbastella,leucomelas,Barbastella leucomelas,Eastern Barbastelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Barbastella,pacifica,Barbastella pacifica,Japanese Barbastelle,Unknown,,
+Vespertilionidae,Bauerus,dubiaquercus,Bauerus dubiaquercus,Van Gelder's Bat,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Cassistrellus,dimissus,Cassistrellus dimissus,Surat Helmeted Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Cassistrellus,yokdonensis,Cassistrellus yokdonensis,Yokdon Helmeted Bat,Unknown,,
+Vespertilionidae,Chalinolobus,neocaledonicus,Chalinolobus neocaledonicus,New Caledonia Wattled Bat,Unknown,,
+Vespertilionidae,Chalinolobus,tuberculatus,Chalinolobus tuberculatus,Long-tailed Wattled Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Eptesicus,anatolicus,Eptesicus anatolicus,Anatolian Serotine,Unknown,,
+Vespertilionidae,Eptesicus,bottae,Eptesicus bottae,Botta's Serotine,Nonmigratory,DD - Hutterer; NM-Bisson,Hutterer et al. 2005; Bisson et al 2009
+Vespertilionidae,Eptesicus,floweri,Eptesicus floweri,Horn-skinned Serotine,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Eptesicus,fuscus,Eptesicus fuscus,Big Brown Bat,Migratory/Nonmigratory,"NM - Moussy et al 2013, sedentery - M&R2011, suggestion of altitudinal migration in M&B2013 (see sources within), NM-B&B2014, nm-W&M2022; NM-Bisson; mig-Medellin, mention of alt mig - Adams 2018",Moussy et al 2013; McGuire & Ratcliffe 2011; Burns & Broder 2014; Webber & McGuire 2022; Bisson et al 2009; Medellin 2003
+Vespertilionidae,Eptesicus,gobiensis,Eptesicus gobiensis,Gobi Big Brown Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Eptesicus,hottentotus,Eptesicus hottentotus,Long-tailed Serotine,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Eptesicus,isabellinus,Eptesicus isabellinus,Meridional Serotine,Nonmigratory,putative NM - Moussy 2013; NM-B&B2014,Moussy et al 2013; Burns & Broder 2014
+Vespertilionidae,Eptesicus,japonensis,Eptesicus japonensis,Japanese Short-tailed Bat,Unknown,,
+Vespertilionidae,Eptesicus,kobayashii,Eptesicus kobayashii,Kobayashi's Serotine,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Eptesicus,ognevi,Eptesicus ognevi,Ognev's Serotine,Unknown,,
+Vespertilionidae,Eptesicus,pachyomus,Eptesicus pachyomus,Mouse-like Serotine,Unknown,,
+Vespertilionidae,Eptesicus,pachyotis,Eptesicus pachyotis,Thick-eared Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Eptesicus,platyops,Eptesicus platyops,Lagos Serotine,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Eptesicus,tatei,Eptesicus tatei,Sombre Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Euderma,maculatum,Euderma maculatum,Spotted Bat,Migratory/Nonmigratory,mig - Webber & McGuire2022; NM-Bisson; nm-Medellin,Webber & McGuire 2022; Bisson et al 2009; Medellin 2003
+Vespertilionidae,Eudiscopus,denticulus,Eudiscopus denticulus,Disk-footed Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Falsistrellus,mackenziei,Falsistrellus mackenziei,Mackenzie's False Pipistrelle,Unknown,,
+Vespertilionidae,Glauconycteris,alboguttata,Glauconycteris alboguttata,Striped Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glauconycteris,atra,Glauconycteris atra,Black Butterfly Bat,Unknown,,
+Vespertilionidae,Glauconycteris,beatrix,Glauconycteris beatrix,Beatrix Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glauconycteris,curryae,Glauconycteris curryae,Curry's Butterfly Bat,Unknown,,
+Vespertilionidae,Glauconycteris,egeria,Glauconycteris egeria,Bibundi Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glauconycteris,gleni,Glauconycteris gleni,Glen's Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glauconycteris,humeralis,Glauconycteris humeralis,Spotted Butterfly Bat,Unknown,,
+Vespertilionidae,Glauconycteris,kenyacola,Glauconycteris kenyacola,Kenyacola Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glauconycteris,machadoi,Glauconycteris machadoi,Machado's Butterfly Bat,Unknown,,
+Vespertilionidae,Glauconycteris,poensis,Glauconycteris poensis,Abo Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glauconycteris,superba,Glauconycteris superba,Pied Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glauconycteris,variegata,Glauconycteris variegata,Variegated Butterfly Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Glischropus,aquilus,Glischropus aquilus,Dark Thick-thumbed bat,Unknown,,
+Vespertilionidae,Glischropus,bucephalus,Glischropus bucephalus,Indochinese Thick-thumbed Bat,Unknown,,
+Vespertilionidae,Glischropus,javanus,Glischropus javanus,Javan Thick-thumbed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Glischropus,meghalayanus,Glischropus meghalayanus,Meghalaya Thick-thumbed bat,Unknown,,
+Vespertilionidae,Glischropus,tylopus,Glischropus tylopus,Common Thick-thumbed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Harpiocephalus,harpia,Harpiocephalus harpia,Lesser Hairy-winged Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Harpiola,grisea,Harpiola grisea,Peters' Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Harpiola,isodon,Harpiola isodon,Golden-haired Tube-nosed Bat,Unknown,,
+Vespertilionidae,Hesperoptenus,blanfordi,Hesperoptenus blanfordi,Blanford's Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hesperoptenus,doriae,Hesperoptenus doriae,False Serotine Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hesperoptenus,gaskelli,Hesperoptenus gaskelli,Gaskell's False Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hesperoptenus,tickelli,Hesperoptenus tickelli,Tickell's Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hesperoptenus,tomesi,Hesperoptenus tomesi,Large False Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Histiotus,alienus,Histiotus alienus,Strange Big-eared Brown Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Histiotus,cadenai,Histiotus cadenai,Cadena's Big-eared Brown Bat,Unknown,,
+Vespertilionidae,Histiotus,colombiae,Histiotus colombiae,Colombian Big-eared Brown Bat,Unknown,,
+Vespertilionidae,Histiotus,diaphanopterus,Histiotus diaphanopterus,Transparent-winged Big-eared Brown Bat,Unknown,,
+Vespertilionidae,Histiotus,humboldti,Histiotus humboldti,Humboldt's Big-eared Brown Bat,Unknown,,
+Vespertilionidae,Histiotus,laephotis,Histiotus laephotis,Thomas' Big-eared Brown Bat,Unknown,,
+Vespertilionidae,Histiotus,macrotus,Histiotus macrotus,Big-eared Brown Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Histiotus,magellanicus,Histiotus magellanicus,Southern Big-eared Brown Bat,Unknown,,
+Vespertilionidae,Histiotus,mochica,Histiotus mochica,Moche's Leaf-eared Bat,Unknown,,
+Vespertilionidae,Histiotus,velatus,Histiotus velatus,Tropical Big-eared Brown Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,affinis,Hypsugo affinis,Chocolate Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,alaschanicus,Hypsugo alaschanicus,Alashanian Pipistrelle,Unknown,,
+Vespertilionidae,Hypsugo,arabicus,Hypsugo arabicus,Arabian Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,ariel,Hypsugo ariel,Fairy Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,cadornae,Hypsugo cadornae,Cadorna's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,dolichodon,Hypsugo dolichodon,Long-toothed Pipistrelle,Unknown,,
+Vespertilionidae,Hypsugo,imbricatus,Hypsugo imbricatus,Brown Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,kitcheneri,Hypsugo kitcheneri,Red-brown Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,lanzai,Hypsugo lanzai,Lanza&apos;s Pipistrelle,Unknown,,
+Vespertilionidae,Hypsugo,lophurus,Hypsugo lophurus,Burmese Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,macrotis,Hypsugo macrotis,Big-eared Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,mordax,Hypsugo mordax,Pungent Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,musciculus,Hypsugo musciculus,Mouse-like Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,petersi,Hypsugo petersi,Peters' Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,pulveratus,Hypsugo pulveratus,Chinese Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Hypsugo,stubbei,Hypsugo stubbei,Stubbe's Pipistrelle,Unknown,,
+Vespertilionidae,Hypsugo,vordermanni,Hypsugo vordermanni,Vordermann's Pipistrelle,Unknown,,
+Vespertilionidae,Ia,io,Ia io,Great Evening Bat,Migratory/Nonmigratory,"NM - Bisson, Mig - M&R2011, nm-W&M2022","Bisson et al. 2009, McGuire & Ratcliffe 2011; Webber & McGuire 2022"
+Vespertilionidae,Idionycteris,phyllotis,Idionycteris phyllotis,Allen's Big-eared Bat,Nonmigratory,NM - Bisson; nm-Medellin,Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Kerivoula,africana,Kerivoula africana,Tanzanian Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,agnella,Kerivoula agnella,St. Aignan's Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,argentata,Kerivoula argentata,Damara Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,crypta,Kerivoula crypta,Cryptic Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,cuprosa,Kerivoula cuprosa,Copper Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,depressa,Kerivoula depressa,Flat-headed Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,dongduongana,Kerivoula dongduongana,Indochina Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,eriophora,Kerivoula eriophora,Ethiopian Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,flora,Kerivoula flora,Flores Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,furva,Kerivoula furva,Dark Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,intermedia,Kerivoula intermedia,Small Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,kachinensis,Kerivoula kachinensis,Kachin Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,krauensis,Kerivoula krauensis,Krau Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,lanosa,Kerivoula lanosa,Lesser Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,lenis,Kerivoula lenis,Lenis Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,malpasi,Kerivoula malpasi,Sri Lankan  Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,minuta,Kerivoula minuta,Least Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,muscina,Kerivoula muscina,Fly River Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,myrella,Kerivoula myrella,Bismarck's Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,pellucida,Kerivoula pellucida,Clear-winged Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,phalaena,Kerivoula phalaena,Spurrell's Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,picta,Kerivoula picta,Painted Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,pusilla,Kerivoula pusilla,Tiny Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,smithii,Kerivoula smithii,Smith's Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Kerivoula,titania,Kerivoula titania,Titania's Woolly Bat,Unknown,,
+Vespertilionidae,Kerivoula,whiteheadi,Kerivoula whiteheadi,Whitehead's Woolly Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Laephotis,angolensis,Laephotis angolensis,Angolan Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Laephotis,kirinyaga,Laephotis kirinyaga,East African Serotine,Unknown,,
+Vespertilionidae,Laephotis,malagasyensis,Laephotis malagasyensis,Isalo Serotine,Unknown,,
+Vespertilionidae,Laephotis,matroka,Laephotis matroka,Malagasy Serotine,Unknown,,
+Vespertilionidae,Laephotis,namibensis,Laephotis namibensis,Namibian Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Laephotis,robertsi,Laephotis robertsi,Robert&apos;s Serotine,Unknown,,
+Vespertilionidae,Laephotis,stanleyi,Laephotis stanleyi,Stanley's Serotine,Unknown,,
+Vespertilionidae,Laephotis,wintoni,Laephotis wintoni,de Winton's Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Lasiurus,arequipae,Lasiurus arequipae,Arequipa Cinnamon Bat,Unknown,,
+Vespertilionidae,Lasiurus,atratus,Lasiurus atratus,Handley's Red Bat,Unknown,,
+Vespertilionidae,Lasiurus,castaneus,Lasiurus castaneus,Tacarcunan Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Lasiurus,degelidus,Lasiurus degelidus,Jamaican Red Bat,Unknown,,
+Vespertilionidae,Lasiurus,ebenus,Lasiurus ebenus,Blackish Red Bat,Unknown,,
+Vespertilionidae,Lasiurus,egregius,Lasiurus egregius,Big Red Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Lasiurus,frantzii,Lasiurus frantzii,Desert Red Bat,Potential Migrant/Potential Nonmigrant,"some sources in Rojas-Herrera suggest migratory, Rojas-Herrera suggests non-migratory (with some altitudinal migration…)",Rojas-Herrera et al 2023
+Vespertilionidae,Lasiurus,insularis,Lasiurus insularis,Cuban Yellow Bat,Unknown,,
+Vespertilionidae,Lasiurus,minor,Lasiurus minor,Minor Red Bat,Unknown,,
+Vespertilionidae,Lasiurus,pfeifferi,Lasiurus pfeifferi,Pfeiffer's Red Bat,Unknown,,
+Vespertilionidae,Lasiurus,semotus,Lasiurus semotus,Hawaiian Hoary Bat,Potential Migrant,mention of altitudinal migration - Hsuing 2018 (cites Menard 2001 - has circumstantial evidence of at least partial migration),"Hsuing 2018, Menard 2001"
+Vespertilionidae,Lasiurus,varius,Lasiurus varius,Cinnamon Red Bat,Unknown,,
+Vespertilionidae,Lasiurus,villosissimus,Lasiurus villosissimus,Hairy Hoary Bat,Unknown,,
+Vespertilionidae,Mirostrellus,joffrei,Mirostrellus joffrei,Joffre's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,aenea,Murina aenea,Bronze Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,annamitica,Murina annamitica,Annamite Mountain Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,aurata,Murina aurata,Little Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,balaensis,Murina balaensis,Bala Tube-nosed bat,Unknown,,
+Vespertilionidae,Murina,beelzebub,Murina beelzebub,Diabolic Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,bicolor,Murina bicolor,Bicolored Tube-nosed Bat,Potential Migrant,some suggestion of possible altitudinal migration - M&B2013,McGuire & Boyle 2013
+Vespertilionidae,Murina,chrysochaetes,Murina chrysochaetes,Golden-haired Tube-nosed bat,Unknown,,
+Vespertilionidae,Murina,cyclotis,Murina cyclotis,Round-eared Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,eleryi,Murina eleryi,Elery&apos;s Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,fanjingshanensis,Murina fanjingshanensis,Fanjingshan Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,feae,Murina feae,Ashy Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,fionae,Murina fionae,Fiona's Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,florium,Murina florium,Flores Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,fusca,Murina fusca,Dusky Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,gracilis,Murina gracilis,Delicate Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,guilleni,Murina guilleni,Guill&eacute;n's Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,harpioloides,Murina harpioloides,Da Lat Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,harrisoni,Murina harrisoni,Harrison&apos;s Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,hilgendorfi,Murina hilgendorfi,Hilgendorf's Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,hkakaboraziensis,Murina hkakaboraziensis,Hkakabo Razi Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,huttonii,Murina huttonii,Hutton's Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,jaintiana,Murina jaintiana,Jaintia Tube-Nosed Bat,Unknown,,
+Vespertilionidae,Murina,jinchui,Murina jinchui,Jinchu's Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,kontumensis,Murina kontumensis,Kon Tum Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,leucogaster,Murina leucogaster,Greater Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,liboensis,Murina liboensis,Libo Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,lorelieae,Murina lorelieae,Lorelie's Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,peninsularis,Murina peninsularis,Peninsular Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,pluvialis,Murina pluvialis,Rainforest Tube-Nosed Bat,Unknown,,
+Vespertilionidae,Murina,puta,Murina puta,Taiwanese Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,recondita,Murina recondita,Dun Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,rozendaali,Murina rozendaali,Gilded Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,ryukyuana,Murina ryukyuana,Ryukyu Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,shuipuensis,Murina shuipuensis,Shuipu Tube-nosed Bat,Unknown,,
+Vespertilionidae,Murina,suilla,Murina suilla,Brown Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,tenebrosa,Murina tenebrosa,Gloomy Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,tubinaris,Murina tubinaris,Scully's Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,ussuriensis,Murina ussuriensis,Ussurian Tube-nosed Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Murina,walstoni,Murina walstoni,Walston's Tube-nosed Bat,Unknown,,
+Vespertilionidae,Myotis,adversus,Myotis adversus,Large-footed Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,altarium,Myotis altarium,Szechwan Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,alticraniatus,Myotis alticraniatus,Indochinese Whiskered Myotis,Unknown,,
+Vespertilionidae,Myotis,ancricola,Myotis ancricola,Valley-dwelling Myotis,Unknown,,
+Vespertilionidae,Myotis,anjouanensis,Myotis anjouanensis,Anjouan Myotis,Unknown,,
+Vespertilionidae,Myotis,annatessae,Myotis annatessae,Anna Tess' Myotis,Unknown,,
+Vespertilionidae,Myotis,annectans,Myotis annectans,Hairy-faced Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,arescens,Myotis arescens,ValparaÃ­so Myotis,Unknown,,
+Vespertilionidae,Myotis,armiensis,Myotis armiensis,ArmiÃ©n's Myotis,Unknown,,
+Vespertilionidae,Myotis,atacamensis,Myotis atacamensis,Atacaman Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,ater,Myotis ater,Peters' Myotis,Unknown,,
+Vespertilionidae,Myotis,attenboroughi,Myotis attenboroughi,Sir David Attenborough's Myotis,Unknown,,
+Vespertilionidae,Myotis,auriculus,Myotis auriculus,Southwestern Myotis,Migratory/Nonmigratory,"NM - Bisson, mig-Medellin",Bisson et al 2009; Medellin 2003
+Vespertilionidae,Myotis,australis,Myotis australis,Australian Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,bakeri,Myotis bakeri,Baker's Myotis,Unknown,,
+Vespertilionidae,Myotis,barquezi,Myotis barquezi,Barquezâ€™s Myotis,Unknown,,
+Vespertilionidae,Myotis,bartelsii,Myotis bartelsii,Bartel's Myotis,Unknown,,
+Vespertilionidae,Myotis,bombinus,Myotis bombinus,Far Eastern Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,borneoensis,Myotis borneoensis,Bornean Whiskered Myotis,Unknown,,
+Vespertilionidae,Myotis,brandtii,Myotis brandtii,Brandt's Myotis,Migratory,"SD - Bisson; RM - Hutterer, RM, M&B2013 - potential alt migrant; SD-B&B2014","Bisson et al. 2009, Hutterer et al. 2005, M&B2013"
+Vespertilionidae,Myotis,bucharensis,Myotis bucharensis,Bokhara Myotis,Unknown,,
+Vespertilionidae,Myotis,carteri,Myotis carteri,Carter's Myotis,Nonmigratory,nm-Medellin2003,Medellin 2003
+Vespertilionidae,Myotis,caucensis,Myotis caucensis,Cauca River Myotis,Unknown,,
+Vespertilionidae,Myotis,chiloensis,Myotis chiloensis,Chilean Myotis,Migratory/Nonmigratory,"mig - W&M2022, NM - Bisson",Webber & McGuire 2022; Bisson et al 2009
+Vespertilionidae,Myotis,chinensis,Myotis chinensis,Large Myotis,Migratory/Nonmigratory,"NM - Bisson, mig-W&M2022",Bisson et al. 2009; Webber & McGuire 2022
+Vespertilionidae,Myotis,clydejonesi,Myotis clydejonesi,Clyde Jones' Myotis,Unknown,,
+Vespertilionidae,Myotis,cobanensis,Myotis cobanensis,Guatemalan Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,crypticus,Myotis crypticus,Hidden Myotis,Unknown,,
+Vespertilionidae,Myotis,davidii,Myotis davidii,David's Myotis,Potential Nonmigrant,putative NM - Moussy 2013,Moussy et al 2013
+Vespertilionidae,Myotis,dieteri,Myotis dieteri,Dieter&apos;s Myotis,Unknown,,
+Vespertilionidae,Myotis,diminutus,Myotis diminutus,Diminutive Myotis,Unknown,,
+Vespertilionidae,Myotis,dinellii,Myotis dinellii,Dinelli's Myotis,Unknown,,
+Vespertilionidae,Myotis,dominicensis,Myotis dominicensis,Dominican Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,evotis,Myotis evotis,Long-eared Myotis,Migratory/Nonmigratory,"mention of potential altitudinal migration - M&B2013, nm-W&M2022, NM - Bisson; mig-Medellin, mention of alt mig - Adams 2018",McGuire & Boyle 2013; Webber & McGuire 2022; Bisson et al 2009; Medellin 2003
+Vespertilionidae,Myotis,extremus,Myotis extremus,,Unknown,,
+Vespertilionidae,Myotis,federatus,Myotis federatus,Malayan Whiskered Myotis,Unknown,,
+Vespertilionidae,Myotis,fimbriatus,Myotis fimbriatus,Fringed Long-footed Myotis,Unknown,,
+Vespertilionidae,Myotis,findleyi,Myotis findleyi,Findley's Myotis,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Myotis,formosus,Myotis formosus,Hodgson's Myotis,Potential Migrant/Nonmigratory,mention of potential altitudinal migration - M&B2013; NM - Bisson,McGuire & Boyle 2013; Bisson et al 2009
+Vespertilionidae,Myotis,fortidens,Myotis fortidens,Cinnamon Myotis,Nonmigratory,"NM - Bisson, nm-W&M2022, nm-Medellin",Bisson et al. 2009; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Myotis,frater,Myotis frater,Fraternal Myotis,Nonmigratory,"NM - Bisson, nm-W&M2022",Bisson et al. 2009; Webber & McGuire 2022
+Vespertilionidae,Myotis,gomantongensis,Myotis gomantongensis,Gomantong Myotis,Unknown,,
+Vespertilionidae,Myotis,handleyi,Myotis handleyi,Handley's Myotis,Unknown,,
+Vespertilionidae,Myotis,hasseltii,Myotis hasseltii,Lesser Large-footed Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,hayesi,Myotis hayesi,Hayes' Thick-thumbed Myotis,Unknown,,
+Vespertilionidae,Myotis,hermani,Myotis hermani,Herman's Myotis,Unknown,,
+Vespertilionidae,Myotis,hoveli,Myotis hoveli,Hovel's Myotis,Unknown,,
+Vespertilionidae,Myotis,hyrcanicus,Myotis hyrcanicus,Hyrcanian Forest Myotis,Unknown,,
+Vespertilionidae,Myotis,ikonnikovi,Myotis ikonnikovi,Ikonnikov's Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,indochinensis,Myotis indochinensis,Indochinese Myotis,Unknown,,
+Vespertilionidae,Myotis,insularum,Myotis insularum,Insular Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,izecksohni,Myotis izecksohni,Izecksohn&apos;s Myotis,Unknown,,
+Vespertilionidae,Myotis,laniger,Myotis laniger,Chinese Water Myotis,Unknown,,
+Vespertilionidae,Myotis,larensis,Myotis larensis,Lara Myotis,Unknown,,
+Vespertilionidae,Myotis,lavali,Myotis lavali,LaVal&apos;s Myotis,Unknown,,
+Vespertilionidae,Myotis,longicaudatus,Myotis longicaudatus,Long-tailed Myotis,Unknown,,
+Vespertilionidae,Myotis,longipes,Myotis longipes,Kashmir Cave Myotis,Nonmigratory,"NM - Bisson, nm-W&M2022",Bisson et al. 2009; Webber & McGuire 2022
+Vespertilionidae,Myotis,macrodactylus,Myotis macrodactylus,Big-footed Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,macrotarsus,Myotis macrotarsus,Pallid Large-footed Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,martiniquensis,Myotis martiniquensis,Schwartz's Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,midastactus,Myotis midastactus,Golden Myotis,Unknown,,
+Vespertilionidae,Myotis,moluccarum,Myotis moluccarum,Maluku Myotis,Unknown,,
+Vespertilionidae,Myotis,montivagus,Myotis montivagus,Burmese Whiskered Myotis,Nonmigratory,"NM - Bisson, nm-W&M2022",Bisson et al. 2009; Webber & McGuire 2022
+Vespertilionidae,Myotis,moratellii,Myotis moratellii,Moratelli's Myotis,Unknown,,
+Vespertilionidae,Myotis,morrisi,Myotis morrisi,Morris' Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,nesopolus,Myotis nesopolus,CuraÃ§ao Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,nimbaensis,Myotis nimbaensis,Nimba Myotis,Unknown,,
+Vespertilionidae,Myotis,nipalensis,Myotis nipalensis,Nepal Myotis,Unknown,,
+Vespertilionidae,Myotis,nustrale,Myotis nustrale,,Unknown,,
+Vespertilionidae,Myotis,nyctor,Myotis nyctor,Silky Cave Myotis,Unknown,,
+Vespertilionidae,Myotis,occultus,Myotis occultus,Arizona Myotis,Potential Migrant,mention of potential altitudinal migration - M&B2013,McGuire & Boyle 2013
+Vespertilionidae,Myotis,pampa,Myotis pampa,Pampas Myotis,Unknown,,
+Vespertilionidae,Myotis,pequinius,Myotis pequinius,Peking Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,petax,Myotis petax,Eastern Water Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,peytoni,Myotis peytoni,Peyton's Whiskered Myotis,Unknown,,
+Vespertilionidae,Myotis,phanluongi,Myotis phanluongi,Phan Luong's Myotis,Unknown,,
+Vespertilionidae,Myotis,pilosatibialis,Myotis pilosatibialis,Hairy-legged Myotis,Unknown,,
+Vespertilionidae,Myotis,pilosus,Myotis pilosus,Rickett's Big-footed Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,planiceps,Myotis planiceps,Flat-headed Myotis,Nonmigratory,"NM - Bisson, nm-Medellin",Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Myotis,pruinosus,Myotis pruinosus,Frosted Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,punicus,Myotis punicus,Maghrebian Myotis,Potential Nonmigrant,putative NM - Moussy 2013,Moussy et al 2013
+Vespertilionidae,Myotis,ridleyi,Myotis ridleyi,Ridley's Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,rosseti,Myotis rosseti,Thick-thumbed Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,ruber,Myotis ruber,Red Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,rufoniger,Myotis rufoniger,Black-winged Myotis,Potential Migrant,mention of potential altitudinal migration - M&B2013,McGuire & Boyle 2013
+Vespertilionidae,Myotis,rufopictus,Myotis rufopictus,Red-painted Myotis,Unknown,,
+Vespertilionidae,Myotis,schaubi,Myotis schaubi,Schaub's Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,scotti,Myotis scotti,Scott's Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,secundus,Myotis secundus,Taiwan Myotis,Unknown,,
+Vespertilionidae,Myotis,sibiricus,Myotis sibiricus,Siberian Myotis,Unknown,,
+Vespertilionidae,Myotis,sicarius,Myotis sicarius,Mandelli's Mouse-eared Myotis,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Myotis,siligorensis,Myotis siligorensis,Himalayan Whiskered Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,simus,Myotis simus,Velvety Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,soror ,Myotis soror ,Reddish Myotis,Unknown,,
+Vespertilionidae,Myotis,sowerbyi,Myotis sowerbyi,Sowerby's Whiskered Myotis,Unknown,,
+Vespertilionidae,Myotis,stalkeri,Myotis stalkeri,Kei Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,tricolor,Myotis tricolor,Temminck's Myotis,Migratory/Nonmigratory,NM - Bisson; MacEwan 2011 report mentions possible mig over ridges; potential mig (present in Nov)-O&V1980,Bisson et al. 2009; MacEwan 2011; O'Shea & Vaughan 1980
+Vespertilionidae,Myotis,tschuliensis,Myotis tschuliensis,Chuli Myotis,Unknown,,
+Vespertilionidae,Myotis,vivesi,Myotis vivesi,Fish-eating Myotis,Nonmigratory,NM - Bisson; nm-W&M2022; nm-Medellin,Bisson et al 2009; Webber & McGuire 2022; Medellin 2003
+Vespertilionidae,Myotis,weberi,Myotis weberi,Weber's Myotis,Unknown,,
+Vespertilionidae,Myotis,welwitschii,Myotis welwitschii,Welwitsch's Myotis,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Myotis,yanbarensis,Myotis yanbarensis,Yanbaru Myotis,Unknown,,
+Vespertilionidae,Myotis,zenatius,Myotis zenatius,Zenati Myotis,Unknown,,
+Vespertilionidae,Neoeptesicus,andinus,Neoeptesicus andinus,Little Black Serotine,Unknown,,
+Vespertilionidae,Neoeptesicus,chiriquinus,Neoeptesicus chiriquinus,Chiriquinan Serotine,Unknown,,
+Vespertilionidae,Neoeptesicus,diminutus,Neoeptesicus diminutus,Diminutive Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Neoeptesicus,innoxius,Neoeptesicus innoxius,Harmless Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Neoeptesicus,langeri,Neoeptesicus langeri,Langer's Serotine,Unknown,,
+Vespertilionidae,Neoeptesicus,orinocensis,Neoeptesicus orinocensis,Orinoco Serotine,Unknown,,
+Vespertilionidae,Neoeptesicus,taddeii,Neoeptesicus taddeii,Taddei&apos;s Serotine,Unknown,,
+Vespertilionidae,Neoeptesicus,ulapesensis,Neoeptesicus ulapesensis,Ulapes Brown Bat,Unknown,,
+Vespertilionidae,Neoromicia,anchietae,Neoromicia anchietae,Anchieta's Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Neoromicia,bemainty,Neoromicia bemainty,Dark Madagascar Serotine,Unknown,,
+Vespertilionidae,Neoromicia,guineensis,Neoromicia guineensis,Guinean Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Neoromicia,hlandzeni,Neoromicia hlandzeni,Lowveld Serotine,Unknown,,
+Vespertilionidae,Neoromicia,zuluensis,Neoromicia zuluensis,Zulu Serotine,Unknown,,
+Vespertilionidae,Nyctalus,aviator,Nyctalus aviator,Birdlike Noctule,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nyctalus,azoreum,Nyctalus azoreum,Azores Noctule,Nonmigratory,putative NM - Moussy 2013; NM - Bisson,Moussy et al 2013; Bisson et al 2009
+Vespertilionidae,Nyctalus,furvus,Nyctalus furvus,Japanese Noctule,Unknown,,
+Vespertilionidae,Nyctalus,montanus,Nyctalus montanus,Mountain Noctule,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nyctalus,plancyi,Nyctalus plancyi,Chinese Noctule,Unknown,,
+Vespertilionidae,Nycticeinops,bellieri,Nycticeinops bellieri,Bellier's Pipistrelle,Unknown,,
+Vespertilionidae,Nycticeinops,crassulus,Nycticeinops crassulus,Broad-headed Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nycticeinops,eisentrauti,Nycticeinops eisentrauti,Eisentraut's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nycticeinops,grandidieri,Nycticeinops grandidieri,Grandidier's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Nycticeinops,happoldorum,Nycticeinops happoldorum,Happolds' Pipistrelle,Unknown,,
+Vespertilionidae,Nycticeinops,macrocephalus,Nycticeinops macrocephalus,Big-headed Pipistrelle,Unknown,,
+Vespertilionidae,Nycticeius,aenobarbus,Nycticeius aenobarbus,Temminck&apos;s Mysterious Bat,Unknown,,
+Vespertilionidae,Nycticeius,cubanus,Nycticeius cubanus,Cuban Evening Bat,Unknown,,
+Vespertilionidae,Nyctophilus,arnhemensis,Nyctophilus arnhemensis,Northern Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nyctophilus,corbeni,Nyctophilus corbeni,Corben's Long-eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,daedalus,Nyctophilus daedalus,Artful Long-Eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,heran,Nyctophilus heran,Sundan Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nyctophilus,holtorum,Nyctophilus holtorum,Holt's Long-eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,howensis,Nyctophilus howensis,Lord Howe Island Long-eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,major,Nyctophilus major,Greater Long-eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,microdon,Nyctophilus microdon,Small-toothed Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nyctophilus,microtis,Nyctophilus microtis,New Guinea Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nyctophilus,nebulosus,Nyctophilus nebulosus,New Caledonian Long-eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,sherrini,Nyctophilus sherrini,Tasmanian Long-eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,shirleyae,Nyctophilus shirleyae,Shirley's Long-eared Bat,Unknown,,
+Vespertilionidae,Nyctophilus,timoriensis,Nyctophilus timoriensis,,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Nyctophilus,walkeri,Nyctophilus walkeri,Pygmy Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Otonycteris,hemprichii,Otonycteris hemprichii,Hemprich's Desert Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Otonycteris,leucophaea,Otonycteris leucophaea,Ashen Desert Bat,Unknown,,
+Vespertilionidae,Pharotis,imogene,Pharotis imogene,Thomas' Big-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Philetor,brachypterus,Philetor brachypterus,Rohu's Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Phoniscus,aerosus,Phoniscus aerosus,Dubious Trumpet-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Phoniscus,atrox,Phoniscus atrox,Groove-toothed Trumpet-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Phoniscus,jagorii,Phoniscus jagorii,Peters' Trumpet-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Phoniscus,papuensis,Phoniscus papuensis,Golden-tipped Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,adamsi,Pipistrellus adamsi,Adams' Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,aero,Pipistrellus aero,Mt. Gargues Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,angulatus,Pipistrellus angulatus,Angulate Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,ceylonicus,Pipistrellus ceylonicus,Kelaart's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,collinus,Pipistrellus collinus,Greater Papuan Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,coromandra,Pipistrellus coromandra,Indian Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,creticus,Pipistrellus creticus,Crete Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,dhofarensis,Pipistrellus dhofarensis,Dhofar Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,endoi,Pipistrellus endoi,Endo's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,hanaki,Pipistrellus hanaki,Hanak&apos;s Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,hesperidus,Pipistrellus hesperidus,Dusky Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,inexspectatus,Pipistrellus inexspectatus,Aellen's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,maderensis,Pipistrellus maderensis,Madeiran Pipistrelle,Nonmigratory,NM - Bisson; nm-W&M2022,Bisson et al. 2009; Webber & McGuire 2022
+Vespertilionidae,Pipistrellus,minahassae,Pipistrellus minahassae,Minahassa Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,murrayi,Pipistrellus murrayi,Christmas Island Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,papuanus,Pipistrellus papuanus,Lesser Papuan Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,paterculus,Pipistrellus paterculus,Mount Popa Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,permixtus,Pipistrellus permixtus,Dar-es-Salaam Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,raceyi,Pipistrellus raceyi,Racey&apos;s Pipistelle,Unknown,,
+Vespertilionidae,Pipistrellus,rusticus,Pipistrellus rusticus,Rusty Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,simandouensis,Pipistrellus simandouensis,Simandou Serotine,Unknown,,
+Vespertilionidae,Pipistrellus,stenopterus,Pipistrellus stenopterus,Narrow-winged Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pipistrellus,sturdeei,Pipistrellus sturdeei,Sturdee's Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,wattsi,Pipistrellus wattsi,Watts' Pipistrelle,Unknown,,
+Vespertilionidae,Pipistrellus,westralis,Pipistrellus westralis,Koopman's Pipistrelle,Unknown,,
+Vespertilionidae,Plecotus,balensis,Plecotus balensis,Bale Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,christii,Plecotus christii,Christie's Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,gaisleri,Plecotus gaisleri,Gaisler's Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,gobiensis,Plecotus gobiensis,Gobi Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,homochrous,Plecotus homochrous,Himalayan Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,kolombatovici,Plecotus kolombatovici,Kolombatovic's Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,kozlovi,Plecotus kozlovi,Kozlov's Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,macrobullaris,Plecotus macrobullaris,Mountain Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,ognevi,Plecotus ognevi,Ognev&apos;s Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,sacrimontis,Plecotus sacrimontis,Japanese Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,sardus,Plecotus sardus,Sardinian Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,strelkovi,Plecotus strelkovi,Strelkov&apos;s Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,taivanus,Plecotus taivanus,Taiwan Long-eared Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Plecotus,teneriffae,Plecotus teneriffae,Canary Long-eared Bat,Nonmigratory,NM - Hutterer; NM - Bisson,Hutterer et al. 2005; Bisson et al 2009
+Vespertilionidae,Plecotus,turkmenicus,Plecotus turkmenicus,Turkmenistan Long-eared Bat,Unknown,,
+Vespertilionidae,Plecotus,wardi,Plecotus wardi,Ward's Long-eared Bat,Unknown,,
+Vespertilionidae,Pseudoromicia,brunnea,Pseudoromicia brunnea,Dark-brown Serotine,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Pseudoromicia,isabella,Pseudoromicia isabella,Isabelline White-winged Serotine,Unknown,,
+Vespertilionidae,Pseudoromicia,kityoi,Pseudoromicia kityoi,Kityo's Serotine,Unknown,,
+Vespertilionidae,Pseudoromicia,mbamminkom,Pseudoromicia mbamminkom,Mbam Minkom Serotine,Unknown,,
+Vespertilionidae,Pseudoromicia,nyanza,Pseudoromicia nyanza,Nyanza Serotine,Unknown,,
+Vespertilionidae,Pseudoromicia,principis,Pseudoromicia principis,PrÃ­ncipeâ€™s Pipistrelle,Unknown,,
+Vespertilionidae,Pseudoromicia,roseveari,Pseudoromicia roseveari,Rosevear's Serotine,Unknown,,
+Vespertilionidae,Rhogeessa,bickhami,Rhogeessa bickhami,Bickham&apos;s Yellow Bat,Unknown,,
+Vespertilionidae,Rhogeessa,genowaysi,Rhogeessa genowaysi,Genoways' Yellow Bat,Nonmigratory,NM - Bisson; nm-Medellin,Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Rhogeessa,hussoni,Rhogeessa hussoni,Husson's Yellow Bat,Unknown,,
+Vespertilionidae,Rhogeessa,io,Rhogeessa io,Thomas' Yellow Bat,Unknown,,
+Vespertilionidae,Rhogeessa,menchuae,Rhogeessa menchuae,Menchu&apos;s Little Yellow Bat,Unknown,,
+Vespertilionidae,Rhogeessa,minutilla,Rhogeessa minutilla,Tiny Yellow Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Rhogeessa,mira,Rhogeessa mira,Least Yellow Bat,Nonmigratory,NM - Bisson; nm-Medellin,Bisson et al. 2009; Medellin 2003
+Vespertilionidae,Rhogeessa,permutandis,Rhogeessa permutandis,Nicaraguan Little Yellow Bat,Unknown,,
+Vespertilionidae,Rhogeessa,velilla,Rhogeessa velilla,Ecuadoran Little Yellow Bat,Unknown,,
+Vespertilionidae,Rhyneptesicus,nasutus,Rhyneptesicus nasutus,Sind Bat,Nonmigratory,NM - Bisson,Bisson et al 2009
+Vespertilionidae,Scotoecus,albigula,Scotoecus albigula,White-throated Lesser House Bat,Unknown,,
+Vespertilionidae,Scotoecus,albofuscus,Scotoecus albofuscus,Light-winged Lesser House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotoecus,pallidus,Scotoecus pallidus,Desert Yellow Lesser House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotomanes,ornatus,Scotomanes ornatus,Harlequin Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotophilus,altilis,Scotophilus altilis,Lesser Brown Bat,Unknown,,
+Vespertilionidae,Scotophilus,andrewreborii,Scotophilus andrewreborii,Andrew Rebori's House Bat,Unknown,,
+Vespertilionidae,Scotophilus,borbonicus,Scotophilus borbonicus,R&eacute;union House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotophilus,colias,Scotophilus colias,Eritrean House Bat,Unknown,,
+Vespertilionidae,Scotophilus,collinus,Scotophilus collinus,Sody's Yellow House Bat,Unknown,,
+Vespertilionidae,Scotophilus,ejetai,Scotophilus ejetai,Ejeta's House Bat,Unknown,,
+Vespertilionidae,Scotophilus,livingstonii,Scotophilus livingstonii,Livingstone's House Bat,Unknown,,
+Vespertilionidae,Scotophilus,marovaza,Scotophilus marovaza,Marovaza House Bat,Unknown,,
+Vespertilionidae,Scotophilus,nigritellus,Scotophilus nigritellus,Western Green House Bat,Unknown,,
+Vespertilionidae,Scotophilus,nucella,Scotophilus nucella,Robbins' House Bat,Unknown,,
+Vespertilionidae,Scotophilus,nux,Scotophilus nux,Nut-colored House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotophilus,robustus,Scotophilus robustus,Robust House Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Scotophilus,tandrefana,Scotophilus tandrefana,Western House Bat,Unknown,,
+Vespertilionidae,Scotophilus,trujilloi,Scotophilus trujilloi,Trujillo's House Bat,Unknown,,
+Vespertilionidae,Scotozous,dormeri,Scotozous dormeri,Dormer's Pipistrelle,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Submyotodon,caliginosus,Submyotodon caliginosus,Mysterious Broad-nosed Bat,Unknown,,
+Vespertilionidae,Submyotodon,latirostris,Submyotodon latirostris,Broad-nosed Bat,Unknown,,
+Vespertilionidae,Submyotodon,moupinensis,Submyotodon moupinensis,Moupin Broad-nosed Bat,Unknown,,
+Vespertilionidae,Thainycteris,aureocollaris,Thainycteris aureocollaris,Collared Sprite,Unknown,,
+Vespertilionidae,Thainycteris,torquata,Thainycteris torquata,Necklace Sprite,Unknown,,
+Vespertilionidae,Tylonycteris,fulvida,Tylonycteris fulvida,Amber Bamboo Bat,Unknown,,
+Vespertilionidae,Tylonycteris,malayana,Tylonycteris malayana,Malayan Bamboo Bat,Unknown,,
+Vespertilionidae,Tylonycteris,pachypus,Tylonycteris pachypus,Lesser Bamboo Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Tylonycteris,pygmaea,Tylonycteris pygmaea,Pygmy Bamboo Bat,Unknown,,
+Vespertilionidae,Tylonycteris,tonkinensis,Tylonycteris tonkinensis,Tonkin Bamboo Bat,Unknown,,
+Vespertilionidae,Vespadelus,douglasorum,Vespadelus douglasorum,Yellow-lipped Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
+Vespertilionidae,Vespertilio,sinensis,Vespertilio sinensis,Asian Particolored Bat,Nonmigratory,NM - Bisson,Bisson et al. 2009
