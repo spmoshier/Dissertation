@@ -1,4 +1,4 @@
-This is a repository for data, scripts, figures, and any extra information from my dissertation. 
+This is a repository for data, scripts, figures, and supplemental information from my dissertation. 
 
 Chapter 2 - Bats On The Move
 
