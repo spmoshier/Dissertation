@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phylogeneticFactorAnalysis name="pfa_output_run5" partitionSeed="888" mcmcSeed="888" standardizeTraits="true">
+  <data traits="simdat_newL5.csv" tree="simtree.txt"/>
+  <orthogonalShrinkagePrior forceDescendingScales="true" scaleSpacing="0.9"/>
+  <modelSelection repeats="5" burnin="0.25">
+    <nFactors>2 2 2 2</nFactors>
+    <shrinkageStrength>3 10 30 100</shrinkageStrength>
+  </modelSelection>
+</phylogeneticFactorAnalysis>
+

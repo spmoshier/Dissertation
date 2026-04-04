@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phylogeneticFactorAnalysis name="pfa_output" partitionSeed="888" mcmcSeed="888" overwrite="true" standardizeTraits="true">
+  <data traits="simdat.csv" tree="simtree.txt"/>
+  <iidPrior constraint="orthogonal"/>
+  <modelSelection repeats="5" burnin="0.25">
+    <nFactors>2</nFactors>
+  </modelSelection>
+</phylogeneticFactorAnalysis>
+
