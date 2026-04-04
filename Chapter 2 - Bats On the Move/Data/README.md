@@ -1,7 +1,5 @@
 # Bats on the move: modeling seasonal changes in species distributions on a global scale
 
-Dataset DOI: [10.5061/dryad.3bk3j9m17](https://doi.org/10.5061/dryad.3bk3j9m17)
-
 ## Description of the data and file structure
 
 Data generated from SDM analyses (tiff files) and results files necessary for post-model processes and analyses.
